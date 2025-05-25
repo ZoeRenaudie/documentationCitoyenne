@@ -1,9 +1,16 @@
 [
   {
+    "objectID": "apropos.html",
+    "href": "apropos.html",
+    "title": "À propos",
+    "section": "",
+    "text": "À propos\nCette page rend compte de mes prises de notes, réflexions et références récoltées lors de ce séminaire de recherche.\nIl me permet aussi d’apprendre à mettre en ligne un site avec Quarto et Git Hub."
+  },
+  {
     "objectID": "hello.html",
     "href": "hello.html",
-    "title": "",
+    "title": "Documentation citoyenne",
     "section": "",
-    "text": "Hello World"
+    "text": "Documentation citoyenne\nBienvenue sur le cahier de cours de Zoë Renaudie\nProfesseure : Johanne Lamoureux Séminaire PLU 7000"
   }
 ]
