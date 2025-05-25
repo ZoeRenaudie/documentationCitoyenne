@@ -1,3 +1,24 @@
 project:
   type: website
   output-dir: docs
+
+website:
+  title: "Documentation citoyenne"
+  navbar:
+    left:
+      - text: Accueil
+        href: hello.qmd
+      - text: À propos
+        href: apropos.qmd
+      - text: Notes de recherche
+        menu:
+          - text: Premier cours
+            href: notes/cours-01.qmd
+          - text: Deuxième cours
+            href: notes/cours-02.qmd
+          - text: Lecture
+            href: notes/lectures-01.qmd
+          - text: Lecture
+            href: notes/lecture-02.qmd
+          - text: Lien avec la thèse
+            href: notes/lien-avec-these-01.qmd
