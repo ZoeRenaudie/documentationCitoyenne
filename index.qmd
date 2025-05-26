@@ -3,8 +3,7 @@ title: "Documentation citoyenne"
 format: html
 ---
 
-Bienvenue dans mon site de documentation.
+**Bienvenue sur le cahier de cours de Zoë Renaudie** 
 
-- [Journal de bord](hello.qmd)
-- [Prise de notes](notes/cours-01.qmd)
-- [Lien avec la thèse](notes/lien-avec-these-01.qmd)
+Sous la direction de Johanne Lamoureux
+Séminaire PLU 7000

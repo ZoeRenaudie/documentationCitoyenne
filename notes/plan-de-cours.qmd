@@ -5,21 +5,31 @@ tags: [muséologie citoyenne]
 description: "Co-construction du plan de cours"
 ---
 
+## INTRO
+
+06 mai : Discussion  
+08 mai : Introduction  
+
 ## BLOC 1 : Présence/Absence
 
+13 mai : KOLBOWSKI 
+15 mai: WARD et PAYANT
 
+20 mai : Plénitude et Présense, Gombrech
+22 mai : Davis, https://www.tandfonline.com/doi/epdf/10.1300/J082v27n01_07?needAccess=true
 
 ## BLOC 2 : Évènement
 
-
+27 mai : Définition évènement
+29 mai : 
 
 ## BLOC 3 : Collaboratif
 
-- Présentation Display
+Présentation Display
 
 ## BLOC 4 : Enquête
 
-- Présentation de texte
+Présentation de texte
 
 ## BILAN
 
