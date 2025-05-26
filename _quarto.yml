@@ -8,10 +8,8 @@ website:
     left:
       - text: Accueil
         href: index.qmd
-      - text: Journal
-        href: hello.qmd
       - text: À propos
-        href: apropos.qmd
+        href: hello.qmd
       - text: Notes de recherche
         menu:
           - text: Plan de cours
