@@ -9,8 +9,10 @@ website:
       - text: Accueil
         href: index.qmd
       - text: À propos
+        href: apropos.qmd
+      - text: Journal
         href: hello.qmd
-      - text: Notes de recherche
+      - text: Notes
         menu:
           - text: Plan de cours
             href: notes/plan-de-cours.qmd
@@ -34,5 +36,3 @@ website:
             href: notes/lectures-01.qmd
           - text: Lecture
             href: notes/lecture-02.qmd
-          - text: Lien avec la thèse
-            href: notes/lien-avec-these-01.qmd
