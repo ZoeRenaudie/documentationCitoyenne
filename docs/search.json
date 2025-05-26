@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "apropos.html",
+    "href": "apropos.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Cette page rend compte de mes prises de notes, réflexions et références récoltées lors de ce séminaire de recherche.\nIl me permet aussi d’apprendre à mettre en ligne un site avec Quarto et Git Hub.\nLes prises de notes de cours ont été prises en collaboration avec Camille Delattre sur la plateforme Hedgedog.\nDans la partie Journal j’ai compilé mes réflexions personnelles en rapport avec le séminaire et les liens avec ma thèse.\nDans la partie Notes j’ai placé les prises de notes, fiches de lecture, etc."
+  },
+  {
     "objectID": "notes/cours-04.html",
     "href": "notes/cours-04.html",
     "title": "Présence et plénitude #2",
@@ -30,9 +37,9 @@
   {
     "objectID": "hello.html",
     "href": "hello.html",
-    "title": "À propos",
+    "title": "Journal de recherche",
     "section": "",
-    "text": "Cette page rend compte de mes prises de notes, réflexions et références récoltées lors de ce séminaire de recherche.\nIl me permet aussi d’apprendre à mettre en ligne un site avec Quarto et Git Hub.\nLes prises de notes de cours ont été prises en collaboration avec Camille Delattre sur la plateforme Hedgedog.\nJoanne, le 20 mai 2025 : “J’ai affaire à deux perverses. Elle [moi] essaye de nous construire une illusion de présence.”"
+    "text": "Joanne, le 20 mai 2025 : “J’ai affaire à deux perverses. Elle [moi] essaye de nous construire une illusion de présence.”"
   },
   {
     "objectID": "index.html",
