@@ -5,10 +5,10 @@ tags: [philosophie, évènement, définition, temporalité, contingence, phénom
 description: "Une exploration pluridisciplinaire de la notion d'évènement, de sa définition courante à ses implications philosophiques et culturelles."
 ---
 
-Événement ou évènement, je préfère l'accent grave.
+Événement ou évènement, je préfère l'accent grave. Pour cet exercice nous devions trouver des définitions de l'évènement. 
 
 ## Définition générale
-Premièrement, parce que j'ai promis de fournir la definition [Larousse](https://www.larousse.fr/dictionnaires/francais/évènement/31839) :
+Premièrement, parce que j'ai promis de fournir la définition [Larousse](https://www.larousse.fr/dictionnaires/francais/évènement/31839) :
 1. **Définition générale** :
    - Un évènement est quelque chose qui se produit ou arrive, souvent de  manière notable ou significative. Cela peut inclure des incidents, des  célébrations, des réunions, des accidents, etc.
 2. **En physique** :
@@ -18,7 +18,7 @@ Premièrement, parce que j'ai promis de fournir la definition [Larousse](https:/
 
 ## Définition CIECO
 
-Mélanie Boucher, Johanne Lamoureux définissent l'évènement en muséologie comme un phénomène qui influence profondément la production culturelle contemporaine et les musées. 
+Mélanie Boucher, Johanne Lamoureux et Marie Fraser définissent l'évènement en muséologie comme un phénomène qui influence profondément la production culturelle contemporaine et les musées. 
 
 Leur ouvrage "Réinventer la collection : l'art et le musée au temps de l'évènementiel" explore comment l'évènementiel influence les collections muséales et les pratiques curatoriales, confirmant l'avènement d'un temps convulsif évènementiel qui vient ébranler le cours tranquille et le temps figé du récit canonique des collections dites « permanentes.
 
@@ -29,17 +29,30 @@ Elles soulignent que les contraintes de l'impératif évènementiel sont inévit
 Référence : "Cette notion d’évènement, au cœur de la réflexion, est définie dans les premières pages de l’introduction. Après avoir convoqué François Dosse, ainsi qu’Edgar Morin, Pierre Nora, Paul Ricœur, les chercheuses observent les différents sens qu’on lui donne aujourd’hui, dans nos vies. L’évènement est « devenu une mesure du temps » qui sert « à découper et à organiser notre affairement ordinaire » en une mosaïque d’entrées à l’agenda. Mais l’évènement prétend aussi, et encore, « à l’exception et l’extraordinaire » et « continue à se déchaîner partout autour de nous ». Il apparaît « comme forme vide du triomphe des communications, se donne partout, tout le temps, dans les actualités, dans la publicité, comme un phénomène d’amplification et de redondance » (p. 2-3)." Giguère, Amélie. 2023. « Mélanie Boucher, Marie Fraser & Johanne Lamoureux (dir.), 2023. Réinventer la collection. L’art et le musée au temps de l’évènementiel ». Culture & musées 42:272‑77. https://doi.org/10.4000/culturemusees.11138.
 
 ## Définitions particulières
-Voici la liste que Mistral me sort :
+
+- **Wood et Nagel** :
+
+   - « l'auteur ne se contente pas de livrer un paquet d'informations préexistant; il crée quelque chose qui n'existait pas auparavant. C'est l'agent qui fait de l' œuvre un événement ponctuel. » p.7
+   - Référence : Wood, Christopher S., et Alexander Nagel. 2010. Anachronic Renaissance. https://press.princeton.edu/books/paperback/9781942130345/anachronic-renaissance.
+
+- **Planté et Thérenty** :
+
+   - Se sont posés la question par rapport à la presse : hommes et femmes vivent-ils les mêmes événements et sont-ils pris dans une même temporalité ?
+   - Référence : Planté, Christine, et Marie-Ève Thérenty. 2022. « Introduction ». In Féminin/Masculin dans la presse du XIXe siècle, édité par Isabelle Matamoros, 5‑36. Des deux sexes et autres. Lyon: Presses universitaires de Lyon. https://doi.org/10.4000/books.pul.44088.
 
 - **Gilles Deleuze** :
 
-  - Dans son œuvre, Deleuze aborde l'évènement comme une rupture dans le cours normal des choses, un moment de changement ou de transformation  imprévisible.
-  - Référence : Deleuze, G. (1969). *Logique du sens*. Éditions de Minuit.
+  - Deleuze aborde l'évènement comme une rupture dans le cours normal des choses, un moment de changement ou de transformation  imprévisible. Une actualisation. « C’est ce qu’on appelle l’Evénement, ou la part dans tout ce qui arrive de ce qui échappe à sa propre actualisation. L’événement n’est pas du tout l’état de choses, il s’actualise dans un état de choses, dans un corps, dans un vécu, mais il a une part ombrageuse et secrète, qui ne cesse de s’ajouter à son actualisation.» p.9
+  - Référence : Deleuze, Gilles (1969). *Logique du sens*. Éditions de Minuit.
 
 - **Martin Heidegger** :
 
   - Heidegger utilise le terme "Ereignis" pour désigner un processus par lequel l'être se manifeste dans le temps, soulignant l'importance de  l'évènement dans la compréhension de l'être.
   - Référence : Heidegger, M. (1962). *Être et Temps*. Gallimard.
+
+  - **Bal** :
+   - discursive event
+   - Référence : 
 
 - **Alain Badiou** :
 
@@ -50,47 +63,14 @@ Voici la liste que Mistral me sort :
 
   - Ces philosophes phénoménologues explorent l'évènement en relation  avec l'expérience vécue, mettant l'accent sur la manière dont les  phénomènes se présentent à la conscience.
   - Références :
-    - Husserl, E. (1913). *Idées directrices pour une phénoménologie*. Gallimard.
-    - Merleau-Ponty, M. (1945). *Phénoménologie de la perception*. Gallimard.
-
-- **Donald Davidson** :
-
-  - Davidson discute de la nature des évènements en termes de causalité  et de relations entre les faits, explorant comment les évènements  peuvent être causés et peuvent causer d'autres évènements.
-  - Référence : Davidson, D. (1980). *Essays on Actions and Events*. Oxford University Press.
+    - Husserl, Edmund (1913). *Idées directrices pour une phénoménologie*. Gallimard.
+    - Merleau-Ponty, Maurice (1945). *Phénoménologie de la perception*. Gallimard.
 
 - **Jacques Derrida** :
 
   - Derrida examine la manière dont les évènements sont construits et  interprétés à travers le langage, soulignant que l'évènement est  toujours déjà interprété et médiatisé par des structures linguistiques  et conceptuelles.
-  - Référence : Derrida, J. (1967). *De la grammatologie*. Éditions de Minuit.
+  - Référence : Derrida, Jacques (1967). *De la grammatologie*. Éditions de Minuit.
 
-Que des hommes, j'ai donc demandé des femmes : 
-
-- **Hannah Arendt** :
-
-   - Arendt explore l'idée de l'évènement en relation avec l'action et la politique. Pour elle, les évènements sont des moments où l'action  humaine crée quelque chose de nouveau et d'imprévisible.
-   - Référence : Arendt, H. (1958). *The Human Condition*. University of Chicago Press.
-
-- **Simone de Beauvoir** :
-
-   - Bien que de Beauvoir soit surtout connue pour ses travaux sur  l'existentialisme et le féminisme, ses réflexions sur la liberté et  l'action humaine touchent également à la notion d'évènement comme moment de transformation et de choix.
-   - Référence : de Beauvoir, S. (1949). *Le Deuxième Sexe*. Gallimard.
-
-- **Lucrezia Tornabuoni** :
-
-   - Bien que moins connue, Tornabuoni a écrit sur des thèmes  philosophiques et éthiques qui peuvent être liés à la compréhension des  évènements comme des moments de décision morale et d'action.
-   - Référence : Tornabuoni, L. (œuvres variées, souvent étudiées dans le contexte de la Renaissance italienne).
-
-- **Élisabeth de Bois-Guillaume** :
-
-   - Une philosophe contemporaine qui a travaillé sur des questions de  temporalité et d'évènementialité, explorant comment les évènements  structurent notre expérience du temps.
-   - Référence : de Bois-Guillaume, É. (œuvres et articles académiques variés).
-
-- **Sarah Kofman** :
-
-   - Kofman a écrit sur la philosophie de Nietzsche et Freud, abordant  des questions liées à l'évènement comme rupture et comme moment de  signification dans la vie psychique et culturelle.
-   - Référence : Kofman, S. (1970). *L'Enfance de l'art : Une interprétation de l'esthétique freudienne*. Galilée.
-
-Puis d'autres conceptions du monde que la notre :
 
 - **Philosophie chinoise** :
    - Dans la philosophie chinoise, notamment dans le taoïsme et le  confucianisme, l'idée d'évènement est souvent liée à des concepts de  changement et d'harmonie. Par exemple, le "Yi Jing" (ou "Livre des  Mutations") explore comment les évènements sont des manifestations de  changements dans les forces cosmiques.
@@ -100,15 +80,15 @@ Puis d'autres conceptions du monde que la notre :
    - Dans la philosophie indienne, notamment dans l'hindouisme et le  bouddhisme, les évènements sont souvent compris dans le contexte du  karma, où les actions passées influencent les évènements futurs. Le  concept de "pratityasamutpada" (coproduction conditionnée) dans le  bouddhisme explique comment les évènements sont interconnectés et  dépendants les uns des autres.
    - Référence : Dalai Lama. (1992). *The Meaning of Life: Buddhist Perspectives on Cause and Effect*. Wisdom Publications.
 
-- **Philosophie africaine** :
-   - Dans certaines traditions philosophiques africaines, les évènements  sont souvent compris dans le contexte de la communauté et des ancêtres.  Les évènements peuvent être vus comme des manifestations de forces  spirituelles ou comme des moments où la communauté doit agir ensemble.
-   - Référence : Mbiti, J. S. (1969). *African Religions and Philosophy*. Heinemann.
-
-- **Philosophie autochtone** :
-   - Dans les traditions philosophiques des peuples autochtones, les  évènements sont souvent compris dans le contexte de la relation avec la  nature et les esprits. Les évènements peuvent être vus comme des signes ou des messages des esprits ou de la Terre Mère.
+- **Pensée autochtone** :
+   - Les  évènements seraient souvent compris dans le contexte de la relation avec la  nature et les esprits. Les évènements peuvent être vus comme des signes ou des messages des esprits ou de la Terre Mère.
    - Référence : Deloria, V. (1994). *God Is Red: A Native View of Religion*. Fulcrum Publishing.
 
-- **Philosophie islamique** :
-   - Dans la philosophie islamique, les évènements sont souvent compris  dans le contexte de la volonté divine. Les évènements sont vus comme des manifestations de la volonté d'Allah, et les humains sont encouragés à  accepter et à comprendre ces évènements dans le cadre de leur foi.
-   - Référence : Nasr, S. H. (1993). *An Introduction to Islamic Cosmological Doctrines*. State University of New York Press.
+## Ma définition avant le séminaire
+
+Un évènement comme je l'entends dans mon travail de recherche sur les expositions est un ensemble d'actions, un processus, qui amène à la publicisation de quelque chose. Pas forcément la monstration d'objets (ex: exposition sur le vide) mais mais plutôt une contingence de paramètres qui rendent quelque chose public. Cela peut inclure des actions, des interactions, des circonstances imprévues, etc. 
+
+L'évènement en conservation-restauration peut aussi bien être l'acquisition que l'exposition de l'objet, mais aussi l'accident qui le cassera en deux. Ce n'est pas seulement l'accident en lui-même qui constitue l'événement, mais le fait que nous en soyons conscients et que cela soit documenté ou publicisé. Cela implique une dimension de communication et de mémoire. 
+
+Une exposition serait composées d'évènements, bien qu'usuellement une exposition est considérée comme un évènement désignant ainsi son itération. Il y a ici un noeud à déméler. 
 
