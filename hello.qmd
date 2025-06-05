@@ -1,9 +1,9 @@
 ---
 title: "Journal de recherche"
+format:
+  html:
+    page-layout: article
 ---
-
-Johanne, le 20 mai 2025 :
-"J’ai affaire à deux perverses. Elle [moi] essaye de nous construire une illusion de présence."
 
 ## I. Introduction
 
@@ -22,6 +22,11 @@ Johanne, le 20 mai 2025 :
 
         Impact sur la documentation des expositions minoritaires.
 
+        « Coco » / Walt Disney Pictures /
+Pixar Animation Studios
+
+[Nos souvenirs, ils doivent être transmis par ceux qui nous ont connus dans la vie – dans les histoires qu’ils racontent sur nous.]{.aside}
+
     15 mai – Ward & Payant, La perte
 
         La perte comme matrice historiographique : lien avec la conservation de l’éphémère.
@@ -30,9 +35,10 @@ Johanne, le 20 mai 2025 :
 
     20 mai – Gumbrecht, Production de présence
 
-        Distinction présence / signification : quelle valeur pour la muséologie ?
 
-        Résonances avec les expositions-performances.
+> Johanne, le 20 mai 2025 :
+"J’ai affaire à deux perverses. Elle [moi] essaye de nous construire une illusion de présence."
+
 
     22 mai – Winckelmann et Dibutades
 
@@ -47,6 +53,8 @@ Johanne, le 20 mai 2025 :
         Définir l’événement au croisement de l’histoire, de la philosophie et de l’art.
 
         Réflexions méthodologiques pour intégrer l’événement dans une documentation vivante.
+
+        
 
     29 mai – Fraser & Prioul, Performance et exposition
 
@@ -64,11 +72,9 @@ J’ai commencé par introduire brièvement le parcours de Caillet, professeure 
 
 Parmi les points développés :
 
-    L’enquête comme méthode transdisciplinaire : elle traverse la sociologie, l’anthropologie, l’art, et s’adresse aussi aux citoyens. Elle repose sur une posture d’attention, de présence, d’ouverture à l’inattendu.
-
-    L’enquête comme pratique située : incarnée, parfois tâtonnante, elle repose sur l’expérience, la sensibilité, et non sur un cadre rigide. Le chercheur y est à la fois acteur et observateur, et génère lui-même la situation problématique sur laquelle il enquête.
-
-    L’enquête comme outil démocratique : elle vise à faire émerger les problèmes à partir des vécus, en reconnaissant la légitimité des savoirs situés. Elle devient une manière de co-produire des connaissances avec les personnes concernées, notamment dans les marges ou les zones d’invisibilité sociale.
+- L’enquête comme méthode transdisciplinaire : elle traverse la sociologie, l’anthropologie, l’art, et s’adresse aussi aux citoyens. Elle repose sur une posture d’attention, de présence, d’ouverture à l’inattendu.
+- L’enquête comme pratique située : incarnée, parfois tâtonnante, elle repose sur l’expérience, la sensibilité, et non sur un cadre rigide. Le chercheur y est à la fois acteur et observateur, et génère lui-même la situation problématique sur laquelle il enquête.
+- L’enquête comme outil démocratique : elle vise à faire émerger les problèmes à partir des vécus, en reconnaissant la légitimité des savoirs situés. Elle devient une manière de co-produire des connaissances avec les personnes concernées, notamment dans les marges ou les zones d’invisibilité sociale.
 
 J’ai ensuite partagé un exemple qui m’est cher : The Early Years: 1970–1983, Archives Project #1 d’Annie Leibovitz, une exposition qui mobilise l’archive comme médium et comme terrain d’enquête personnelle et collective.
 
@@ -76,54 +82,46 @@ Le lien avec la conservation-restauration s’est ensuite construit autour de la
 
 J’ai proposé plusieurs pistes de résonance avec une documentation muséale citoyenne :
 
-    L’intérêt pour les voix marginalisées et les savoirs vécus.
-
-    La reconnaissance de l’expérience sensible comme savoir légitime.
-
-    L’idée que documenter, c’est déjà enquêter : enquêter sur ce qui fait problème, sur ce qui échappe, sur ce qui résiste à l’archive traditionnelle.
-
-    La nécessité de penser des formes de restitution qui soient accessibles, sensibles, engageantes : expositions documentaires, auto-ethnographie, récits collaboratifs…
+- L’intérêt pour les voix marginalisées et les savoirs vécus.
+- La reconnaissance de l’expérience sensible comme savoir légitime.
+- L’idée que documenter, c’est déjà enquêter : enquêter sur ce qui fait problème, sur ce qui échappe, sur ce qui résiste à l’archive traditionnelle.
+- La nécessité de penser des formes de restitution qui soient accessibles, sensibles, engageantes : expositions documentaires, auto-ethnographie, récits collaboratifs…
 
 J’ai terminé sur une question ouverte : Et si la documentation n’était pas une technè mais une hexis ? Un savoir-être au monde, une disposition éthique et politique.
 
 Les échanges ont été riches : nous avons discuté de l’articulation entre participation et expertise, des liens entre enquête et performance, et de la possibilité d’une muséologie qui écoute au lieu d’expliquer. J’ai beaucoup apprécié les retours sur l’idée d’enquête comme co-présence, et sur la tension entre l’archive comme conservation et l’enquête comme transformation.
+[Johanne m'a conseillé de developper mon utilistation du terme "objet" pour l'exposition.]{.aside}
 
 Cette séance a renforcé ma conviction que la documentation n’est pas neutre, qu’elle est profondément située, politique, et potentiellement transformatrice. C’est une posture que je continuerai à explorer et à défendre dans mon travail, notamment dans les projets où j’enquête à partir des marges de l’exposition – là où l’institution documente peu, mais où la mémoire collective se construit malgré tout.
+[Revient toujours dans mes propos l'espace immaginaire comme lieu d'existance. À explorer.]{.aside}
 
-Johanne m'a conseillé de developper mon utilistation du terme "objet" pour l'exposition. 
+::: {.callout-note}
 
-::: {.callout-tip}
-
-Encadré : rapport avec ma thèse
+**Encadré : rapport avec ma thèse**
 
 L'enquête pragmatise repose sur l’idée que chacun est « expert de sa propre expérience », et que cette expérience doit être entendue, traduite, transmise – non par surplomb, mais depuis l’intérieur d’un monde vécu. 
 
-    « L’observation directe [est] la seule méthode légitime pour percer le social. Elle stipule [...] la participation des acteurs sociaux à la production des connaissances, leur accordant une place théorique en tant qu’interprètes du monde qui les entoure. » (p. 59) 
+> « L’observation directe [est] la seule méthode légitime pour percer le social. Elle stipule [...] la participation des acteurs sociaux à la production des connaissances, leur accordant une place théorique en tant qu’interprètes du monde qui les entoure. » (p. 59) 
 
 C’est exactement cette posture que j’adopte dans mon travail de recherche. J’enquête sur les expositions non depuis une distance critique, mais depuis l’intérieur même de leur fabrication.  
 
 À la manière de ce que Caillet nomme une "enquête sur les marges", mon travail documentaire à Luma par exemple s’est attaché aux objets qui échappent aux méthodes classiques : des œuvres complexes, temporaires, relationnelles, parfois même hybrides entre exposition, architecture et performance. Ces œuvres — un café-restaurant, un toboggan, une installation évolutive — résistent aux protocoles documentaires standards, car elles sont autant des environnements que des objets. 
 
 Cela me confronte à des questions très concrètes, très situées, mais cruciales : 
+- Comment conserver la mémoire d’une œuvre qui n’a pas d’objet ? 
+- Comment activer une œuvre sans savoir comment elle a été montée ? 
+- Quel est la matérialité de ces oeuvres et quel est mon impact dans sa conservation ? 
+- Comment documenter l’intention, les matériaux, les gestes techniques ? 
 
-    Comment conserver la mémoire d’une œuvre qui n’a pas d’objet ? 
-
-    Comment activer une œuvre sans savoir comment elle a été montée ? 
-
-    Quel est la matérialité de ces oeuvres et quel est mon impact dans sa conservation ? 
-
-    Comment documenter l’intention, les matériaux, les gestes techniques ? 
-
-« L’enquête [pragmatique] est une manière de présenter et de résoudre ce que des situations ont de problématique. Elle surgit au cœur du réel, depuis une situation qui, du fait même de l’incursion de l’enquêteur, devient matière de l’enquête. » (p. 61) 
+> « L’enquête [pragmatique] est une manière de présenter et de résoudre ce que des situations ont de problématique. Elle surgit au cœur du réel, depuis une situation qui, du fait même de l’incursion de l’enquêteur, devient matière de l’enquête. » (p. 61) 
 
 Dans cette perspective, le problème devient le moteur même de la documentation. On ne documente pas uniquement ce qu’on a fait, mais ce qui a posé question, ce qui a nécessité un choix, une adaptation, une solution. Et cela rejoint encore le cœur du modèle pragmatiste : 
 
-    « La créativité apparaît [...] comme une ouverture à de nouvelles façons d’agir [...] à même d’insuffler l’action appropriée. [...] Le succès d’une enquête dépend de la pertinence des actions engagées. » (p. 62 
+> « La créativité apparaît [...] comme une ouverture à de nouvelles façons d’agir [...] à même d’insuffler l’action appropriée. [...] Le succès d’une enquête dépend de la pertinence des actions engagées. » (p. 62)
 
 Ma démarche vise aussi à reconnaître la légitimité des savoirs informels portés par les techniciens, les artistes, les coordinateur·rice·s. Dans l’esprit de la co-enquête, je considère leurs récits, leurs documents, leurs intuitions comme des ressources à part entière — parfois plus précieuses qu’un rapport officiel. 
 
 Enfin, et c’est peut-être là le lien le plus fort avec l’analyse de Caillet, cette documentation s’inscrit dans une visée démocratique : produire des archives accessibles, activables et utiles, non seulement pour les chercheur·euses, mais pour les professionnel·le·s, les publics, les artistes et les institutions elles-mêmes. 
-
 :::
 
     5 juin – Simone & Bishop, Participation

@@ -1,7 +1,9 @@
 ---
 title: "Présence et plénitude #1"
 date : 2025-05-13
-
+format:
+  html:
+    page-layout: article
 ---
 
 #### Liste des artistes Kobolwski

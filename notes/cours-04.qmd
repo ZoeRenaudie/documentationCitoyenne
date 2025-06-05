@@ -1,8 +1,9 @@
 ---
 title: "Présence et plénitude #2"
 date : 2025-05-15
-
-
+format:
+  html:
+    page-layout: article
 ---
 
 #### Regarder des textes à l'origine d'un discours sur un objet aujourd'hui consacré

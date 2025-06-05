@@ -32,7 +32,15 @@ website:
             href: notes/cours-05.qmd
           - text: Sixième cours
             href: notes/cours-06.qmd
+          - text: Septième cours
+            href: notes/cours-07.qmd
+          - text: Huitième cours
+            href: notes/cours-08.qmd    
+          - text: Neuvième cours
+            href: notes/cours-09.qmd                                
           - text: Lecture
             href: notes/lectures-01.qmd
           - text: Lecture
             href: notes/lecture-02.qmd
+          - text: Bibliographie
+            href: notes/biblio.qmd

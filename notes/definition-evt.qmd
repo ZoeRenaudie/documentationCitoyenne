@@ -92,3 +92,6 @@ L'évènement en conservation-restauration peut aussi bien être l'acquisition q
 
 Une exposition serait composées d'évènements, bien qu'usuellement une exposition est considérée comme un évènement désignant ainsi son itération. Il y a ici un noeud à déméler. 
 
+## Ma définition après le séminaire
+
+Il existe différemts types d'événements. 

@@ -1,9 +1,14 @@
 ---
 title: "Documentation citoyenne"
-format: html
+format:
+  html:
+    page-layout: full
 ---
 
 **Bienvenue sur le cahier de cours de Zoë Renaudie** 
 
 Sous la direction de Johanne Lamoureux
-Séminaire PLU 7000
+
+PLU 7000 Séminaire intégrateur de muséologie
+La muséologie citoyenne : documentation
+Été 2025

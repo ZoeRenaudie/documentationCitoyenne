@@ -1,6 +1,9 @@
 ---
 title: "Présence et plénitude #3"
 date : 2025-05-20
+format:
+  html:
+    page-layout: article
 ---
 
 ## Maj plan de cours

@@ -1,7 +1,9 @@
 ---
 title: "Discussion : Pensée par cas"
 date : 2025-05-06
-
+format:
+  html:
+    page-layout: article
 ---
 
 #### Limites de la pensée par cas dans le cadre d'une thèse
