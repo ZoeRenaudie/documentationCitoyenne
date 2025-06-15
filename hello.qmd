@@ -3,6 +3,7 @@ title: "Journal de recherche"
 format:
   html:
     page-layout: article
+    toc: true
 ---
 
 ## I. Introduction
@@ -152,13 +153,13 @@ L'objectif ultime est de transformer notre compréhension de ce que signifie "co
 ## II. Parcours réflexif thématique (6 à 8 pages)
 ### A. Bloc 1 : Présence / Absence
 
-    13 mai – Kolbowski, An Inadequate History of Conceptual Art
+#### 13 mai 2025 : Kolbowski
 
-        Réflexions sur les limites de l’histoire orale et sur les silences constitutifs de l’archive.
+Kolbowski, An Inadequate History of Conceptual Art
 
-        Impact sur la documentation des expositions minoritaires.
-
-        
+    Réflexions sur les limites de l’histoire orale et sur les silences constitutifs de l’archive.
+    
+    Impact sur la documentation des expositions minoritaires.
 
 ["Nos souvenirs, ils doivent être transmis par ceux qui nous ont connus dans la vie – dans les histoires qu’ils racontent sur nous."
 « Coco » / Walt Disney Pictures / Pixar Animation Studios]{.aside}
