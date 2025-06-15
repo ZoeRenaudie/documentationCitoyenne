@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "L’événement sur le terrain de la performance et de l’exposition"
 date : 2025-05-30
 format:
   html:

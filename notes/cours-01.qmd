@@ -39,10 +39,8 @@ format:
 #### Qu'est-ce que serait une documentation citoyenne ?
 
 - Poser la question en France et au Québec est différent.
-- **France :** Pensée comme le creuset de la république : diversité sociale dans un grand fantasme de la citoyenneté. Privilégié  par rapport aux communautés.
-- **Québec :** Proche des communautés.
-- **France :** Vision de la désignation citoyenne  favorable aux communautés, car inclusive alors que les communautés  fragmentent. Inverse au Québec.
-- **Québec :** Citoyen est une notion qui excluait historiquement.
+- **France :** Notion de citoyennetée pensée comme le creuset de la république : diversité sociale dans un grand fantasme de la citoyenneté. Privilégié par rapport aux communautés.Vision de la désignation citoyenne  favorable aux communautés, car inclusive alors que les communautés fragmentent. 
+- **Québec :** Inverse au Québec. Citoyen est une notion qui excluait historiquement. Valorise plus le terme de communauté. 
 - Citoyen : on appartient.
 - Musée historiquement dès leur développement au XXe siècle ont vite développé des memberships.
 - Cultiver un sentiment d'appartenance, auprès des citoyens au sens strict du terme, les prochains philanthropes.
@@ -62,15 +60,14 @@ format:
 - McCord :
   - McCord, fait toute sorte d'ateliers. Projet *Prendre soin de nos histoires* à l'initiative "je suis Montréal" Clara Chouinard.
   - Projet qui a utilisé les photographies des collections pour activer les communautés marginalisées.
-  - "je suis Montréal : particularité toutes les communautés minorisées sont représentées.
+  - je suis Montréal : particularité toutes les communautés minorisées sont représentées.
   - Mosaïque de différences. Repenser le modèle universel sur une base  de différences. Tous ensemble. Pas par groupe de mino (lbt, autochtone  etc).
-  - Rien de ça, n'est documenté.
+  - Rien de ça n'est documenté.
   - Protocole qui documente ça aurait pu être très intéressant. Pas mis  en place et c'est un peu grave. Bribes dans les rapports d'activité,  quelques photos et échanges dans les courriels.
   - Un de ces projets d'EXEKO avait collaboré avec le Musée McCord : presta du McCord.
-  - Était allé prendre photo itinérants pour parler des œuvres. Photo conservées mais rien des discours. Sauf une phrase :
-    - "Pourquoi vous faites ça? Vous allez faire quoi avec ça?"
-  - Le fait que ce soit pas documenté = seulement une ligne de la RA, et un branding pour le musée.
-  - Musée a apporté à Johanne, une boîte à chaussures, pleins de photos polaroids, sans savoir vraiment ce que c'était.
+  Était allé prendre photo itinérants pour parler des œuvres. Photo conservées mais rien des discours. Sauf une phrase : "Pourquoi vous faites ça? Vous allez faire quoi avec ça?" grace à Laura Delfino qui en parle. Le fait que ce soit pas documenté = seulement une ligne de la RA, et un branding pour le musée.
+  Musée a apporté à Johanne, une boîte à chaussures, pleins de photos polaroids, sans savoir vraiment ce que c'était.
+  
   - Recherche sur les publics pas sur l'impact de la médiation. Le livre d'or ?
   - Pas de protocole pour la documentation citoyenne.
   - Distinction du modèle participatif, il ne suffit pas de participer pour avoir une action transformative de l'institution.

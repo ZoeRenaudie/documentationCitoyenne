@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: "L’œuvre modèle : essai de genèse curatoriale"
 date : 2025-05-08
 format:
   html:

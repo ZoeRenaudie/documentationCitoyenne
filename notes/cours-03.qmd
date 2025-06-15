@@ -1,5 +1,5 @@
 ---
-title: "Présence et plénitude #1"
+title: "an inadequate history of conceptual art : histoire orale, documentation, lacunes"
 date : 2025-05-13
 format:
   html:

@@ -1,0 +1,8 @@
+---
+title: "Display et bilan"
+date : 2025-06-12
+format:
+  html:
+    page-layout: article
+    
+---

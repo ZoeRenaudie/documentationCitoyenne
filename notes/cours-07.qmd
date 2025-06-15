@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "L’événement : évolution sémantique et migration épistémologique"
 date : 2025-05-27
 format:
   html:

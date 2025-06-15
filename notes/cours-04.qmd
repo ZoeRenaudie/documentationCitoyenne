@@ -1,5 +1,5 @@
 ---
-title: "Présence et plénitude #2"
+title: "La perte : notion constitutive de l’histoire de l’art (et de l’art?). Notes sur la performance"
 date : 2025-05-15
 format:
   html:
