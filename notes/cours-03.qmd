@@ -1,12 +1,13 @@
 ---
-title: "an inadequate history of conceptual art : histoire orale, documentation, lacunes"
+title: "Témoin et expérience"
 date : 2025-05-13
 format:
   html:
     page-layout: article
 ---
 
-## 2025-05-13
+# 13 mai - Témoin et expérience
+ *an inadequate history of conceptual art : histoire orale, documentation, lacunes*
 
 **Liste artistes**
 

@@ -1,5 +1,5 @@
 ---
-title: "Participatif"
+title: "Holling & Gusman - Performance"
 date : 2025-06-10
 format:
   html:
@@ -7,67 +7,50 @@ format:
     
 ---
 
-Présentation Camille
+# 10 juin - Holling & Gusman
 
-Gusman. Intérêts : 
-- politique de la représentation du regard, 
-- histoires de la perf, 
-- documentation de la perd, 
-- critique theatrale. 
+**Présentation Camille Gusman**
 
-Prof adjoint à l'uni de rome en etudes theatrales et performance. 
+Intérêts :
+* Politique de la représentation du regard
+* Histoires de la performance  
+* Documentation de la performance
+* Critique théâtrale
 
-### Initiatives similaires
+Professeure adjointe à l'Université de Rome en études théâtrales et performance.
 
-Suisse Holling, Tate 
-Peu en france
-Performance Sources créé par le Générateur. 
-Cnap ouvre la question. 
+**Initiatives similaires**
+Suisse : Hölling, Tate. Peu en France. Performance Sources créé par le Générateur. CNAP ouvre la question.
 
-### Gusman
+**Gusman**
+La documentation ne vise pas seulement à reconstruire les performances passées mais constitue aussi un outil critique pour analyser la manière dont ce passé et ces récits ont été construits, façonnés par les supports médiatiques utilisés pour les enregistrer. (p.2)
 
-docu pas seulemt reconstruire les perfs passés mais aussi un outils critique pour anallyser la mani:ere dont ce passé et récits ont été construis faconnés par support mediatiques pour les enregistrer. p2
+La représentation de la performance engage une négociation de son identité, de ses propriétés constitutives.
 
-represetnation de la perf engage negociation de son identité, de ses propriété constitutivecommetti
+Pour Hölling, agentivité de la performance en tant qu'œuvre active.
 
-pour holling, agentivité de la perf en tan qu'oeuvre active. 
+Qu'est-ce que la performance ?
 
-Qu'est ce que la perf ?
+**"Ça va trop vite, j'arrive pas à prendre des notes."**
 
+Giannachi : Agencement de Deleuze et Guattari. Construit et transforme le sens que nous attribuons à la performance ainsi que sa valeur artistique et culturelle. Double indice temporel de la documentation : trace du passé et documentation pour l'avenir (Gusman).
 
-**Ca va trop vite j'arrive po à prendre des notes.**
+Hölling : le care.
 
-Giannachi : Agencement de Deleuze et Guattari. construit et transforme le sens que nous attibuons :a la perf ainsi que sa valeur artistique et culturelle. 
-Double indice temporel de la docu : trace du passé et docu pour l'avenir (Gusman)
+**Questions**
+JL pense que Latour sur la partition a lancé les réflexions sur la documentation de la performance.
 
-Holling : le care.
+Multi-sensorialité ?
+→ Tu parles d'une différence dans la définition de la performance entre Hölling (conservation) vs Gusman (reconstitution). Hölling...
+→ Ils ont des sources similaires, est-ce que tu trouves qu'ils ont les mêmes conclusions ? → Gusman cite Hölling.
+→ Care, musée, documentation citoyenne.
 
-### Question
+**Mise en scène : Parcours performatif**
+Musée d'art de Joliette.
+Les visiteurs ne sont plus seulement témoins mais doivent incarner la performance.
+Question sur les ressentis posés au public mais pas en conservation ?
 
-JL pense que Latour sur la partition a lancé les reflexions sur la doc de la perf. 
-
-Multi sensorialité ? 
-
-
---> tu parles d'une difference dans la definition de la perf entre holling conservation vs gusman reconstitution. 
-Hölling 
-
---> ont des sources similaires, est ce que tu trouves qu'ils ont les memes conclusion. 
---> Gusman cite holling. 
-
---> care museo docu citoyenne. 
-
-### Mise en scène : Parcours performatif
-
-Musée d'art Joliette. 
-
-visiteurs plus seulement temoin mais d'incarner la performance. 
-
-question sur les ressenti posés au public mais pas en conservation ?
-
-Pippin Bar, This artist is pesent 2011. 
-
---> petite taille de l'institution
---> a vous de jouer BEURK
+Pippin Barr, "This artist is present" 2011.
+→ Petite taille de l'institution → "À vous de jouer" BEURK
 
 Projet fugitif au MNBAQ

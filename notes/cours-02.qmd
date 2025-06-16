@@ -1,11 +1,13 @@
 ---
-title: "L’œuvre modèle : essai de genèse curatoriale"
+title: "Génèse de l'évènement"
 date : 2025-05-08
 format:
   html:
     page-layout: article
 
 ---
+
+# 08 mai - Habemus Papam - Génèse de l'évènement 
 
 ## plan du séminaire
 

@@ -1,13 +1,12 @@
 ---
-title: "Épiphanies et présentification : le passage par l’éphémère."
+title: "Winckelmann et Dibutades"
 date : 2025-05-22
 format:
   html:
     page-layout: article
 ---
 
-# Histoire de l'art : discipline mélancolique
-*22 mai 2025*
+# 22 mai - Winckelmann et Dibutades
 
 ## Chronologie Winckelmann
 

@@ -1,5 +1,5 @@
 ---
-title: "L’événement : évolution sémantique et migration épistémologique"
+title: "Dosse, Événement et épistémologie"
 date : 2025-05-27
 format:
   html:
@@ -7,7 +7,7 @@ format:
 
 ---
 
-# Notes de cours - 27 mai 2025
+# 27 mai - Dosse, Événement et épistémologie 
 
 ## Nos définitions
 

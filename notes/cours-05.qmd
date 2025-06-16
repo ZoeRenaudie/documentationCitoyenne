@@ -1,4 +1,11 @@
-# Notes de cours - 20 mai 2025
+title: "Gumbrecht, Production de présence"
+date : 2025-05-20
+format:
+  html:
+    page-layout: article
+---
+
+# 20 mai - Gumbrecht, Production de présence
 
 **Organisation de la session :**
 - Cette semaine : absence/présence

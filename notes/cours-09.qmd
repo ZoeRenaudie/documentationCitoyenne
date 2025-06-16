@@ -7,117 +7,210 @@ format:
     
 ---
 
+# 3 juin - Méthode de l’enquête
 
+**Présentation de Zoë. Enquête et démocratie. Le modèle pragmatiste**
 
-### L'art de l'enquête et pragmatisme
+**Documentation citoyenne**
 
-<iframe src="https://1drv.ms/p/c/000a19395c128e06/IQRb2RWdQtf2RbAwqm2FtVH4Ae8Fu4CQlRKCWPlE8YbjH34?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">Ceci est un présentation <a target="_blank" href="https://office.com">Microsoft Office</a> incorporé, avec <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+**Autrice :** 
+Aline Caillet 
 
-### Présentation de l'auteur : Aline Caillet 
+*L'art de l'enquête. Savoirs pratiques et sciences sociales.* 
+2012, Reenactment, article
 
-Aline Caillet est une universitaire française enseignant à l'Université Paris 1 Panthéon-Sorbonne. Elle est professeure des universités en philosophie de l'art et esthétique, théories de la culture, études culturelles, théories de l'art contemporain. Elle est Directrice adjointe de l’EAS : École des arts de la Sorbonne.  
+- Artiste comme nouveau chercheur 
+- Pratique artistique de l'enquête 
 
-### Présentation de l'ouvrage : L’art de l’enquête 
+**Pragmatisme :** met l'accent sur l'expérience sur les fondements de la connaissance. 
 
-Caillet publie « L’art de l’enquête : savoirs pratiques et sciences sociales »  chez les editions mimesis en 2019, deux ans après son premier ouvrage qui lui était collaboratif intitulé l’art documentaire. Pour info Camille, en 2013, Caillet a écrit un article dans Marges sur le reenactment.  
+Caillet, art diagonal. 
 
-L'art de l’enquête c’est un ouvrage de 200 pages et nous nous intéressons aujourd’hui au chapitre 3 « Enquête et démocratie : Le modèle pragmatique ». J’aurais aimé vous fournir le sommaire du livre, mais impossible de le trouver. Ainsi que la bibliographie complète n’ayant que des scans partiels de l’ouvrage. Mais je l’ai commandé et espère pouvoir vous les fournir avant la fin du séminaire.  
+## Plan de la présentation
 
-Dans ce livre, Caillet explore la pratique de l'enquête comme un mode de production du savoir dans les arts contemporains. Elle envisage l'artiste comme un nouveau chercheur, empruntant et adaptant les méthodes des sciences sociales pour créer des formes de savoirs uniques et contextuelles. 
+1. Introduction au modèle pragmatiste de l'enquête, en le situant dans la philosophie de Dewey 
+2. Discussion des origines et des principaux acteurs de ce modèle : École de Chicago 
+3. Exploration des concepts clés du modèle pragmatiste 
+4. Comparaison avec d'autres formes d'enquêtes : enquête sociale et enquête journalistique documentaire
 
-### Principaux thèmes abordés dans l’ouvrage 
+## Concepts clés
 
-Caillet examine comment les artistes utilisent des méthodes d'enquête pour produire des œuvres qui ne se contentent pas de représenter le réel, mais qui le questionnent et le transforment. Cette pratique artistique de l'enquête permet de créer des savoirs enchâssés dans des expériences singulières et contextuelles.  
+**L'enquête comme méthode interdisciplinaire :** dépasse les frontières disciplinaires, convergent vers une démarche d'investigation sans limites a priori. S'adresse aussi aux citoyen·nes. Elle est transdisciplinaire. 
 
-L'ouvrage puise ses sources dans le pragmatisme, une philosophie qui met l'accent sur l'expérience et l'action comme fondements de la connaissance. Caillet montre comment l'enquête artistique peut opérer des décloisonnements entre les disciplines, en expérimentant, mimant et parfois contestant les procédures des sciences sociales. 
+Exemple : biographie de Picasso à partir des archives de police. 
 
-Caillet introduit le concept d'« art diagonal », qui décrit comment l'enquête artistique emprunte des méthodes et des protocoles façonnés par les sciences sociales pour mieux s'en affranchir. Cette approche permet de créer des œuvres qui transcendent les frontières disciplinaires et qui ouvrent de nouvelles perspectives sur les problèmes publics et les enjeux démocratiques. 
+L'enquête ne s'inscrit pas dans une discipline et c'est justement un outil commun et flexible pour penser le réel. Décloisonnement. 
 
-Cet ouvrage est une exploration approfondie de la manière dont les pratiques artistiques de l'enquête peuvent contribuer à une compréhension plus riche et plus nuancée des problèmes publics et des enjeux démocratiques. Aline Caillet montre comment les artistes, en empruntant et en adaptant les méthodes des sciences sociales, peuvent créer des formes de savoirs uniques et contextuelles qui transcendent les frontières disciplinaires.  
+Boltanski ne parle pas de la réalité, mais situe l'enquête en lien avec le monde. Il définit le monde, de manière très proche de l'événement : ce qui arrive ou ce qui pourrait arriver.
 
-### Chapitre 
+**Rapport de l'enquête à l'enquêteur :** 
+Elle arrive à établir le lien entre la pensée pragmatiste et l'enquête.
+Exploration et non pas recherche de la vérité.
 
-Le chapitre III interroge l’enquête pragmatiste non seulement comme une méthode de recherche, mais comme un véritable art du savoir-faire, au croisement des sciences sociales, de la philosophie et de la pratique de terrain. 
+Le terrain est très important pour l'École de Chicago : observation directe.
 
-Structure du chapitre :  
+**L'enquête comme démarche exploratoire :** ouverture à l'inattendu. On ne peut pas prévoir : s'ouvrir à ne pas connaître son problème, se créer en fonction de l'enquêteur et de l'enquête. 
 
-Une introduction au modèle pragmatiste de l'enquête, en le situant dans la philosophie américaine et en mentionnant ses figures fondatrices comme John Dewey. 
+**Agir**
+Posture de recherche : curieuse et humble 
 
-Une discussion des origines et des principaux acteurs de ce modèle, notamment l'École de Chicago (George H. Mead, William I. Thomas, Florian Znaniecki, Robert E. Park) et leurs travaux.  
+**Savoir pratique et intelligence du réel :** 
+Penser l'enquête comme un savoir pratique et non seulement comme un savoir intellectuel et théorique. 
 
-L'exploration des concepts clés du modèle pragmatiste.  
+Résoudre un problème, mais plutôt une problématique qui se façonne durant l'enquête. 
 
-Et enfin une comparaison ou mise en relation de l'enquête pragmatiste avec d'autres formes d'enquête ou d'activités intellectuelles, comme l'enquête sociologique et l'enquête journalistique. 
+Le problème est généré par le processus de l'enquête.
+Processus vivant : processus évolutif. 
 
-1. L’enquête : une méthode transdisciplinaire par essence 
+**Événements :** 
+- L'enquête pragmatiste ne se concentre pas sur l'événement, car l'enquête n'est pas en quête de vérité
+- Cite Dewey
 
-Premièrement l’enquête dépasse les frontières disciplinaires. Sociologie, anthropologie, histoire, ethnologie, géographie… toutes ces disciplines convergent dans une démarche d’investigation sans limites a priori. Mais elle s’adresse aussi au “simple citoyen” p.57.  
-Ainsi, l’enquête n’appartient à aucune discipline, mais s’inscrit dans un espace méthodologique partagé. Elle devient un outil commun pour penser le réel, un outil flexible, qui refuse les cloisonnements. 
+National Gallery de Weisman. 
 
-Au lieu de parler de la realité Bolltanski en parle en rapport avec le monde (tres proche de l’evt).  
+---
 
-2. Un ancrage fort dans le pragmatisme et l’École de Chicago 
+## Notes diverses
 
-Un autre apport fondamental du chapitre est le lien établi entre la pensée pragmatiste — celle de John Dewey, de Charles S. Peirce — et l’enquête. Ces penseurs ont posé les bases d’une enquête vue comme processus dynamique d’accès à la vérité, selon une logique d’exploration. 
+**Musée citoyenne :** ambiance transformationnelle qui la définit par rapport aux musées participatifs. Pour la transformation : partage de projets sur une durée.  
+Engagement avec une dimension temporelle, une durée.   
 
-L’École de Chicago, quant à elle, a incarné ce modèle sur le terrain : les chercheurs comme Thomas, ou Robert E. Park ont expérimenté l’enquête comme pratique incarnée, à travers l’observation directe et l’immersion dans les réalités sociales. Cela implique une présence, un engagement du chercheur, et une capacité à comprendre le monde depuis l’intérieur, plutôt qu’à distance. 
+Comment maintenir un lien qui avait été créé ? Les liens créés sont rompus vu qu'on ne pense pas en réseaux mais en projets. Mélanie Devaux avait expliqué cela. Le musée n'abandonne pas le mode projet, parce qu'il vient avec des livrables donc évaluables.  
 
-3. L’enquête comme démarche exploratoire et ouverte 
+**Écomusée du Fier Monde :** citoyen depuis 2011. Toujours co-créé avec des citoyens. Les gens, peu importe le projet, sont dans des démarches de storytelling. Les gens veulent qu'on raconte leur histoire. Renvoie à la question citoyenne, au terme/sujet citoyen. Pas un travail par enquête.  
 
-Ce qui distingue profondément l’enquête, selon Caillet, c’est sa nature exploratoire, son ouverture à l’inattendu. Contrairement à des méthodes fermées, l’enquête ne cherche pas à prouver un cadre préexistant. Elle s’adapte, elle tâtonne, elle découvre. Elle est « sans limites a priori » (p. 58), et permet d’aborder une vaste échelle de sujets. 
+Lyotard dit qu'il n'y a plus de grands récits. Lui-même continue avec *Le postmoderne expliqué aux enfants* : dit que c'est encore placer le récit comme un grand signifiant. Christian Salmon et storytelling : outil de pouvoir.  
 
-C’est donc une méthode active, au service de la connaissance et de l’action, mais aussi une posture de recherche curieuse et humble. L’auteur parle de  
+Absence de cadre prédéterminé mais pour se laisser libre. Assez confortable de se libérer mais quand on a la connaissance de son médium. Ex : les personnes viennent créer l'expo mais n'ont pas la connaissance muséologique. Se termine par un texte donc un cadre.  
 
-Le chercheur = l’enquêteur génère la situation sur laquelle il va enquêter. P62 
+**Texte à lire :** Ginzburg Carlo, sur Racine sur un paradigme de l'indice.  
 
-4. Savoirs pratiques et intelligence du réel 
+Si on prend du recul : coïncide avec le moment où il y a besoin de reconnaître un statut de chercheur aux artistes. Avant faire une exposition, écrire dans le catalogue = pas de la recherche. Mais maintenant il y a des programmes qui permettent la recherche-création. Le paramètre de l'enquête permet de montrer par où un artiste est un chercheur.  
 
-Caillet propose de penser l’enquête comme un savoir pratique, et non uniquement comme une méthodologie théorique. Elle suggère que l’enquête repose sur une compétence, une forme d’intuition, de sensibilité, de créativité même — autant de qualités qui s’acquièrent par l’expérience. Caillet parle de résoudre un problème mais je pense que c’est plutot adresser une problematique qui n’est pas prédeterminé mais se révèle par l’enquête. 
+**Facteur qu'on gagne toujours à considérer :** le facteur connotatif.  
 
-Observation, sensible : signification est confondue ou elle vient après ? Ingold avec le faire.  
+Le modèle recommandé peut être perçu comme autre chose. Enquête comme enquête policière : pour nuire à la notion d'enquête. Ishiguro : *Les vestiges du jour*. A écrit un livre : *When we were orphans*. Personnage orphelin. L'enquête apporte de l'ordre au final. Les connotations policières ont un rôle à jouer dans la méfiance du terme. La sociologie a beaucoup fait : on sait ce qu'on va trouver. En muséologie, des enquêtes pas pragmatistes.  
 
-5. Une méthode adaptable, un processus vivant 
+**Enquête :** étude par cas. Passeron et Revel.  
 
-Enfin, l’enquête est décrite comme un processus évolutif, qui se modifie au gré des situations. Cette flexibilité méthodologique est essentielle pour saisir la complexité du monde social. L’enquête est dynamique, réactive, et toujours en devenir.  
+Rendre compte des différentes conceptions de l'exposition dans l'enquête. Annoncer définition et hypothèses concurrentielles.   
 
-6. L’événement 
+Si on pense à l'enquête par rapport à l'épiphanie : semblent être opposées. La notion d'enquête est moins passive. Sens différent. L'épiphanie est un apparaître. L'enquête est vraiment située de l'ordre de la révélation. Sentiment d'échec socio-muséologique : manque la révélation. L'enquête est une méthode mais une promesse de révélation. Révélation : quelque chose était caché, on dévoile.  
 
-p.72 dewey dit “Les artistes ont toujours été les veritables pourvoyeurs des nouvelles, car ce n’est pas levt exterieur en lui meme qui est nouveau mais le fait qu’il est embrassé ar l’émotion la perpception et l’appréciation. “ 
+Dans le roman policier : la scène finale de dénouement. Satisfaction de la résolution.  
 
-L’enquête pragmatiste d’ailleurs ne se concentre pas sur l’événement. P. 59  elle n’est pas en quête de la vérité p.67. 
+*Quand les attitudes deviennent formes.*  
 
-7. Exemple 
+---
 
-The Early Years: 1970 - 1983, Archives Project # 1 de Annie Leibovitz en 2017 
+**Référence :**
+Morrissette, Joëlle. 2016. « What About Mozart? What About Murder? Reasoning from Cases, H.S. Becker ». Sociologie du travail 58 (2): 190‑92. https://doi.org/10.4000/sdt.1070.
 
-### Conservation-restauration 
+## Rapport avec la conservation-restauration
 
-Cette approche pragmatiste de l’enquête entre également en résonance avec les enjeux de la conservation-restauration, notamment à travers les réflexions de Jean-Pierre Cometti (qu’elle cite par ailleurs). Dans sa Petite philosophie du constat d’état, il propose de contester l’idée que les propriétés d’un objet sont fixes, intrinsèques, et essentielles. Au contraire, il les rattache à des pratiques et des usages, à des formes de vie partagées, dans lesquelles elles prennent sens. Cela rejoint une conception pragmatiste de l’expérience : un engagement dans une situation, toujours dynamique, où interagissent l’objet, l’agent et l’environnement. Appliquer cela à la documentation ou à la conservation, c’est reconnaître que les œuvres – en particulier les œuvres complexes ou évolutives – ne se laissent pas saisir en dehors des contextes dans lesquels elles ont été pensées, montées, vécues, et que toute tentative de conservation est en réalité une reconstruction située, informée par des croyances, des gestes et des récits. 
+**Documentation citoyenne**
 
-Exemple et documentation : Fisher.  
+Écomusée - À travailler avec Camille. 
 
-### Documentation citoyenne  
+---
 
-Dans cette perspective, l’enquête n’est pas seulement un mode de production de savoirs, mais un acte politique, une manière d’interroger les réalités vécues à partir de ce qui fait problème pour les personnes elles-mêmes : les individus sont les experts de leur propre expérience. À ce titre, ils ne sont pas seulement des objets d’étude, mais bien des partenaires de recherche, dont la parole, les savoirs situés et les vécus doivent être pris au sérieux.  
+## Notes de Camille
 
-L’enquête, dans ce cadre, devient un outil démocratique : elle vise à comprendre les problèmes sociaux en partant de ceux qui les vivent au quotidien — y compris les populations marginalisées, précaires ou minorisées. Il s’agit de capter la complexité des situations sociales à travers des formats qui respectent la voix, le rythme et la sensibilité des personnes concernées.  
+Suite des notes 
+Annie Leibovitz, 
 
-Contrairement à des approches plus distantes ou objectivantes, l’enquête pragmatiste implique donc un engagement relationnel et éthique, où les savoirs sont co-construits avec les participants, et où la visée de transformation sociale n’est pas un objectif lointain mais un moteur dès le départ. 
+Avant de parler de la conservation-restauration, quel est son rapport ? 
+Cometti, *Qu'est-ce que le pragmatisme ?* 
 
-Vers une muséologie citoyenne ? Résonances possibles 
+Conserver/Restaurer, comment l'enquête pragmatiste entre-t-elle en résonance ? 
 
-Bien que le texte analysé ne traite pas directement de muséologie, plusieurs principes évoqués dans ce chapitre 3 résonnent fortement avec ce que pourrait être une muséologie citoyenne. “l'observation directe étant considérée comme la seule méthode  légitime pour percer le social” p58 
+Precious Okoyomon, 2022
 
-Voici quelques points qui me semblent être intéressant pour la docu citoyenne :  
+De l'objet émane la problématique. Il nous apprend la problématique. 
+Pour Johanne, ce type d'approche est typique pour l'histoire de l'art. 
+Rapport mimétique de la performance de Dean, manière de ne pas surimposer sur l'objet des grilles prédéterminées. 
 
-    D’abord, un souci éthique et politique pour les populations marginalisées. L’enquête pragmatiste met l’accent sur l’écoute des voix silencées ou invisibilisées, un enjeu central si l’on souhaite concevoir des musées plus inclusifs et socialement ancrés. 
+**Constat d'état de Cometti :**
+Proposer de contester les propriétés des objets, elles prennent sens par leurs usages. 
 
-    Ensuite, la valorisation de l’expérience vécue. Cette reconnaissance de la légitimité des récits personnels pourrait nourrir des pratiques muséales plus participatives, où les expositions sont co-construites à partir de témoignages, d’archives communautaires ou de parcours de vie. Le modèle pragmatiste de l’enquêteur est fondamentalement non académique. P64  
+Quelles enquêtes documentaires Zoë a-t-elle dû faire au cours de sa carrière ? 
+Urs Fischer, Allumage de la statue de cire de 7 mètres lol. 
+Apprendre par l'expérience, documentation après expérience. 
 
-    La forme du rendu de l’enquête. Exemple de l’exposition documentaire au mac.  
+## Documentation citoyenne 
 
-    Enfin, une ambition démocratique. L’idée selon laquelle les savoirs doivent être produits avec les publics, et non uniquement sur eux, rejoint ce que nous pourrions imaginer pour la documentation citoyenne. 
+Pas seulement productrice de savoirs, aussi un acte politique.
+Devient un outil démocratique.
 
-On pourrait ainsi envisager une documentation citoyenne muséale comme une forme d’enquête collective — qui mobilise les outils des sciences sociales, mais aussi les pratiques curatoriales et artistiques — pour documenter, rendre visible, et valoriser les expériences des communautés concernées. Cette documentation ne serait pas uniquement alors la saisie de variables et la classification de donnée. p61 
+On parle de musée dans ce texte mais :
 
-Ce rapprochement entre enquête pragmatiste et muséologie citoyenne me permet de vous poser question : et si documenter, c’était déjà enquêter ? Et si, en rendant visibles certaines histoires, on participait non seulement à leur préservation, mais aussi à la transformation des rapports sociaux ? 
+- Soucis éthiques et politiques
+- Accent sur l'écoute des voix
+- Valorisation de l'expérience vécue
+- Non académique, comment descendre de la tour d'ivoire
+- Forme du rendu de l'enquête : quelle forme peut-elle prendre ?
+- Ambition démocratique : savoirs produits avec les publics et pas seulement sur eux.
+
+**Du participatif au transformationnel :**
+Notion d'engagement qui implique que pour qu'il y ait transformation : partage de projets sur une durée.
+Engagement : dimension temporelle, en tant que durée. 
+
+Pensée en réseau, mais travail muséal pensé par projet. 
+Entretenir un réseau. 
+
+**Éco-Musée :** Musée citoyen depuis 2011
+Co-création avec les citoyen·nes
+Démarche de storytelling, expo veut qu'on raconte leur histoire, donc cadre prédéterminé, pas un travail par enquête. 
+
+L'absence de cadre prédéterminé est difficile. 
+Plutôt un objectif. 
+Est-ce qu'on peut penser à la liberté ? Quand on est à l'aise avec l'expérience du médium, les gens qui viennent ne sont pas muséologues. Ne voient pas l'intérêt du cadre muséal. 
+Le récit sert à fermer la démarche. Fin de l'exposition. 
+
+Cadre prédéterminé pour la performance.
+
+***Signes, traces, pistes*. Racines d'un paradigme de l'indice. Par Carlo Ginzburg**
+⇒ Émergence synchronique entre l'enquête, le connaisseurship. 
+Porte sur l'indice, et autre lecture du paradigme indiciel de Peirce. 
+
+## Limites et perspectives
+
+**Quelles sont les limites de ces modalités de travail de l'enquête pragmatique ?** 
+
+JL : coïncide avec le moment français : besoin de reconnaître un statut de chercheur aux artistes. L'art commence à être pratiqué à l'Université comme à Paris 8. Question de la recherche-création telle qu'elle se pose en France depuis une dizaine d'années ? L'enquête pragmatiste permet de montrer par où l'artiste est un chercheur.
+
+Un des facteurs que l'on gagne toujours à considérer : facteur connotatif. Comment les mots sont connotés dans la langue ? Enquête au sens de l'énigme policière a fait beaucoup auprès des sciences humaines pour nuire à l'enquête. 
+Résolution, liée au dénouement. 
+Les connotations policières de l'enquête ont un rôle dans la méfiance que peut susciter le terme. 
+Du côté de la sociologie, les enquêtes socio trouvent (dans le musée notamment), on trouve ce qu'on attend depuis le début. Une forme d'étude qui va confirmer ce que l'on sait déjà. 
+
+Mais pas l'enquête pragmatique ⇒ Caillet parle aussi de la résolution. 
+
+**⇒ Les témoignages sont des vérités en tant que telles.** 
+
+**Pensée par cas, études par cas.**
+https://books.openedition.org/editionsehess/19901?lang=fr#anchor-resume
+
+Comment rendre compte dans une enquête de toutes les différentes conceptions d'une expo par exemple ?
+JL : demande seulement d'annoncer des hypothèses concurrentielles.
+
+## L'enquête par rapport à la notion d'épiphanie :
+
+**Opposée :**
+- La notion d'enquête est "active" alors que l'épiphanie est passive. Forme plus active d'expérience. Mais le sens n'est pas le même : l'épiphanie est un apparaître alors que l'enquête est vraiment située d'une révélation (vraie ou pas vraie).
+- Une des manières précisément, on a un sentiment devant certaines enquêtes sociologiques d'échec : la dimension de révélation est absente.
+
+L'enquête est aussi une promesse de révélation en dehors du monde académique. Révélation = déchirure du voile. Le fait qu'on n'a pas de cadre prédéterminé, la barre est d'autant plus haute pour la révélation. Pas forcément du côté du sensible mais de l'intelligence des choses. 
+
+*Quand les attitudes deviennent formes*
+
+- Modèle de différent entendement d'un mot
+- Modèle de reconstitution presque fétichiste
+
+## Conserver-restaurer 
+
+Comment ?
+Distinction entre l'histoire de l'art/muséologique et conservation-restauration.
+L'enquête est dans le champ lexical des contours : poreux.
+
+Modèle interactionniste :
