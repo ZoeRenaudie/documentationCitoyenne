@@ -1,157 +1,205 @@
----
-title: "Discussion : Pensée par cas"
-date : 2025-05-06
-format:
-  html:
-    page-layout: article
----
+## 2025-05-06 Discussion
 
-#### Limites de la pensée par cas dans le cadre d'une thèse
+### Pensée par cas 
 
-- Les cas doivent communiquer entre eux.
-- L'hypothèse permet de les relier.
-- Comment se situer dans la pensée par cas ?
-- Pensée par cas limitée dans le cadre d'une thèse.
-- Cas liés par un chapeau thématique : ce n'est pas une thèse.
-- Voir comment on se situe dans une pensée par cas.
+Pour que cette méthodo fonctionne, il faut que les cas communiquent. L'hypothèse permet de les relier. 
+Comment se situer dans la pensée par cas ? 
 
-#### Muséologie critique
+Pensée par cas a des limites dans le cadre d'une thèse. Cas liés par chapeau thématique : n'est pas une thèse. Voir comment on se situe dans une pensée par cas.
 
-- Claire Bishop, Radical Museology
-  - Critique du relationnel.
-  - Œuvres d'art participatives dans une perspective critique.
-  - Séparation du participatif et citoyen.
-- Beatrice Von Bismark, The Curatorial Condition
-  - Hospitality : hosting relations in exhibitions.
-  - [Lien vers le livre](https://www.sternberg-press.com/product/cultures-of-the-curatorial-3-hospitality-hosting-relations-in-exhibitions/)
+### Muséologie critique
 
-#### Enjeux communs de documentation
+Claire Bishop, *Radical museology*
+- Critique du relationnel
+- Œuvres d'art participatives dans une perspective critique 
+- Séparation du participatif et citoyen 
 
-- Favoriser cet angle.
-- Documentation citoyenne, terme inventé par Johanne.
-- La tranche de l'encyclopédie où il y a le moins de choses.
-- La documentation citoyenne : oxymore dans la mesure où, par  définition, les initiatives citoyennes relèvent de la médiation plutôt  que de la conservation.
-- Soumis au sort de la médiation qui n'est pas archivée et documentée.
-- Objet : champ de pratique dont l'oralité est importante.
-- Sentiment que ce n'est pas nécessaire de la documenter ou de la conserver.
-- Objet nouveau, éphémère et à la définition ambiguë. Plus que la performance ou l'expo.
+Beatrice Von Bismarck
+*The Curatorial Condition*
+Hospitality : hosting relations in exhibitions https://www.sternberg-press.com/product/cultures-of-the-curatorial-3-hospitality-hosting-relations-in-exhibitions/
 
-#### Qu'est-ce que serait une documentation citoyenne ?
+### Enjeux communs de documentation
 
-- Poser la question en France et au Québec est différent.
-- **France :** Notion de citoyennetée pensée comme le creuset de la république : diversité sociale dans un grand fantasme de la citoyenneté. Privilégié par rapport aux communautés.Vision de la désignation citoyenne  favorable aux communautés, car inclusive alors que les communautés fragmentent. 
-- **Québec :** Inverse au Québec. Citoyen est une notion qui excluait historiquement. Valorise plus le terme de communauté. 
-- Citoyen : on appartient.
-- Musée historiquement dès leur développement au XXe siècle ont vite développé des memberships.
-- Cultiver un sentiment d'appartenance, auprès des citoyens au sens strict du terme, les prochains philanthropes.
-- Dimensions pas perdues. MBAM, Deveau, histoire de l'engagement au musée : toujours un musée basé sur l'engagement.
-- Citoyen meilleur terme que public.
-- Grand problème autour de la contamination du mot citoyen.
-- Quand il est utilisé comme adjectif : citoyen, terme n'est pas clair. Musée citoyen, muséologie citoyenne.
-- Musée citoyen = pour les citoyens ou comme citoyen dans la cité.
+Favoriser cet angle-là. 
+Documentation citoyenne, terme inventé par Johanne. 
+La tranche de l'encyclopédie où il y a le moins de choses. 
+La documentation citoyenne : oxymore dans la mesure où, par définition, les initiatives citoyennes relèvent de la médiation plutôt que de la conservation. 
+Soumises au sort de la médiation qui n'est pas archivée et documentée.
 
-#### Documentation citoyenne
+**Objet** : champ de pratique dont l'oralité est importante. 
+Sentiment que ce n'est pas nécessaire de la documenter, de la conserver.
 
-- Documentation construite par les citoyens.
-- MNBA :
-  - Projets : atelier wiki de MNBA (Annie Gauthier), Nathalie Thibault depuis 2017.
-  - Publier sur le site du musée.
-  - Donner voix à la parole des publics. Démarche de la découvrabilité des collections.
-- McCord :
-  - McCord, fait toute sorte d'ateliers. Projet *Prendre soin de nos histoires* à l'initiative "je suis Montréal" Clara Chouinard.
-  - Projet qui a utilisé les photographies des collections pour activer les communautés marginalisées.
-  - je suis Montréal : particularité toutes les communautés minorisées sont représentées.
-  - Mosaïque de différences. Repenser le modèle universel sur une base  de différences. Tous ensemble. Pas par groupe de mino (lbt, autochtone  etc).
-  - Rien de ça n'est documenté.
-  - Protocole qui documente ça aurait pu être très intéressant. Pas mis  en place et c'est un peu grave. Bribes dans les rapports d'activité,  quelques photos et échanges dans les courriels.
-  - Un de ces projets d'EXEKO avait collaboré avec le Musée McCord : presta du McCord.
-  Était allé prendre photo itinérants pour parler des œuvres. Photo conservées mais rien des discours. Sauf une phrase : "Pourquoi vous faites ça? Vous allez faire quoi avec ça?" grace à Laura Delfino qui en parle. Le fait que ce soit pas documenté = seulement une ligne de la RA, et un branding pour le musée.
-  Musée a apporté à Johanne, une boîte à chaussures, pleins de photos polaroids, sans savoir vraiment ce que c'était.
-  
-  - Recherche sur les publics pas sur l'impact de la médiation. Le livre d'or ?
-  - Pas de protocole pour la documentation citoyenne.
-  - Distinction du modèle participatif, il ne suffit pas de participer pour avoir une action transformative de l'institution.
-  - Initiative citoyenne ont pour but de transformer musée, acteurs qui y participent mais aussi la société.
-  - Participatif, souvent le contraire de ça.
-  - [Nina Simon : Participatory Museum](https://participatorymuseum.org/read/) pour en critiquer le modèle, comment 10 ans plus tard, on est rendu.
-  - Pensée participative est pas vraiment une pensée : inscription dans  un paradigme capitalisme lol, inclusion "participative", mais  d'implications concrètes, et implications positives.
-  - Valeur douce d'être impliquée dans les dispositifs. N'a pas d'impact positif sur les citoyens.
-  - Offre de loisirs, concurrence au loisir. Rijkmuseum.
-  - Peut transformer quand même l'institution, mais aucun impact sur la société.
-  - La médiation est-elle critique ?
-  - Critique institutionnelle des artistes dans les années 1960. Beaucoup de musées, les ont intégrés.
-  - Critique intégrée dans les pratiques des musées. Mise à jour de ses pratiques.
-  - Muséologie citoyenne : c'est une modalité du tournant participatif  qui ambitionne une transformation sociale, utilise la médiation, la  visite comme des leviers de changements, commen des conscientisations,  des incitations à l'action. Réduit beaucoup, petite partie de ce que les musées font.
+Objet nouveau, éphémère et à la définition ambiguë. Plus que la performance ou l'expo.
 
-#### Documentation citoyenne
+### Qu'est-ce que serait une documentation citoyenne ?
 
-- Documentation construite par les citoyens.
-- Documentation pour les citoyens, une manière de mettre à disposition des outils.
-- Le·la citoyen·ne est ici le destinataire.
-- On va montrer des archives rares, usage citoyen de documentation.
-- On envisage la documentation d'un point de vue citoyen.
-- Documentation des initiatives citoyennes donc documentation des citoyens et de leurs actions.
+Poser la question en France et au Québec est différent.
 
-#### Conclusion
+**Question citoyenne en France** : pensée comme le creuset de la république : diversité sociale dans un grand fantasme de la citoyenneté. Privilégiée par rapport aux communautés. 
 
-- Poser aspect relationnel et dynamiques du thème du séminaire.
-- Une préposition est un mot invariable qui sert à introduire une relation qui exprime, préposition qui précise la relation.
-- Documentation citoyenne comme un cadre interrogatif en incluant une certaine visée des usagers futurs de la documentation.
-- Pas pour les citoyens qu'on les documente. On documente pour le bien commun, pour l'histoire des institutions mais est-ce que le citoyen est un destinataire possible de toute démarche de documentation dans le  cadre du musée ?
-- Documentation citoyenne maillon faible de l'investissement citoyen  des musées puisque tout ce qui fait, se fait sans laisser de traces.  Pourquoi ?
-- Pourquoi considérant que le musée est une machine de la conservation ?
-- Musée irénique, qui cherche la paix avant tout sous couvert de "venez, mais foutez pas le bordel".
-- Le musée est réfractaire à toute notion de conflits et de tension. Lieux formés à partir de violence infractionniste.
-- La muséologie est irénique, car elle raconte l'histoire de son développement comme quelque chose d'harmonique.
-- San Diego ? Premier conférence sur la définition du musée je crois.
-- Année 90 : années de haine entre la conservation et la médiation. Se disputaient sur le fait que la médiation instrumentalisait les œuvres  d'art contrairement à une appréciation esthétique des œuvres ?
-- Question de pouvoir, de pouvoir uniquement.
-- Occulter de l'histoire de la muséologie.
-- Musée continue à conserver.
-- Musée s'est dédoublé : diffuseur et conservateur.
-- Pouvoir s'est complètement inversé : plus de médiateur·rices que de conservateur·rices.
-- Néanmoins musée continue à conserver : ils se voient comme des dispositifs de mémoires.
-- Pourquoi ce qui fait partie des trucs qui font le plus, n'est pas documenté ?
-- Hypothèse : N'y accorde pas une très grande valeur ?
-  - "On a pas le temps".
-  - "Ce qu'on fait c'est urgent, ce qui importe c'est l'action pas la documentation".
-  - "On peut pas avoir un protocole d'action car on utilise l'approche des publics : co-construction des projets".
-  - "La médiation est orale, donc ça ne se documente pas".
-- Quelles sont les traces laissées ? À partir desquelles on va travailler.
-- Qu'est-ce qu'on voudrait savoir à partir des traces ?
-- Surtout si on veut produire des protocoles.
-- Exposition ["Nous"](https://www.mnbaq.org/exposition/nous-1300), en transversalité avec les conservateurs, médiateurs, et registrariat avec un philosophe.
-- Questions au public imprimées sur les murs. Compléter avec agent  conversationnel désormais. Public posent questions (qu'ils ne poseraient pas à un être humain). Documentent questions du public pas leurs  réponses.
-- Documentation des affects. Pensent ouvrir un champ affectif : tristesse.
-- Sur public ciblés : les membres.
-- Le plus citoyen dans l'espace-temps c'est la nécessité de sortir du  musée, espace-temps citoyen ou quand on affiche une prétention  citoyenne, on est ex-situ. Rencontre des communautés.
-- Tous les musées interrogés : à quelle valeur associez-vous davantage (participation, équité, inclusion, engagement) la muséologie citoyenne ?
-- Tous les musées ont répondu engagement : parmi les termes cités,  l'engagement est le seul terme qui s'inscrit dans le temps,  fidélisation, impliquer sur un temps plus long.
+**Au Québec** : tout de suite, proche des communautés.
+France : vision de la désignation citoyenne favorable aux communautés, car inclusive alors que les communautés fragmentent. Inverse au Québec. ➜ Citoyen est une notion qui excluait historiquement. 
+Citoyen : on appartient. 
 
-#### La suite
+Musée historiquement dès leur développement du XXe ont vite développé des memberships pour cultiver un sentiment d'appartenance, auprès des citoyens au sens strict du terme, les prochains philanthropes.
+Dimensions pas perdues. MBAM, Deveau, histoire de l'engagement au musée : toujours un musée basé sur l'engagement. 
+Citoyen : meilleur terme que public. 
 
-- Travailler par cas : tous les projets d'exposition de JL ont été inspirés par une œuvre d'art.
-- Négociations en amont.
-- Pas de littérature là-dessus. Sur cette expérience de commissariat.
-- Rétrospective : Emily Carr pour le MBAC en 2006.
-- Michael Snow.
-- Proposition un cas pour le séminaire : mêmes valeurs heuristiques.
-- SILVIA KOLBOWSKI : "an inadequate history of conceptual art".
-  - 1998 film avec bande sonore (décalée). Image : mains de personnes.
-  - La bande sonore raconte la première expérience d'art conceptuel que les gens se rappellent avoir vu.
-  - Ce ne sont pas des citoyens, ce sont des gens du milieu, mais qui sont anonymes.
-  - Pas de définition de l'art conceptuel donc les gens parlent de plusieurs personnes.
-- Pour le cours, JL va alterner la réflexion par cas et étude de textes et propositions.
-- Rejoindre nos deux sujets : objets qui ont mis de l'avant la notion de **présence**.
-- René Payant, Notes sur la performance.
-  - Analyse une performance où le public est impliqué.
-- Éloge de la présence : Hans Ulrich Gumbrecht.
-  - Comment à partir des années 1980, venue à montrer dans le monde  occidental tout a toujours tourné autour de la signification et ses  effets.
-- Autre manière d'appréhender le monde et l'Art : les effets de présence.
-- Critique des modèles de signification.
-- Davallon : expo = acte de signification.
-- Phénomène de présence.
-  - Penser l'objet dans le long terme, le temps disparu de l'objet.
-  - C'est ça qui fait la valeur, l'exposition et la performance.
-  - Qu'est-ce qu'on fait de cette ancienne valeur, qui est "fondatrice" de ces objets ?
-- Comment relayer ça dans le modèle de documentation au moment où c'est le numérique ?
+Grand problème autour de la contamination du mot citoyen. 
+Quand il est utilisé comme adjectif : citoyen, terme n'est pas clair. Musée citoyen, muséologie citoyenne. 
+Musée citoyen = pour les citoyens ou comme citoyen dans la cité ?
+
+### Documentation citoyenne pourrait être une documentation qui est construite par les citoyen·nes 👍
+
+#### MNBA
+Projets : atelier wiki de MNBA (Annie Gauthier), Nathalie Thibault depuis 2017. 
+Publier sur site du musée. 
+Donner voix à la parole des publics. Démarche de la découvrabilité des collections. 
+
+#### McCord
+McCord fait toute sorte d'ateliers. Projet *Prendre soin de nos histoires* à l'initiative "Je suis Montréal" Clara Chouinard.
+Projet qui a utilisé les photographies des collections pour activer les communautés marginalisées. 
+"Je suis Montréal" : particularité, toutes les communautés minorisées sont représentées. 
+Mosaïque de différences. Repense modèle universel sur une base de différences. Tous ensemble. Pas par groupe de minorités (LGBT, autochtone, etc.).
+Rien de ça n'est documenté. 
+Protocole qui documente ça aurait pu être très intéressant. Pas mis en place et c'est un peu grave. Bribes dans les rapports d'activité, quelques photos et échanges dans les courriels. 
+
+Un de ces projets d'EXEKO avait collaboré avec le Musée McCord : prestation du McCord. 
+Était allé prendre photos d'itinérants pour parler des œuvres. Photos conservées mais rien des discours. Sauf une phrase : 
+"Pourquoi vous faites ça ? Vous allez faire quoi avec ça ?"
+Le fait que ce ne soit pas documenté = seulement une ligne du rapport d'activité, et un branding pour le musée.
+
+Musée a apporté à Johanne une boîte à chaussures, pleine de photos polaroïds, sans savoir vraiment ce que c'était. 
+
+Recherche sur les publics, pas sur l'impact de la médiation. 
+Le livre d'or ? 
+
+Pas de protocole pour la documentation citoyenne.
+➜ Distinction du modèle participatif : il ne suffit pas de participer pour avoir une action transformative de l'institution.
+
+Initiatives citoyennes ont pour but de transformer musée, acteurs qui y participent mais aussi la société. 
+Participatif, souvent le contraire de ça.
+
+[Nina Simon : *Participatory museum*](https://participatorymuseum.org/read/) pour en critiquer le modèle, comment 10 ans plus tard, on en est rendu où.
+
+Pensée participative n'est pas vraiment une pensée : inscription dans un paradigme capitaliste lol, inclusion "participative", mais d'implications concrètes, et implications positives. 
+Valeur douce d'être impliquée dans les dispositifs. N'a pas d'impact positif sur les citoyens. 
+
+Offre de loisirs, concurrence au loisir. Rijksmuseum peut transformer quand même l'institution, mais aucun impact sur la société. 
+
+### La médiation est-elle critique ?
+
+Critique institutionnelle des artistes dans les années 1960. Beaucoup de musées les ont intégrées.
+Critique intégrée dans les pratiques des musées. Mise à jour de ses pratiques. 
+
+Muséologie citoyenne : c'est une modalité du tournant participatif qui ambitionne une transformation sociale, utilise la médiation, la visite comme des leviers de changements, comme des conscientisations, des incitations à l'action. Réduit beaucoup, petite partie de ce que les musées font.
+
+### Documentation citoyenne peut aussi être une documentation pour les citoyens, une manière de mettre à disposition des outils
+
+Le·la citoyen·ne est ici le destinataire. 
+On va montrer des archives rares, usage citoyen de documentation. 
+
+On envisage la documentation d'un point de vue citoyen. 
+
+### Documentation des questions citoyennes 
+
+Mode analogique, reproduction. 
+
+On documente les initiatives citoyennes donc documentation des citoyens et de leurs actions. 
+
+### Conclusion 
+
+Poser aspect relationnel et dynamiques du thème du séminaire.
+Une préposition est un mot invariable qui sert à introduire un complément. 
+Relation qui exprime, préposition qui précise la relation. 
+
+Documentation citoyenne comme un cadre interrogatif en incluant une certaine visée des usagers futurs de la documentation. 
+Pas pour les citoyens qu'on les documente. On documente pour le bien commun, pour l'histoire des institutions, mais est-ce que le citoyen est un destinataire possible de toute démarche de documentation dans le cadre du musée ? 
+
+Documentation citoyenne : maillon faible de l'investissement citoyen des musées puisque tout ce qui se fait, se fait sans laisser de traces. Pourquoi ? 
+Pourquoi, considérant que le musée est une machine de la conservation ? 
+
+### Musée irénique
+
+Musée irénique, qui cherche la paix avant tout sous couvert de "venez, mais foutez pas le bordel".
+
+Le musée est réfractaire à toute notion de conflits et de tension. Lieux formés à partir de violence fractionniste. 
+
+La muséologie est irénique, car elle raconte l'histoire de son développement comme quelque chose d'harmonique. 
+
+San Diego : Première conférence sur la définition du musée.
+
+Années 90 : années de haine entre la conservation et la médiation. Se disputaient sur le fait que la médiation instrumentalisait les œuvres d'art contrairement à une appréciation esthétique des œuvres ? 
+
+Question de pouvoir, de pouvoir uniquement.
+Occulter de l'histoire de la muséologie.
+
+Musée continue à conserver.
+Musée s'est dédoublé : diffuseur et conservateur.
+Pouvoir s'est complètement inversé : plus de médiateur·rices que de conservateur·rices.
+
+Néanmoins musée continue à conserver : ils se voient comme des dispositifs de mémoire.
+Pourquoi ce qui fait partie des trucs qui font le plus, n'est pas documenté ? 
+
+**Hypothèse** : N'y accorde pas une très grande valeur ? 
+
+"On n'a pas le temps"
+"Ce qu'on fait c'est urgent, ce qui importe c'est l'action pas la documentation" 
+"On ne peut pas avoir un protocole d'action car on utilise l'approche des publics : co-construction des projets"
+"La médiation est orale, donc ça ne se documente pas"
+
+Quelles sont les traces laissées ? À partir desquelles on va travailler. 
+Qu'est-ce qu'on voudrait savoir à partir des traces ? 
+Surtout si on veut produire des protocoles.
+
+### Exposition "Nous"
+
+Exposition ["Nous"](https://www.mnbaq.org/exposition/nous-1300), en transversalité avec les conservateurs, médiation, et registrariat avec un philosophe. 
+Questions au public imprimées sur les murs. Complètent avec agent conversationnel désormais. Public pose questions (qu'ils ne poseraient pas à un être humain). Documentent questions du public, pas leurs réponses. 
+Documentation des affects. Pensent ouvrir un champ affectif : tristesse. 
+Sur publics ciblés : les membres. 
+
+Le plus citoyen dans l'espace-temps c'est la nécessité de sortir du musée, espace-temps citoyen ou quand on affiche une prétention citoyenne, on est ex-situ. Rencontre des communautés. 
+Tous les musées interrogés : à quelle valeur associez-vous davantage (participation, équité, inclusion, engagement) la muséologie citoyenne ? 
+Tous les musées ont répondu engagement : parmi les termes cités, l'engagement est le seul terme qui s'inscrit dans le temps, fidélisation, impliquer sur un temps plus long. 
+
+### Jeudi 
+
+Travailler par cas : tous les projets d'exposition de JL ont été inspirés par une œuvre d'art. 
+Négociations en amont. 
+Pas de littérature là-dessus. Sur cette expérience de commissariat. 
+
+Rétrospective ; Emily Carr pour le MBAC en 2006
+Michael Snow 
+
+Proposition d'un cas pour le séminaire : mêmes valeurs heuristiques
+**SILVIA KOLBOWSKI** : "An inadequate history of conceptual art"
+1998 film avec bande sonore (décalée). Image : mains de personnes. 
+La bande sonore raconte la première expérience d'art conceptuel que les gens se rappellent avoir vue. 
+Ce ne sont pas des citoyens, ce sont des gens du milieu, mais qui sont anonymes. 
+Pas de définition de l'art conceptuel donc les gens parlent de plusieurs personnes. 
+
+Pour le cours, JL va alterner la réflexion par cas et étude de textes et propos.
+
+### Rejoindre nos deux sujets
+
+Objets qui ont mis de l'avant la notion de **présence**.
+René Payant, *Notes sur la performance* 
+
+Analyse une performance où le public est impliqué.
+
+*Éloge de la présence* : Hans Ulrich Gumbrecht
+Comment à partir des années 1980, venue à montrer dans le monde occidental, tout a toujours tourné autour de la signification et ses effets.
+
+Autre manière d'appréhender monde et l'Art : les effets de présence. 
+
+Critique des modèles de significations.
+
+Davallon : expo = acte de signification
+
+Phénomène de présence.
+Penser l'objet dans le long terme, le temps disparu de l'objet.
+C'est ça qui fait la valeur, l'exposition et la performance.
+Qu'est-ce qu'on fait de cette ancienne valeur, qui est "fondatrice" de ces objets ?  
+
+Comment relayer ça dans modèle documentaire au moment où c'est le numérique ?

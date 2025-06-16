@@ -3,14 +3,67 @@ title: "Journal de recherche"
 format:
   html:
     page-layout: article
-    toc: true
 ---
 
 ## I. Introduction
 
-### 06 mai 2025 : 
+Ce journal de recherche retrace mes réflexions autour des séances ou ce qu'il me semblait important de souligner. Premièrement je propose un parcours réflexif chronologique du séminaire, avant de refléter les éléments traversaux puis de conclure. 
+
+Il ne s'agit pas des notes de cours mais de résumers des séances et ouverture de réflexions. 
+
+## II. Parcours réflexif thématique 
+
+### 06 mai 2025 ([note de cours](../documentationCitoyenne/notes/cours-01.qmd))
 
 Présentation du contexte du séminaire : rappel des objectifs pédagogiques (co-construction, réflexivité, exploration des notions de présence, événement, enquête, participation).
+
+Cette séance de séminaire a exploré le concept émergent de "documentation citoyenne" en muséologie, révélant un paradoxe majeur : les musées, institutions de mémoire par excellence, ne documentent pas leurs propres pratiques d'engagement citoyen les plus innovantes. La discussion a mis en lumière les différentes acceptions de cette notion (documentation par, pour et des citoyens) et les obstacles institutionnels qui empêchent sa systématisation, notamment la culture "irénique" des musées qui évite les conflits et tensions.
+
+Les ouvertures possibles incluent le développement de protocoles spécifiques pour documenter les initiatives participatives, l'exploration des "effets de présence" dans la documentation numérique, et l'analyse comparative des modèles français et québécois d'engagement citoyen. Cette réflexion ouvre également sur des questions plus larges concernant la transformation des rapports de pouvoir au sein des institutions muséales et le rôle de la documentation dans la construction d'une mémoire critique des pratiques muséologiques contemporaines.
+
+#### Réflexions sur la documentation citoyenne en muséologieCette séance de séminaire a exploré le concept émergent de "documentation citoyenne" en muséologie, révélant un paradoxe majeur : les musées, institutions de mémoire par excellence, ne documentent pas leurs propres pratiques d'engagement citoyen les plus innovantes. La discussion a mis en lumière les différentes acceptions de cette notion (documentation par, pour et des citoyens) et les obstacles institutionnels qui empêchent sa systématisation, notamment la culture "irénique" des musées qui évite les conflits et tensions.
+
+Les ouvertures possibles incluent le développement de protocoles spécifiques pour documenter les initiatives participatives, l'exploration des "effets de présence" dans la documentation numérique, et l'analyse comparative des modèles français et québécois d'engagement citoyen. Cette réflexion ouvre également sur des questions plus larges concernant la transformation des rapports de pouvoir au sein des institutions muséales et le rôle de la documentation dans la construction d'une mémoire critique des pratiques muséologiques contemporaines.
+
+##### Pensée par cas : limites et potentialités
+
+La discussion d'aujourd'hui a soulevé une tension fondamentale dans l'approche par cas pour une recherche de thèse. Si les cas permettent une analyse fine et contextualisée, ils risquent de demeurer isolés sans hypothèse fédératrice. Comment articuler une pensée par cas qui ne se limite pas à un "chapeau thématique" mais qui génère véritablement du savoir théorique ?
+
+Cette question trouve un écho particulier dans le champ de la muséologie critique, notamment avec les travaux de Claire Bishop sur la muséologie radicale et sa critique du relationnel dans l'art participatif. La distinction entre participatif et citoyen s'avère cruciale pour comprendre les enjeux de transformation institutionnelle.
+
+##### La documentation citoyenne : un oxymore révélateur
+
+L'expression "documentation citoyenne" pose d'emblée un paradoxe fascinant. Par définition, les initiatives citoyennes relèvent davantage de la médiation que de la conservation, ce qui explique pourquoi elles laissent si peu de traces archivées. Cette oralité constitutive semble être à la fois leur force vive et leur talon d'Achille institutionnel.
+L'exemple du Musée McCord avec le projet "Prendre soin de nos histoires" illustre parfaitement cette problématique : des initiatives transformatrices qui ne laissent que des bribes dans les rapports d'activité, quelques photos et des échanges de courriels. La phrase rapportée des participants itinérants - "Pourquoi vous faites ça? Vous allez faire quoi avec ça?" - révèle une conscience aiguë de cette instrumentalisation potentielle.
+
+##### Trois acceptions de la documentation citoyenne
+
+- Documentation construite par les citoyens : Approche collaborative où les publics deviennent co-producteurs de savoirs (exemple des ateliers Wiki du MNBAQ)
+- Documentation pour les citoyens : Mise à disposition d'outils et d'archives pour un usage citoyen, favorisant l'appropriation démocratique du patrimoine
+- Documentation des questions citoyennes : Archivage des initiatives citoyennes elles-mêmes, de leurs processus et de leurs impacts
+
+##### Le musée irénnique face au conflit
+
+Une hypothèse stimulante émerge : le musée, en tant qu'institution intrinsèquement irénnique (qui recherche la paix), serait réfractaire à documenter ce qui relève du conflit et de la tension. Pourtant, les initiatives citoyennes portent souvent une dimension transformatrice, voire contestataire, qui dérange l'harmonie apparente de l'institution.
+Cette tension révèle un paradoxe : comment une "machine de conservation" peut-elle ne pas documenter ce qui constitue aujourd'hui l'essentiel de son rapport aux publics ?
+
+##### La question de la présence
+
+La discussion sur René Payant et Hans Ulrich Gumbrecht ouvre une piste théorique essentielle. Si l'exposition traditionnelle fonctionne comme "acte de signification" (Davallon), les initiatives citoyennes semblent plutôt relever des "effets de présence" - cette dimension phénoménologique qui échappe aux modèles de signification classiques.
+Comment alors documenter ce qui relève de la présence dans un monde numérique dominé par la reproduction et la circulation des signes ? Cette question devient centrale pour penser une documentation citoyenne qui ne trahisse pas la spécificité de son objet.
+
+##### Questions ouvertes
+
+Quel protocole de documentation pourrait respecter la nature processuelle et relationnelle des initiatives citoyennes ?
+Comment éviter que la documentation ne devienne un outil de récupération institutionnelle ?
+Quelle place pour les affects et les émotions dans une démarche documentaire ?
+Comment articuler mémoire institutionnelle et mémoire citoyenne ?
+
+##### Pistes de recherche
+
+L'étude de cas de Silvia Kolbowski "An Inadequate History of Conceptual Art" (1998) pourrait offrir un modèle intéressant : comment documenter une histoire subjective, anonyme et plurielle tout en préservant sa dimension expérientielle ?
+
+La notion d'engagement, privilégiée par tous les musées interrogés, mérite aussi d'être creusée : seul terme inscrit dans la durée parmi participation, équité et inclusion, il pourrait constituer un pont entre documentation et transformation sociale.
 
 ### 08 mai 2025 : Habemus Papam. 
 
@@ -28,7 +81,8 @@ Par leur nature même, les expositions sont des expériences transitoires qui mo
 
 ##### L'acte documentaire comme transformation
 
-Face à cet effacement structurel, la documentation apparaît comme un acte de sauvegarde visant à prolonger l'existence de l'exposition au-delà de sa durée physique. Cependant, cet acte de pérennisation soulève des questions muséologiques et méthodologiques cruciales : que documente-t-on exactement ? Comment choisir ce qui mérite d'être conservé ? Quelle interprétation impose-t-on au geste de conservation ?
+Face à cet effacement structurel, la documentation apparaît comme un acte de sauvegarde visant à prolonger l'existence de l'exposition au-delà de sa durée physique. ["Nos souvenirs, ils doivent être transmis par ceux qui nous ont connus dans la vie – dans les histoires qu’ils racontent sur nous."
+« Coco » / Walt Disney Pictures / Pixar Animation Studios. 2017]{.aside} Cependant, cet acte de pérennisation soulève des questions muséologiques et méthodologiques cruciales : que documente-t-on exactement ? Comment choisir ce qui mérite d'être conservé ? Quelle interprétation impose-t-on au geste de conservation ?
 
 Documenter une exposition implique inévitablement de la transformer, en fixant ce qui, dans l'expérience vécue, était mouvant, performatif et pluriel. La documentation devient ainsi un espace de négociation entre fidélité à l'événement vécu et reconfiguration pour les besoins de la mémoire et de l'étude future. Elle ne se contente pas d'enregistrer : elle construit un récit, sélectionne, interprète et organise.
 
@@ -42,9 +96,9 @@ Développer une approche innovante de conservation-restauration des expositions 
 
 ##### Objectifs secondaires
 
-Analyse critique des modèles existants : Identifier les lacunes des systèmes actuels de documentation (archives statiques, manque de contextualisation, absence de dimension relationnelle)
-Exploration des potentialités numériques : Examiner comment les outils numériques peuvent permettre d'archiver et de restituer la performativité, l'interactivité et les dimensions temporelles des expositions
-Développement de modèles inclusifs : Proposer des approches plus participatives et démocratiques pour documenter l'activation des expositions, en valorisant les récits périphériques et les voix minoritaires
+- Analyse critique des modèles existants : Identifier les lacunes des systèmes actuels de documentation (archives statiques, manque de contextualisation, absence de dimension relationnelle)
+- Exploration des potentialités numériques : Examiner comment les outils numériques peuvent permettre d'archiver et de restituer la performativité, l'interactivité et les dimensions temporelles des expositions
+- Développement de modèles inclusifs : Proposer des approches plus participatives et démocratiques pour documenter l'activation des expositions, en valorisant les récits périphériques et les voix minoritaires
 
 ##### Hypothèses de travail
 
@@ -150,7 +204,6 @@ Humanités numériques : en développant des outils spécifiquement adaptés aux
 
 L'objectif ultime est de transformer notre compréhension de ce que signifie "conserver" dans le contexte de l'art contemporain, en proposant des alternatives aux modèles traditionnels centrés sur l'objet matériel.
 
-## II. Parcours réflexif thématique (6 à 8 pages)
 ### A. Bloc 1 : Présence / Absence
 
 #### 13 mai 2025 : Kolbowski
@@ -161,23 +214,86 @@ Kolbowski, An Inadequate History of Conceptual Art
     
     Impact sur la documentation des expositions minoritaires.
 
-["Nos souvenirs, ils doivent être transmis par ceux qui nous ont connus dans la vie – dans les histoires qu’ils racontent sur nous."
-« Coco » / Walt Disney Pictures / Pixar Animation Studios]{.aside}
+Analyse d'une œuvre de 1999 qui interroge la mémoire de l'art conceptuel à travers 22 témoignages d'artistes de la période 1965-1975. L'œuvre coïncide avec l'émergence des archives orales et questionne la constitution de l'histoire orale de l'art.
 
-    15 mai – Ward & Payant, La perte
+##### Questions de recherche pour la suite
 
-        La perte comme matrice historiographique : lien avec la conservation de l’éphémère.
+Statut de la réception première : Comment cette œuvre informe-t-elle notre approche des objets d'étude ? 
 
-        Notions de performativité et de mémoire vive.
+Mémoire vs Histoire : L'œuvre esquisse-t-elle une histoire lacunaire ou constitue-t-elle un matériau pour la fabrique de l'histoire ?
 
-    20 mai – Gumbrecht, Production de présence
+Art conceptuel et affect : Contradiction apparente entre dématérialisation et expérience affective. Comment l'émotion rapproche-t-elle des œuvres dont le "potentiel esthétique n'était pas saisissable à la base" ?
+
+##### Distinctions avec nos objets d'étude
+
+Performance : s'est éloignée de sa critique fondatrice (aura de l'artiste) dans sa muséalisation
+Exposition : maintient peut-être davantage le lien avec son moment fondateur
+Point commun : l'événement comme caractéristique partagée
+
+##### Notes personnelles
+
+Cette séance révèle l'importance de questionner le statut du témoin dans la constitution de l'histoire de l'art. L'œuvre analysée propose une alternative à l'histoire "officielle" en privilégiant la subjectivité assumée ("All statements are true as the speakers recall them").
+
+La tension entre vérité et imaginaire, entre expérience vécue et reconstruction théorique, semble centrale pour comprendre comment se fabrique la mémoire artistique. À approfondir dans la perspective de mes propres objets d'étude sur l'exposition et la performance.    
+
+
+#### 15 mai – Ward & Payant, La perte
+
+##### Contextualisation méthodologique
+
+Séance consacrée à l'examen de textes fondateurs qui se positionnent à l'origine d'un discours sur des objets aujourd'hui consacrés. Distinction fondamentale entre deux traditions disciplinaires :
+
+- Ward : tradition historique documentaire
+- Payant : tradition critique d'art
+
+##### Martha Ward - Vers une histoire des expositions
+
+Ward s'inscrit dans une volonté de contribuer aux balbutiements de l'histoire des expositions en France. Sa démarche révèle un paradoxe historiographique : elle prétend combler un vide (absence de savoir professionnel 1750-1914) tout en s'appuyant sur des exemples qui contredisent cette assertion.
+
+Contre-exemples à sa thèse
+
+- Diderot critique d'art : commente systématiquement les intentions de display de Chardin
+- Chardin "le tapissier" : pratique d'accrochage sophistiquée favorisant les comparaisons
+- Alexandre Lenoir (Musée des monuments français) : concept de "salles d'atmosphère" - proto-immersion
+- Alexandre Du Sommerard : Chambre de François 1er à Cluny, première reconstitution historique assumée
+
+##### Réserves critiques
+
+- Discours de la présence : critique de l'ontologie de la présence
+- Documentation exhaustive : privilège donné aux artistes qui documentent vs ceux qui ne documentent pas
+- Fétichisme de la photographie : rapport problématique à l'image comme trace
+
+##### Enjeux épistémologiques
+
+- Statut du témoin : Ward privilégie les traces documentaires, Payant l'expérience subjective, Jones l'expérience médiatisée
+- Temporalité : Tous trois interrogent le rapport présent/passé dans la constitution du savoir
+- Légitimité disciplinaire : Chacun défend un territoire épistémologique spécifique
+
+##### Questions ouvertes pour la recherche
+
+- Comment articuler histoire documentaire et critique expérientielle ?
+- Quel statut accorder à la subjectivité dans l'écriture de l'histoire de l'art ?
+- La documentation peut-elle constituer une expérience esthétique autonome ?
+
+##### Applications à nos objets d'étude
+
+Ces trois approches offrent des modèles complémentaires pour penser :
+
+- L'exposition comme événement discursif (Ward)
+- La performance comme dispositif relationnel (Payant)
+- La documentation comme expérience légitime (Jones)
+
+##### Notes personnelles 
+
+La tension entre ces trois approches révèle la nécessité de développer une méthodologie hybride qui ne sacrifie ni la rigueur documentaire, ni la richesse de l'expérience subjective, ni la légitimité de l'archive comme lieu d'expérience.
+
+#### 20 mai – Gumbrecht, Production de présence
 
 
 > Johanne, le 20 mai 2025 :
-"J’ai affaire à deux perverses. Elle [moi] essaye de nous construire une illusion de présence."
+"J’ai affaire à deux perverses. Zoë essaye de nous construire une illusion de présence."
 
-
-    22 mai – Winckelmann et Dibutades
+#### 22 mai – Winckelmann et Dibutades
 
         Archéologie de la présence : l’épiphanie comme acte de mémoire.
 
@@ -185,15 +301,14 @@ Kolbowski, An Inadequate History of Conceptual Art
 
 ### B. Bloc 2 : Événement
 
-    27 mai – Dosse, Événement et épistémologie
+#### 27 mai – Dosse, Événement et épistémologie
 
         Définir l’événement au croisement de l’histoire, de la philosophie et de l’art.
 
         Réflexions méthodologiques pour intégrer l’événement dans une documentation vivante.
 
         
-
-    29 mai – Fraser & Prioul, Performance et exposition
+#### 29 mai – Fraser & Prioul, Performance et exposition
 
         Étude croisée : exposition comme événement, performance comme dispositif critique.
 
@@ -201,7 +316,7 @@ Kolbowski, An Inadequate History of Conceptual Art
 
 ### C. Bloc 3 : Enquête
 
-#### Séance 7 – 3 juin 2025 : Méthode de l’enquête
+#### 3 juin 2025 : Méthode de l’enquête
 
 Pour cette séance, j’ai choisi de présenter le chapitre 3 de l’ouvrage *L’art de l’enquête*. Savoirs pratiques et sciences sociales d’Aline Caillet. Ce texte est fondamental pour ma méthodologie de thèse, mais je l’ai aussi proposé au groupe car je pressentais sa pertinence pour penser une documentation muséale citoyenne. Ma démarche a été de restituer les idées clés du chapitre sur le modèle pragmatiste de l’enquête, tout en les mettant en dialogue avec la documentation, la conservation-restauration, et la muséologie participative.
 
@@ -227,7 +342,7 @@ J’ai proposé plusieurs pistes de résonance avec une documentation muséale c
 J’ai terminé sur une question ouverte : Et si la documentation n’était pas une technè mais une hexis ? Un savoir-être au monde, une disposition éthique et politique.
 
 Les échanges ont été riches : nous avons discuté de l’articulation entre participation et expertise, des liens entre enquête et performance, et de la possibilité d’une muséologie qui écoute au lieu d’expliquer. J’ai beaucoup apprécié les retours sur l’idée d’enquête comme co-présence, et sur la tension entre l’archive comme conservation et l’enquête comme transformation.
-[Johanne m'a conseillé de developper mon utilistation du terme "objet" pour l'exposition.]{.aside}
+[Johanne m'a conseillé de developper mon utilistation du terme "objet" pour l'exposition. En effet, la nouvelle conservation-restauration ]{.aside}
 
 Cette séance a renforcé ma conviction que la documentation n’est pas neutre, qu’elle est profondément située, politique, et potentiellement transformatrice. C’est une posture que je continuerai à explorer et à défendre dans mon travail, notamment dans les projets où j’enquête à partir des marges de l’exposition – là où l’institution documente peu, mais où la mémoire collective se construit malgré tout.
 [Revient toujours dans mes propos l'espace immaginaire comme lieu d'existance. À explorer.]{.aside}
@@ -261,46 +376,39 @@ Ma démarche vise aussi à reconnaître la légitimité des savoirs informels po
 Enfin, et c’est peut-être là le lien le plus fort avec l’analyse de Caillet, cette documentation s’inscrit dans une visée démocratique : produire des archives accessibles, activables et utiles, non seulement pour les chercheur·euses, mais pour les professionnel·le·s, les publics, les artistes et les institutions elles-mêmes. 
 :::
 
-    5 juin – Simon & Bishop, Participation
+#### 5 juin – Simon & Bishop, Participation
 
-        Tensions entre participation réelle et simulée.
-
-        Liens avec les formes collaboratives de documentation.
 
 ### D. Bloc 4 : Collaboratif
 
-    10 juin – Holling & Gusman
+#### 10 juin – Holling & Gusman
 
-        Restaurer la performance : approche relationnelle de l’archive.
 
-        Application possible à la notion d’archive vivante dans ta recherche.
+#### 12 juin – Documentation citoyenne
 
-    12 juin – Visite terrain (si confirmée)
 
-    Observations personnelles.
 
-    Confrontation théorie / pratiques institutionnelles (ex. Écomusée et Artexte).
+## III. Éléments transversaux
 
-## III. Éléments transversaux (2-3 pages)
+De nombreux fils rouges ont traversé ce cours, je propose de s'attarder sur les suivants : 
+ - Présence vs épiphanie
 
-    Fils rouges identifiés : par exemple, la tension entre mémoire et trace, entre participation réelle et documentée.
+Nous avons beaucoup parler d'effets de présence. 
 
-    Mutations de ta posture : évolution de ton regard sur la documentation muséale ou sur la figure du·de la chercheur·e dans un cadre collaboratif.
+Médiation un point qui ne m'interessait pas. 
 
-    Ce que tu retiens du processus de co-construction du cours.
+tension entre mémoire et trace, entre participation réelle et documentée.
 
-## IV. Conclusion (1 page)
+processus de co-construction du cours, génèse.
 
-    Bilan du séminaire pour ton projet doctoral.
+## IV. Conclusion
 
-    Comment le séminaire a enrichi, déplacé ou consolidé tes hypothèses.
+### Bilan du rapport avec ma thèse
+- génèse
 
-    Pistes ouvertes ou éléments à approfondir.
+### Retour réflexif sur mes hypothèses
 
-## V. Annexes (optionnel)
 
-    Sélection de notes de lecture annotées
 
-    Cartes conceptuelles
+### Pistes ouvertes ou éléments à approfondir
 
-    Bibliographie élargie ou thématique (citoyenneté, présence, enquête...)
