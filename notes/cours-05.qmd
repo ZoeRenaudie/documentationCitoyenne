@@ -1,299 +1,310 @@
----
-title: "La production de présence de Gümbrecht. Présence vs signification."
-date : 2025-05-20
-format:
-  html:
-    page-layout: article
----
+# Notes de cours - 20 mai 2025
 
-## Maj plan de cours
+**Organisation de la session :**
+- Cette semaine : absence/présence
+- Semaine 26 : événement
+- Semaine d'après : enquête
+- 17 juin : cahier, bilan. On peut le garder une semaine de plus. Rendu la semaine suivante.
+- Qu'est-ce que c'est ???
+- Initier le bilan de la session.
 
-- **Cette semaine** : Absence/Présence
-- **Semaine 26** : Événement
-- **Semaine suivante** : Enquête
-- **17 juin** : Cahier, bilan. Possibilité de le garder une semaine de plus. Rendu la semaine suivante.
-- **Objectif** : Initier le bilan de la session.
-- **Réflexion** : Pratiques institutionnelles. Cartographie disciplinaire pas forcément importante.
+Réflexion sur les pratiques institutionnelles. Cartographie disciplinaire pas forcément importante.
 
 ## Hans Ulrich Gumbrecht
 
-#### Introduction
+Récapitulation dans la première partie. Revient sur le triomphe de la métaphysique, de la pensée clivée entre le sujet et l'objet.
 
-- **Recapitulatif** : Triomphe de la métaphysique, pensée clivée entre le sujet et l’objet.
-- **Phénoménologie** : Clivage n’a plus lieu.
-- **Contexte** : Moment cartésien et la déconstruction de Derrida. Époque du signe est révolue sans être capable d'en sortir nécessairement.
-- **Caractère prospectif** : Comment sortir de là ?
+S'il se rapproche d'un moment phénoménologique, le clivage n'a plus lieu d'être.
 
-#### Les trois volets
+Partait du moment cartésien et la déconstruction de Derrida. L'époque du signe est révolue sans être capable d'en sortir nécessairement.
 
+Caractère prospectif : comment on fait pour sortir de là ?
+
+### Les trois volets :
 - Épiphanie
 - Présentification
 - Deixis
 
-#### Approche pédagogique
+Pour les gens qui ont une pratique intellectuelle.
+L'université demande une pratique pédagogique.
+Permet d'aborder la présence autrement. Faisabilité de la chose, montrer aux étudiants, comment partager un moment d'intensité aux étudiant·es.
+Il est vraiment littéraire, ce qui l'intéresse dans la présence, c'est le contact de la matière : reproductible à l'infini, sentiment original et reproductions pas de sens. Pour le monde de l'art, implique œuvre présente et que dans ce sens, les musées (non pas comme espace esthétique, mais d'un point de vue d'histoire, concept même de musée) // il aurait pu prendre les musées pour présenter les trois volets.
 
-- **Pratique intellectuelle** : L'université demande une pratique pédagogique.
-- **Faisabilité** : Montrer aux étudiants comment partager un moment d’intensité.
-- **Matérialité** : Gumbrecht s'intéresse au contact de la matière, reproductible à l'infini, sentiment original et reproductions sans sens.
-- **Monde de l'art** : Implique œuvre présente dans ce  sens, les musées (non pas comme espace esthétique, mais d’un point de  vue d’histoire, concept même de musée).
+Cadre situationnel : vécu historique x insularité, il aurait pu prendre le musée. Le musée aurait été un bel objet pour réfléchir à ces questions.
 
-#### Cadre situationnel
+Il était professeur à Stanford mais aussi à l'UdeM.
 
-- **Vécu historique** : Gumbrecht aurait pu prendre le musée comme objet pour réfléchir à ces questions.
-- **Professeur** : À Stanford et à l’UdeM.
-- **Rapport entre les trois mots** : Techniques de présentification, Gumbrecht n'a pas le sens de l’exemple. Parle-t-il de *reenactement* ? D’autres choses ?
+Rapport entre les trois mots.
 
-#### Enseignement
+Techniques de présentification, Gumbrecht n'a pas le sens de l'exemple. Parle-t-il de *reenactment* ? D'autres choses ?
 
-- **Méthode** : Enseigner sous forme de questions en refusant que les étudiants refusent les connaissances pré-fabriquées.
-- **Effet** : En 2004, apparition des réseaux sociaux : Méthode par question en cours ne fonctionne plus.
-- **Impact des RS** : Montée des RS, les étudiants ne parlaient plus en direct. Tue la dynamique des cours.
-- **Payant** : “Je veux pas savoir ce que vous savez, mais ce que vous VOYEZ.”
+**JL :**
+Enseigner sous forme de questions en refusant que les étudiants reçoivent les connaissances préfabriquées. Et ça fonctionnait.
 
-#### Question numérique
+En 2004, apparition des réseaux sociaux : Méthode par question en cours ne fonctionne plus.
+Montée des RS, les étudiants ne parlaient plus en direct. Tue la dynamique des cours.
+Payant : "Je veux pas savoir ce que vous savez, mais ce que vous VOYEZ."
 
-- **Humanités** : Les cours ne devraient pas rester en présentiel ?
-- **Présence professorale** : Présence comme il l’entend ? Pas certaine.
-- **Exemples de deixis** : Gumbrecht aurait aimé avoir des exemples de deixis.
+Question numérique : est-ce que les *humanities*, les cours ne devraient pas rester en présentiel ?
+La présence professorale est une présence comme il l'entend ? Pas certaine.
 
-#### Histoire de l'art
+Aurait aimé avoir des exemples de deixis.
 
-- **Matérialité des œuvres** : Cours de Warburg à la bibliothèque de Strasbourg.
-- **Stuart Randall** : A créé le département d’hda de  l’UdeM. Donnait cours chez lui à partir de sa collection. Formation pas à partir des reproductions, mais des œuvres. La matérialité orientait la  forme du savoir.
+L'histoire de l'art, dans ses débuts : présence matérielle des œuvres. Cours de Warburg à la bibliothèque de Strasbourg.
 
-#### Pédagogie
+Stuart Randall a créé le département d'histoire de l'art de l'UdeM. Donnait cours chez lui à partir de sa collection. Formation pas à partir des reproductions, mais des œuvres. La matérialité orientait la forme du savoir.
 
-- **Mise en situation** : Faire vivre des moments d’intensité par certains gestes et leur faire comprendre que c’est à vivre.
-- **Épiphanie** : Pas des occasions de leçon. L’épiphanie n’apprend rien.
-- **Exemple** : Travail sur le plan couleur de Cézanne.  Surcharge épiphanique : surcharge d’intensité par définition n’apprend  rien. En entrant dans une salle à Londres : baigneuses de Cézanne,  tournesol van Gogh, l’a fait fondre en larme. Lié à la présentation de  la couleur mais aussi sociologique. Parce que faisait partie maintenant  de ceux qui savent. Pas de l’affect pur.
+### La pédagogie
 
-#### Épiphanie
+- Mettre en situation les étudiantes, vivre des moments d'intensité par certains gestes et leur faire comprendre que c'est à vivre,
+  Pas des occasions de leçon. L'épiphanie n'apprend rien.
 
-- **Définition** : Vivre quelque chose qui apparaît. Du grec epiphania, « choses qui apparaissent ».
-- **Intensité** : Moment d’intensité, quantitative, sans transmettre des connaissances et exige une certaine insularité.
-- **Autonomie esthétique** : Gumbrecht se situe par  rapport à l’école de Francfort, qui avait essayé de penser l’œuvre d’art comme étant dépendante et autonome (autonomie esthétique) dans le cadre où Adorno, lui considère que ça marche pas.
+Travaillait sur le plan couleur de Cézanne. Surdose épiphanique : surcharge d'intensité par définition n'apprend rien. En entrant dans salle à Londres : baigneuses de Cézanne, tournesol Van Gogh, l'a fait fondre en larmes. Lié à la présentation de la couleur mais aussi sociologique. Parce que faisait partie maintenant de ceux qui savent. Pas de l'affect pur.
 
-#### Contexte actuel
+**Épiphanie :** vivre quelque chose qui apparaît.
+Du grec *epiphania*, « choses qui apparaissent ».
 
-- **Charge éthique** : Dans l’ambiance Woke (pas  l’insulte) mais montre la charge d’un contenu éthique, très souvent  impact l’interprétation des œuvres qui sont présentes, lui prend soin de détacher l’intensité esthétique et les questions esthétiques.
+Beaucoup d'itérations de ça, compréhension sans objets.
 
-#### Livre à l’analyse du vécu esthétique
+G parle surtout d'esthétique et d'épiphanie. Pour nous, c'est important. Présentification importante pour l'expo.
 
-- 8 points
+### Notion de la matérialité de la présence
 
-   :
+Il va mettre de l'avant : épiphanie, moment d'intensité, quantitative, sans transmettre des connaissances et exige une certaine insularité. Se situe par rapport à l'école de Francfort, qui avait essayé de poser l'œuvre d'art comme étant dépendante et autonomie (autonomie esthétique) dans le cadre où Adorno, lui considère que ça marche pas.
 
-  - Comment faire ressentir ? p.151
-  - Intensité s’accompagne d’un sentiment de perte p.154
-  - Cadre situationnel p.157
-  - Disposition spécifique qui accompagne régulièrement la condition structurelle de l’insularité, p.161
-  - Quelles sont les caractéristiques générales de ces objets du vécu -  esthétique ou non - qui nous attirent et nous poussent à être « coupés  du monde par la concentration » ? p.161 reconnaît à l’objet une  agentivité.
-  - Les objets du vécu esthétique se caractérisent : c’est qu’ils  déclenchent une oscillation entre effets de présence et effets de  signification. [qui exercent cette fascination], ils nous faut un cadre  d’insularité, un cadre de possibilité. Jusqu’à maintenant nos objets  sont considérés comme éphémères. Mais si on prend ça à travers la  présence : on s’aperçoit que l’éphémérité, est une conséquence siquanone de vécu esthétique, dans sa dimension épiphanique. Pas garantie que  l’épiphanie se reproduise. Porter attention particulière aux matériaux.
-  - // manière de faire signifier l’œuvre
-  - Z : parler aux acteurs du réseau (guide, surveillant plus à même à partager moment de présence).
-  - JL : guide lui a fait découvrir un Barnett Newman, *Voice of Fire*. Ramener complètement du côté de la perception. Passe uniquement par la  matière, mais perceptuel mais arriver de le faire, mais sans le guide.
-  - Les humanités ne nous sortent pas de ce paradoxe, mais plus facile  de documenter la signification, strates de sens d’une expo ou d’une  performance.
-  - Quel type d’expo, la sélection, les choix alors documenter.
-  - Mise en scène qui met l’emphase sur les effets de présence.
-  - National Gallery, Londres. Artistes invités à prendre en photo ??  les collections. Wall a choisi une œuvre de Staub. Cheval sur un fond  neutre. En fond de salle, encadré par la porte. A demandé quelle était  la carte postale qui se vendait plus.
-  - Banc, espacement des tableaux : essayez l’épiphanie. Alors que ce qu’on aime c’est avoir des waou que les autres n’ont pas.
+Dans le contexte actuel, pas quand il a écrit, dans l'ambiance Woke (pas l'insulte) mais montre la charge d'un contenu éthique, très souvent impact interprétation des œuvres qui sont présentes, lui prend soin de détacher l'intensité esthétique et les questions éthiques.
 
-#### Objets du vécu esthétique
+### Livre à l'analyse du vécu esthétique : 8 points
 
-- **Instabilité** : Les objets du vécu esthétique sont  pas du tout stables, offrent une expérience, un moment éphémère, et  l’oscillation entre les effets de présence et les effets de sens :  “confère aux objets une part d’agitation et une part d’instabilité”
-- **Oscillation** : Matérialité et modalités médiatiques. Ex : œuvre cinématographique, convention de l’art de l’installation.
-- **Présence et signification** : Se distribuent de  manière spécifique selon la matérialité (c’est-à-dire la modalité  médiatique) et selon chaque objet de vécu esthétique. p.166.
-- **Épiphanie** : Temporalité particulière qui confère à  l’objet un statut d’événement. Mise en jeu par la substance. Insiste sur la substance pour éviter toutes les connotations ontologiques liées à  l’essence. Parle bien des trois aspects : soudaineté, intensité et forme imprévisible, le fait qu’elle s’efface à mesure qu’elle surgit.
-- **Violence** : Avec le statut de l’événement. Certaine  conception de l’événement basée sur la philosophie plutôt que  l’histoire. Événement comme déchirure et rupture. Sublime ou beau parce  qu’on est insularisé par rapport à ce déchaînement des forces.
+- Comment faire ressentir ? p.151
+- Intensité s'accompagne d'un sentiment de perte p.154
+- Cadre situationnel p.157
+- Disposition spécifique qui accompagne régulièrement la condition structurelle de l'insularité, p.161
+- Quelles sont les caractéristiques générales de ces objets du vécu - esthétique ou non - qui nous attirent et nous poussent à être « coupés du monde par la concentration » ? p.161 reconnaît à l'objet une agentivité.
+- Les objets du vécu esthétique se caractérisent : c'est qu'ils déclenchent une oscillation entre effets de présence et effets de signification. [qui exercent cette fascination], il nous faut un cadre d'insularité, un cadre de possibilité. Jusqu'à maintenant nos objets sont considérés comme éphémères. Mais si on prend ça à travers présence : on s'aperçoit que l'éphémérité, est une conséquence sine qua non de vécu esthétique, dans sa dimension épiphanique. Pas garantie que l'épiphanie se reproduise.
+  Porter attention particulière aux matériaux.
+  // manière de faire signifier l'œuvre
+  **Z :** parler aux acteurs du réseau (guide, surveillant plus à même à partager moment de présence).
+  **JL :** guide lui a fait découvrir un Barnett Newman, *Voice of Fire*. Ramener complètement du côté de la perception. Passe uniquement par la matière, mais perceptuel mais arriver de le faire, mais sans le guide.
+  Les humanités ne nous sortent pas de ce paradoxe, mais plus facile de documenter la signification, strates de sens d'une expo ou d'une performance.
+  Quel type d'expo, la sélection, les choix alors documenter.
+  Mise en scène qui met l'emphase sur les effets de présence.
+  National Gallery, Londres. Artistes invités à prendre en photo ?? les collections. Wall a choisi une œuvre de Staub. Cheval sur un fond neutre. En fond de salle, encadré par la porte. A demandé quelle était la carte postale qui se vendait le plus.
+  Banc, espacement des tableaux : essayez l'épiphanie. Alors que ce qu'on aime c'est avoir des wow que les autres n'ont pas.
 
-#### Effet attendu d’un vécu esthétique
+Les objets du vécu esthétique ne sont pas du tout stables, offrent une expérience, un moment éphémère, et l'oscillation entre les effets de présence et les effets de sens : "confère aux objets une part d'agitation et une part d'instabilité"
 
-- **Ouverture à l’affect** : S’il n’a pas pour but d’être édifiant, pas un modèle exemplaire ni une source de connaissances.
-- **Question** : Quel effet attendu d’un vécu esthétique ?
+[…] une tension/oscillation entre effets de présence et effets de signification qui confère aux objets du vécu esthétique une part d'agitation et d'instabilité provocatrice. p.165.
 
-#### Présentification du passé
+Oscillation : matérialité et modalités médiatiques.
+Ex : œuvre cinématographique, convention de l'art de l'installation
+Présence et signification se distribuent de manière spécifique selon la **matérialité (c'est-à-dire la modalité médiatique)** et selon chaque objet de vécu esthétique.
+p.166.
 
-- **Techniques de présentification** : Expositions  monographiques : on va devoir reconstituer des décennies, expositions  par mouvements, expositions transhistoriques.
-- **Artefacts passés** : Remplir le présent avec des artefacts passés : œuvres sont finies dans la plupart des cas.
-- **Contexte épiphanique** : Expositions comme contexte épiphanique.
+- **Épiphanie** p.169
+  Temporalité particulière qui confère à l'objet un statut d'événement.
+  Mise en jeu par la substance. Insiste sur la substance pour éviter toutes les connotations ontologiques liées à l'essence
+  Parle bien des trois aspects : soudaineté, intensité et forme imprévisible, le fait qu'elle s'efface à mesure qu'elle surgit.
+- **Violence** p.
+  Avec le statut de l'événement. Certaine conception de l'événement basé sur la philosophie plutôt que l'histoire. Événement comme déchirure et rupture.
+  Sublime ou beau parce qu'on est insularisé par rapport à ce déchaînement des forces.
 
-#### Objets considérés comme importants
+Quel effet attendu d'un vécu esthétique ?
+S'il n'a pas pour but d'être édifiant, pas un modèle exemplaire ni une source de connaissances.
+Ouverture à l'affect.
 
-- **Position ambigüe** : Vis-à-vis de leur  contextualisation historique, chef-d’œuvre = œuvre qui transcende le  temps, Rancière, anachronisme. Objet qui transcende la périodisation.  Objet d’éternité, sortir de la périodisation.
+### Histoire et présentification du passé
 
-#### Modèle de Gumbrecht
+**Présentification du passé ?**
+Expositions monographiques : on va devoir reconstituer des décennies, expositions par mouvements, expositions transhistoriques
+Remplir le présent avec des *artefacts* passés : œuvres sont finies dans la plupart des cas.
+Expositions comme contexte épiphaniques :
 
-- **Présence du corps et de l’intellect** : Pour que ce  vécu se fasse en présence du corps mais aussi de l’intellect donc du  sens. Surcharger les sens chez les catholiques vs les protestants. Sens  outil de connaissance.
-- **Effets de présence** : Constituent-ils l’expo ?
+Œuvres considérées comme importantes : position ambiguë vis-à-vis de leur contextualisation historique, chef-d'œuvre = œuvre qui transcende le temps. Rancière, anachronisme. Objet qui transcende la périodisation. Objet d'éternité, sortir de la périodisation.
 
-#### Genèse curatoriale
+Son modèle n'est vraiment pas le musée d'art, ici.
 
-- **Déploiement de l’expo** : Se fait avec le spectateur en tête. Quel effet aura l’expo sur lui.
-- **Effet de présence** : Peut avoir un apport propice dans cadre situationnel. Un effet de présence n’appartient pas à l’exposition.
-- **Reenactment** : Citation d’une expo ou d’une photo. Appartient à la relation, au vécu esthétique.
+Pour que ce vécu se fasse en présence du corps mais aussi de l'intellect donc du sens. Surcharger les sens chez les catholiques vs les protestants. Sens outil de connaissance.
 
-#### Activation du réseau
+Est-ce que les effets de présence sont constitutifs de l'expo ?
 
-- **Modèles** : Se mesurer à des modèles pour répondre à la question de l’activation du réseau.
-- **Exemple** : Offices visite hors jour d’ouverture,  étudiantes se mettent à pleurer. Ils sont tous là. Un moment un peu  comme le bleu de Cézanne, on pleure devant nos privilèges. Et Gumbrecht  ne parlent pas de cette dimension ?
+La genèse curatoriale pour répondre à cette question de partie constituante.
+Le déploiement de l'expo se fait avec le spectateur en tête. Quel effet aura l'expo sur lui.
+L'effet de présence peut avoir un apport propice dans cadre situationnel. Un effet de présence n'appartient pas à l'exposition.
+*Reenactment* : citation d'une expo ou d'une photo. Appartient à la relation, au vécu esthétique.
 
-#### Phénomène historique
+**Z :** Se mesurer à des modèles pour répondre à la question de l'activation du réseau.
+**JL :** Offices visite hors jour d'ouverture, étudiantes se met à pleurer. Ils sont tous là. Un moment un peu comme le bleu de Cézanne, on pleure devant nos privilèges. Et Gumbrecht ne parle pas de cette dimension ?
 
-- **Performance** : Vécu de présence possible à partir de la documentation ? Mais c’est dû à la compréhension donc à la  signification. À voir avec l’imagination ?
+Phénomène qui a plus à voir avec l'histoire, que l'esthétique.
+Performance : vécu de présence possible à partir de la documentation? Mais c'est dû à la compréhension donc à la signification. À voir avec l'imagination?
 
-#### Présent élargi
+Oppose avènement temps historique, remplacer par un *Présent élargi*
 
-- **Condition favorable** : À l’épiphanie que peut  concevoir un commissaire qui souhaite offrir moment d’intensité : argué  qu’un moyen sûr et efficace de parvenir à ça serait l’effet de l’écoute  flottante en psychanalyse. Quand le psychanalyste n’était pas focal sur  tous les mots, il n’écoute seulement au sens des mots, mais aussi la  gestuelle, la voix.
-- **Écoute flottante** : Forme de retrait et de distance.
+Condition favorable à l'épiphanie que peut concocter un commissaire qui souhaite offrir moment d'intensité : argué qu'un moyen sûr et efficace de parvenir à ça serait l'effet de l'écoute flottante en psychanalyse. Quand le psychanalyste, n'était pas focalisé sur tous les mots, il n'écoute seulement au sens des mots, mais aussi la gestuelle, la voix.
+Écoute flottante : forme de retrait et de distance.
 
-#### Techniques de présentification du passé
+Ou côtes flottantes. Au choix.
 
-- **Question** : Mais en quoi ces techniques de  présentification du passé sont-elles différentes, par exemple, de celles qui nous font tirer des leçons du passé ? p.185.
-- **Affect** : Quelles sont les techniques de présentification du passé ? En tirer l’affect.
-- **Philosophie vs Art** : *Qu’est-ce-que la philosophie*, art domaine des affects, tandis que la philosophie est le domaine des concepts.
-- **Discipline de l’hda** : S’est érigée dans le domaine de l’affect à partir de connaissances.
+**Techniques de présentification du passé.** p.185
+Mais en quoi ces techniques de présentification du passé sont-elles différentes, par exemple, de celles qui nous font tirer des leçons du passé? p.185.
 
-#### Pédagogie et enseignement
+Quelles sont les techniques de présentification du passé ?
+En tirer l'affect.
+*Qu'est-ce que la philosophie*, art domaine des affects, tandis que la philosophie est le domaine des concepts
+La discipline de l'histoire de l'art s'est érigée dans le domaine de l'affect à partir de connaissances.
 
-- **Mise en scène** : Technique de deixis.
-- **Citation** : “Ce qu’on ne peut pas dire, il faut le montrer” - Wittgenstein.
-- **Tour d’ivoire** : Pour renforcer la distance. Ou, est-ce-qu’on pense ce type de travail ?
-- **Ancien prof** : Ceux qui peuvent descendre de la tour d’ivoire, ce sont les anciens profs. Plus doués pour vulgariser,  simplifier. Production qui met moi de l’avant, la complexifier.
+Pédagogie, enseignement. Mettre en scène, technique de deixis
 
-#### Présence et plénitude
+"Ce qu'on ne peut pas dire, il faut le montrer"
+Wittgenstein.
 
-- **Texte de Gumbrecht** : La présence n’est pas du côté de la plénitude.
+Tour d'ivoire pour renforcer la distance. Ou, est-ce qu'on pense ce type de travail ?
+**JL :** ceux qui peuvent descendre de la tour d'ivoire, ce sont les anciens profs. Plus doués pour vulgariser, simplifier. Production qui mette moins de l'avant, la complexifier.
 
-### Comment signification x présence ont été jouées par, et dans le grand récit de l’hda ?
+La présence n'est pas du côté de la plénitude dans le texte de Gumbrecht.
 
-#### Deux colonnes opposées de termes
+## Comment signification x présence ont été joués par, et dans le grand récit de l'histoire de l'art ?
 
-- **Présence** vs **Signification**
-- **Sensoriel (corps)** vs **Signification**
-- **Phénoménologique** vs **Herméneutique**
-- **Vivre (vécu)** vs **Interpréter**
-- **Expérience** vs **Lecture**
+Deux colonnes opposées de termes : présence et signification
 
-#### Vol de la Joconde
+| Présence | Signification |
+|----------|--------------|
+| Sensoriel (corps) | Signification |
+| Phénoménologique | Herméneutique |
+| Vivre (vécu) | Interpréter |
+| Expérience | Lecture |
 
-- **Longue file** : Pour voir le vide. Plusieurs façons  d’interpréter ça ; veille aux morts, pleine compréhension de  l’expérience => libération de la signification historique et pression à signifier, c’est libérateur.
+Ça ne niaise pas avec l'époque
 
-#### Histoire de l’art comme discipline
+### Le vol de la Joconde
+Longue file pour voir le vide. Plusieurs façons d'interpréter ça ; veillée aux morts, pleine compréhension de l'expérience => libération de la signification historique et pression à signifier, c'est libérateur.
 
-- **Modèle hermeneutique** : Panofsky oui.
-- **Printemps de Botticelli** : Chef de l’école de ? ,  Ernst Gombrich. Absolument résoudre l’énigme, alors que compréhension  multiple de la beauté de l’image. Pour G, faire plutôt une  interprétation sociale de l’art au lieu de l’herméneutique.
-- **Beauté** : Véhicule vers l’idée, et dit à P. Méthode  de Panofsky est incapable de s’adresser à ceux qui pensent la forme.  Critique est fondée, Panofsky n’a pas la moindre attention à la  matérialité des œuvres.
+L'histoire de l'art comme discipline nous paraît être véritablement ancrée dans le modèle herméneutique ?
+Panofsky oui
 
-#### Montée en puissance de Panofsky
+À propos du Printemps de Botticelli.
+Chef de l'école de ?, Ernst Gombrich. Absolument résoudre l'énigme, alors que compréhension multiple de la beauté de l'image. Pour G, faire plutôt une interprétation sociale de l'art au lieu de l'herméneutique.
 
-- **Princeton** : Jusqu’à la fin des années 60.
-- **Randall** : Ami de P. et le consultait pour  recommandation de la direction du département. C’est d’ailleurs sur sa  recommandation que Robert Klein, est devenu enseigné à Mtl.
-- **Cinéma** : Art comme un moyen de connaître l’esprit de l’époque et/ou vision d’un monde et d’une époque.
+Beauté est un véhicule vers l'idée, et dit à P
+Panofsky interprète chaque détail, tout mais n'accorde aucune attention à la beauté, les valeurs matérielles de l'œuvre.
+Méthode de Panofsky est incapable de s'adresser à ceux qui pensent la forme.
+Critique est fondée, Panofsky n'a pas la moindre attention à la matérialité des œuvres.
 
-#### Problématique
+Montée en puissance de Panofsky commence quand il va à Princeton. Jusque dans la fin des années 60.
+Randall était un ami de P. Et le consultait pour recommandation de la direction du département. C'est d'ailleurs sur sa recommandation que Robert Klein, est devenu enseignant à Montréal.
+Panofsky a secondé l'idée d'étudier le cinéma. Art comme un moyen de connaître l'esprit de l'époque et/ou vision d'un monde et d'une époque.
 
-- **Exemple** : Tous les tableaux, viennent-ils confirmer la vision du monde de la Renaissance ?
-- **Exemple parfait** : Aporie de l’herméneutique. Où la description des œuvres, des moyens n’ont aucune importance.
+On voit tout de suite ce que ça a de problématique : parce que tous les tableaux, viennent-ils confirmer la vision du monde de la Renaissance?
+Exemple parfait de l'aporie de l'herméneutique.
+Où la description des œuvres, des moyens n'ont aucune importance.
 
-#### Courant formel ou formalisme
+À côté de Panofsky, courant formel ou formalisme. Wölfflin : balancier parfois linéaire, parfois plastique (5 principes)
+Enseignement de l'art par deux diapos. Comparaison des œuvres. Apparaît plus ou moins linéaire ou pictural.
+Gombrich donne des catégories stylistiques observées à partir des tableaux, et jamais il ne va s'intéresser à s'expliquer : comment on passe de l'ombre et la lumière, qui est manifeste, histoire se limite au premier plan et après se passe au second. Il a une méthode de description et mouvement qu'il décrit comme quelque chose de cyclique.
 
-- **Wölfflin** : Balancier parfois linéaire, parfois plastique (5 principes).
-- **Enseignement de l’art** : Par deux diapos. Comparaison des œuvres. Apparait plus ou moins linéaire ou pictural.
-- **Gombrich** : Catégories stylistiques observées à  partir des tableaux, et jamais il ne va s’intéresser à s’expliquer :  comment on passe de l’ombre et la lumière, qui est manifeste, histoire  se limite au 1er plan et après se passe au second. Il a une méthode de  description et mouvement qu’il décrit comme quelque chose de cyclique.
+Approche formelle : Roger Fry, explication de l'art contemporain. Et pour en parler en termes de formes, on va observer, regarder ce qui se passe. Or, rapidement, l'école américaine s'empare du formalisme.
+Et le formalisme américain devient un grand récit téléologique, on sait où ça s'en va, planéité et délimites de la planéité.
 
-#### Approche formelle
+Spécificité de la peinture va servir à décrire ce qui se passe envers la peinture : série de renoncement qui permet à la peinture de s'assumer de plus en plus sa spécificité de médium : observation de la forme
+Manet s'attaque au modelé, au sujet?
+Impressionniste : on voit la touche apparaître qui sert à découvrir la perspective.
+Continue jusqu'à Picasso, période confond la figure du fond.
 
-- **Roger Fry** : Explication de l’art contemporain. Et  pour en parler en termes de formes, on va observer, regarder ce qui se  passe. Or, rapidement, l’école américaine s’empare du formalisme.
-- **Formalisme américain** : Grand récit téléologique, on sait où ça s’en va, planéité et délimites de la planéité.
+Peinture n'est pas posée sur la toile, la toile est vaporisée. Plus qu'un espace optique qui n'existe que pour l'œil. Toute nouvelle marque serait ajouter un espace illusionniste.
 
-#### Spécificité de la peinture
+Débat dans les années 80, Greenberg
 
-- **Manet** : S’attaque au modelé, au sujet ?
-- **Impressionniste** : On voit la touche apparaître qui sert à découvrir la perspective.
-- **Picasso** : Période confond la figure du fond.
-- **Peinture** : N’est pas posée sur la toile, la toile  est vaporisée. Plus qu’un espace optique qui n’existe que pour l’œil.  Toute nouvelle marque serait ajouté un espace illusionniste.
+Jeunes artistes dans les écoles, suivi des critiques : certains créent des stars (ex : Pollock, dripping fusion de la couleur et de la ligne, déconstruction des conventions)
 
-#### Débat dans les années 80
+Mais s'en allait dans un sens déjà annoncé. C'est pour ça que la plupart des artistes minimaux étaient des peintres deux, trois ans auparavant. Le formalisme annonçait le bout de la peinture moderniste.
 
-- **Greenberg** : Jeunes artistes dans les écoles, suivi  des critiques : certains créent des stars (ex : Pollock, dripent fusion  de la couleur et de la ligne, déconstruction des conventions).
-- **Formalisme** : Annonçait le bout de la peinture moderniste.
+L'art s'est arrêté où récit moderniste s'est épuisé
 
-#### Rosalind Krauss
+Rosalind Krauss, 1973, Notes on Modernism ?
+Prise de conscience de ce qu'est le discours formalisme, et se tourne vers d'autres médiums que la peinture.
 
-- **1973** : *Notes on Modernism* ? Prise de conscience de ce qu’est le discours formaliste, et se tourne vers d’autres mediums que la peinture.
+Les deux grandes tendances se sont quand même orientées vers l'interprétation. En plus, tout le mouvement formel a donné lieu à partir des années 60, recherches et considérations sur le signe : approches sémiotiques. Certainement dans les processus de signification, éléments de langage de la peinture. Le logos continue à être la carte pour influencer l'art.
 
-#### Deux grandes tendances
+Politisation de l'art qui se fait en France : Histoire de l'art et lutte des classes, Nicos Hadjinicolaou
+Plateforme marxiste où il montrait à quel point c'était les commanditaires qui contrôlaient les styles de l'art.
 
-- **Interprétation** : EN plus, tout le mouvement formel a donné lieu à partir des années 60, recherches et considérations sur le  signe : approches sémiotiques. Certainement dans les processus de  signification, éléments de langage de la peinture. Le logos continue à  être la carte pour influencer l’art.
+On finit par s'intéresser aux moyens de production, une des formes des histoires contextualistes. // Histoire sociale de l'art, "de son temps", lecture synchronique des œuvres, mais on était en train d'interpréter les œuvres par l'époque.
 
-#### Politisation de l’art
+**Esthétique de la réception :** horizon d'attente. Que si les œuvres ne coïncident pas avec cet horizon d'attente, elles sont éjectées avant d'être remises dans le circuit, pour juger sa valeur.
+Tout est un jugement, le critique mais aussi le peintre suivant.
 
-- **France** : Histoire de l’art et lutte des classes,  Nicos Hadjinicolaou. Plateforme marxiste où il montrait à quel point  c’était les commanditaires qui contrôlaient les styles de l’art.
-- **Moyens de production** : Une des formes des histoires contextualistes. // Histoire sociale de l’art, “de son temps”, lecture  synchronique des œuvres, mais on était en train d’interpréter les œuvres par l’époque.
+De jugement en jugement, on apprend ce qui s'est construit = signification de l'œuvre. On ne sort jamais de la signification. Seul moment, c'est dans la critique d'art qui résister au formalisme, qui a adopté une approche phénoménologique. L'enjeu était dans la réflexivité. Pas dans la spécificité du médium.
+Mais on était dans l'autoréflexivité, voir une expo d'art minimal. Qui nous demandait de nous percevoir percevant. Voir le voir.
+Voir comment l'objet qu'on construit à travers l'expérience.
 
-#### Esthétique de la réception
+Ex : trois grands L de Morris. Le spectateur les voit pas toujours comme des L. De plus en plus d'œuvres ne sont pas dissociables du lieu.
+==> De plus en plus, des œuvres sont dissociables du lieu, genre de la terre dans une galerie, déplacement.
 
-- **Horizon d’attente** : Que si les œuvres ne coïncident pas avec cet horizon d’attente, elles sont éjectées avant d’être  remises dans le circuit, pour juger sa valeur.
-- **Jugement** : Tout est un jugement, le critique mais aussi le peintre suivant.
+Par espace, que vient la question de la phénoménologie.
 
-#### De jugement en jugement
+Espace : éclairage. Présentation situationnelle : Fried : un élément de l'expérience du spectateur. L'œuvre devrait avoir la présence
+Gumbrecht n'est pas formalisme, mais montre comment la présence dépend de l'agentivité de l'œuvre, et pas seulement de la subjectivité.
+Ex : L'espace ne fonctionne pas. Retirer des œuvres à cause de l'espace. Ellsworth Kelly à la CL.
 
-- **Construction** : On apprend ce qui s’est construit =  signification de l’œuvre. On ne sort jamais de la signification. Seul  moment, c’est dans la critique d’art qui résiste au formalisme, qui a  adopté une approche phénoménologique. L’enjeu était dans la réflexivité. Pas dans la spécificité du medium.
-- **Autoreflexivité** : Voir une expo d’art minimal. Qui nous demandait de nous percevoir percevant. Voir le voir.
-- **Exemple** : Trois grands L de Morris. Le spectateur  les voit pas toujours comme des L. De plus en plus d’œuvres sont pas  dissociables du lieu.
-- **Espace** : Éclairage. Présentation situationnelle : Fried : un élément de l’expérience du spectateur. L’œuvre devrait avoir la présence.
-- **Gumbrecht** : N’est pas formaliste, mais montre comment la présence dépend de l’agentivité de l’œuvre, et pas seulement de la subjectivité.
-- **Exemple** : L’espace ne fonctionne pas. Retirer des œuvres à cause de l’espace. Ellsworth Kelly à la CL.
+Imagination, peut-être un espace pour la présence ? Ne passe par l'expérience physique des corps ? Est-ce qu'elle joue le rôle de la présence ?
+Est-ce que peut suppléer la présence ?
 
-#### Imagination
+S'en écarte du vécu esthétique du point de vue de l'objet. Joue un rôle dans la présence.
 
-- **Rôle** : Peut-être un espace pour la présence ? Ne  passe par l’expérience physique des corps ? Est-ce qu’elle joue le rôle  de la présence ?
-- **Suppléance** : Est-ce que peut suppléer la présence ?
+Démonstration du parti-pris de l'histoire de l'art, pour la signification, seulement un espace au niveau de la critique d'art pour faire naître, pour évoquer les situations de présence.
 
-#### Distance du vécu esthétique
+- Tradition de critique d'art formaliste qui décrivait.
 
-- **Point de vue de l’objet** : S’en écarte du vécu esthétique du point de vue de l’objet. Joue un rôle dans la présence.
-- **Démonstration** : Parti-pris de l’hda, pour la  signification, seulement un espace au niveau de la critique d’art pour  faire naître, pour évoquer les situations de présence.
+**Effet de présence :** de l'objet dans le cadre du vécu esthétique
+Pour G: présence de l'objet et du corps.
 
-#### Tradition de critique d’art formaliste
+Une partie dans G : Mutisme.
+Clignotement des effets de sens et des effets d'absence.
 
-- **Description** : Effet de présence : de l’objet dans le cadre du vécu esthétique.
-- **Gumbrecht** : Présence de l’objet et du corps.
+Idée de Gumbrecht, effets présence instaure un sentiment de perte, et non de plénitude, c'est l'hypothèse à partir de laquelle on travaille le 22 mai, on est chez les post-docs.
 
-#### Mutisme
+Comment le sentiment d'absence est l'origine de la discipline de l'histoire de l'art.
 
-- **Clignotement** : Des effets de sens et des effets d’absence.
-- **Idée de Gumbrecht** : Effets présence instaure un  sentiment de perte, et non de plénitude, c’est l’hypothèse à partir de  laquelle on travaille le 22 mai, on est chez les post-docs.
+Il se peut bien que toute la construction de la discipline autour de la signification vise à combler le fait que tout soit construit sur l'absence : DAVIS.
 
-#### Sentiment d’absence
+Longue période là-dessus
+Puis distribution de textes sur l'événement : sur la conception historique de l'événement, philosophie : réfléchit à partir du sens moderne de la notion d'événement
 
-- **Origine de la discipline** : Comment le sentiment d’absence est l’origine de la discipline de l’histoire de l’art.
-- **Davis** : Longue période là-dessus. Puis distribution de textes sur l’événement : sur la conception historique de  l’événement, philosophie : réfléchit à partir du sens moderne de la  notion d’événement.
+Inscrire nos présentations :
 
-## La suite
+- Textes + projet
 
-- **Textes + projet** : Inscrire nos présentations.
-- **Blocs** : Entre le bloc événement, Bloc de l’enquête, bloc participation, bloc enquête pragmatique
+Entre le bloc événement, Bloc de l'enquête, bloc participation.
 
-#### Présence et signification
+Enquête pragmatique : quel chapitre ?
 
-- **Distinction sujet/objet** : Devoir des sujets à interpréter le monde. Comme si on visait sous un impératif herméneutique.
-- **Statut de l'interprétation** : Ce qui a changé : statut de l'interprétation juste et unique a été ébranlé.
-- **Concepts** : Cherche les concepts qui vont pouvoir étayer les effets de présence sans les interpréter.
-- **Effets de présence** : Plus proche d'une phénoménologie qui sont encore à venir, à conceptualiser, qui ouvriraient sur un avenir des humanités.
+Joanne, le 20 mai 2025
+J'ai affaire à deux perverses. Elle essaie de nous construire une illusion de présence.
 
-#### Modélisation du concept de présence
+**Semaine prochaine :**
+Éloge de la présence
+Présence selon un système qui ne soit pas du côté du sens et de la signification.
 
-- **Mode d'être** : Mode d'apparaître.
-- **Dimension religieuse de la présence** : Chapitre suivant.
-- **Whitney Davis** : Pour le jeudi.
+Distinction sujet/objet et devoir des sujets à interpréter le monde. Comme si on vivait sous un impératif herméneutique.
 
-#### Histoire de la discipline fondée sur l'éphémère
+Ce qui a changé : statut de l'interprétation juste et unique a été ébranlé.
 
-- **Bloc : Événement**
-- **Bloc : Participation**
+Au-delà de la signification : cherche les concepts qui vont pouvoir étayer les effets de présences sans les interpréter.
 
-#### Allergie à la phénoménologie
+Effets de présence plus proche d'une phénoménologie qui sont encore à venir, à conceptualiser, qui ouvriraient sur un avenir des humanités.
 
-- **Préférence pour le pragmatisme** : JL a une allergie à la phénoménologie. Préfère le pragmatisme.
-- **Ontologie** : Avec la notion de présence, on rentre dans l'ontologie (ontologie de l'être).
+Modélisation du concept de présence : mode d'être, mode d'apparaître.
+
+Chapitre après
+Dimension religieuse de la présence
+
+Whitney David, pour le jeudi
+
+Histoire de la discipline fondée sur l'éphémère
+
+Bloc : Événement
+Bloc : Participation
+
+JL a une allergie à la phénoménologie. Préfère le pragmatisme.
+Avec notion de présence, on rentre dans l'ontologie (ontologie de l'être)

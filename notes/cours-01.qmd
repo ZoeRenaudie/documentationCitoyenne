@@ -49,7 +49,7 @@ Grand problème autour de la contamination du mot citoyen.
 Quand il est utilisé comme adjectif : citoyen, terme n'est pas clair. Musée citoyen, muséologie citoyenne. 
 Musée citoyen = pour les citoyens ou comme citoyen dans la cité ?
 
-### Documentation citoyenne pourrait être une documentation qui est construite par les citoyen·nes 👍
+### Documentation citoyenne pourrait être une documentation qui est construite par les citoyen·nes
 
 #### MNBA
 Projets : atelier wiki de MNBA (Annie Gauthier), Nathalie Thibault depuis 2017. 
@@ -141,8 +141,9 @@ Pouvoir s'est complètement inversé : plus de médiateur·rices que de conserva
 Néanmoins musée continue à conserver : ils se voient comme des dispositifs de mémoire.
 Pourquoi ce qui fait partie des trucs qui font le plus, n'est pas documenté ? 
 
-**Hypothèse** : N'y accorde pas une très grande valeur ? 
+**Hypothèse** : les institutions n'accorde pas aux projets citoyens une très grande valeur ? 
 
+Les raisons invoquées au manque de documentation : 
 "On n'a pas le temps"
 "Ce qu'on fait c'est urgent, ce qui importe c'est l'action pas la documentation" 
 "On ne peut pas avoir un protocole d'action car on utilise l'approche des publics : co-construction des projets"
@@ -203,3 +204,140 @@ C'est ça qui fait la valeur, l'exposition et la performance.
 Qu'est-ce qu'on fait de cette ancienne valeur, qui est "fondatrice" de ces objets ?  
 
 Comment relayer ça dans modèle documentaire au moment où c'est le numérique ?
+
+### Présentation de mon sujet
+
+#### 1. Problématique et enjeux théoriques
+
+##### Le paradoxe de l'éphémère et du permanent
+
+Cette recherche doctorale part d'un constat muséologique fondamental : bien que les expositions constituent une forme essentielle de production et de médiation de l'art contemporain, elles demeurent étonnamment sous-documentées et difficilement accessibles à l'analyse rétrospective. Leur nature éphémère, performative et relationnelle, ainsi que la diversité des objets, dispositifs, publics et discours qu'elles mobilisent, rendent leur conservation problématique dans les cadres traditionnels de la muséologie.
+
+La documentation des expositions constitue un espace de tension fondamental entre deux dynamiques apparemment contradictoires : l'éphémère, caractéristique intrinsèque des expositions en tant qu'événements temporaires, et la pérennité, inhérente à la volonté institutionnelle et scientifique de conserver, transmettre et patrimonialiser ces manifestations artistiques. Cette mission pour les biens patrimonialisés est au coeur de la conservation-restauration.
+
+Par leur nature même, les expositions sont des expériences transitoires qui mobilisent des œuvres, des dispositifs scénographiques, des discours curatoriaux et des interactions avec le public dans un cadre spatial et temporel délimité. Une fois démontées, il ne subsiste généralement que des traces fragmentaires dans les archives – photographies, cartels, plans d'accrochage, catalogues – incapables de restituer pleinement la complexité relationnelle et contextuelle de l'événement vécu.
+
+##### L'acte documentaire comme transformation
+
+Face à cet effacement structurel, la documentation apparaît comme un acte de sauvegarde visant à prolonger l'existence de l'exposition au-delà de sa durée physique. ["Nos souvenirs, ils doivent être transmis par ceux qui nous ont connus dans la vie – dans les histoires qu’ils racontent sur nous."
+« Coco » / Walt Disney Pictures / Pixar Animation Studios. 2017]{.aside} Cependant, cet acte de pérennisation soulève des questions muséologiques et méthodologiques cruciales : que documente-t-on exactement ? Comment choisir ce qui mérite d'être conservé ? Quelle interprétation impose-t-on au geste de conservation ?
+
+Documenter une exposition implique inévitablement de la transformer, en fixant ce qui, dans l'expérience vécue, était mouvant, performatif et pluriel. La documentation devient ainsi un espace de négociation entre fidélité à l'événement vécu et reconfiguration pour les besoins de la mémoire et de l'étude future. Elle ne se contente pas d'enregistrer : elle construit un récit, sélectionne, interprète et organise.
+
+Cette tension est particulièrement sensible dans le contexte des pratiques artistiques contemporaines, où les expositions intègrent de plus en plus d'œuvres immatérielles, participatives ou évolutives, échappant aux outils classiques d'archivage et de documentation.
+
+#### 2. Objectifs et hypothèses de recherche
+
+##### Objectif principal
+
+Développer une approche innovante de conservation-restauration des expositions permettant d'explorer leurs données matérielles et immatérielles pour enrichir les théories de conservation-restauration et la compréhension des pratiques curatoriales contemporaines.
+
+##### Objectifs secondaires
+
+- Analyse critique des modèles existants : Identifier les lacunes des systèmes actuels de documentation (archives statiques, manque de contextualisation, absence de dimension relationnelle)
+- Exploration des potentialités numériques : Examiner comment les outils numériques peuvent permettre d'archiver et de restituer la performativité, l'interactivité et les dimensions temporelles des expositions
+- Développement de modèles inclusifs : Proposer des approches plus participatives et démocratiques pour documenter l'activation des expositions, en valorisant les récits périphériques et les voix minoritaires
+
+##### Hypothèses de travail
+
+La documentation enrichie par les humanités numériques permettra de conserver l'essence performative et relationnelle des expositions : En développant des méthodes de documentation augmentées par les outils numériques, il devient possible de préserver et transmettre non seulement les éléments matériels des expositions (œuvres, scénographie, dispositifs), mais aussi leurs dimensions immatérielles, temporelles et relationnelles qui constituent leur véritable spécificité en tant qu'événements culturels complexes.
+
+#### 3. Méthodologie et outils de recherche
+
+##### Approche méthodologique
+
+La recherche s'appuiera sur une modélisation progressive des expositions et de leur documentation, développée en collaboration avec des partenaires institutionnels et scientifiques reconnus :
+
+L'Ouvroir d'histoire de l'art et muséologie numériques (Université de Montréal)
+Le Comité International pour la Documentation (CIDOC) de l'ICOM
+Le Partenariat CRSH Des nouveaux usages des collections dans les musées d'art
+
+##### Phases de recherche
+Phase 1 : Fondements théoriques
+
+Revue systématique de la littérature sur les outils numériques de conservation
+Analyse critique des modèles existants de documentation muséale
+Développement d'un cadre théorique interdisciplinaire
+
+Phase 2 : Modélisation conceptuelle
+
+Développement d'un modèle théorique notamment grâce à l'outil Display
+Conception d'ontologies sémantiques adaptées aux spécificités des expositions
+Création de schémas relationnels pour la base de données
+
+Phase 3 : Expérimentations empiriques
+
+Conduite d'observations participantes sur des cas d'études choisis
+Tests comparatifs de différents outils numériques en fonction des typologies d'expositions
+Analyse critique des résultats et ajustements méthodologiques
+
+##### Cas d'études envisagés
+Le modèle sera testé en conditions réelles sur plusieurs typologies d'expositions :
+
+- Exposition "Feux Pâles" des Ready Made appartiennent à tout le monde (approche Excel/tableur)
+- Exposition de la collection réouverture MAC (base de données relationnelle)
+- Exposition "MONTE VERITÀ. Le mammelle della verità" de Harald Szeemann (outil Display)
+
+##### Infrastructure technique
+Outils de collecte et d'analyse
+
+Archives internes d'institutions partenaires
+Collections spécialisées (Artexte, fonds d'art contemporain)
+Témoignages d'acteurs impliqués (entretiens semi-directifs)
+
+##### Environnement numérique
+
+Bases de données relationnelles : FileMaker Pro pour la structuration des données
+Gestion bibliographique : Zotero pour la documentation scientifique
+Web sémantique : Display pour la modélisation ontologique
+Développement : Svelte, Visual Studio Code
+Visualisation : WebVOWL, Gephi pour l'analyse de réseaux
+
+#### 4. Défis et limites anticipés
+
+##### Accès aux cas d'études
+
+L'accès aux cas d'études représente un défi majeur, particulièrement pour valoriser le travail de personnes minorisées souvent sous-représentées dans les archives institutionnelles. Le développement d'un réseau au Québec reste nécessaire pour identifier et accéder à des expositions diversifiées.
+
+Certaines expositions, notamment celles portées par des communautés minoritaires, laissent peu de traces archivées ou facilement accessibles, ce qui soulève des questions d'équité et de représentativité dans la constitution du corpus.
+
+##### Défis techniques
+
+La formation aux aspects techniques des ontologies sémantiques et de la modélisation formelle constitue un apprentissage en cours, nécessitant un accompagnement spécialisé et une montée en compétences progressive.
+
+##### Enjeux éthiques
+
+La question de la propriété intellectuelle et du droit à l'image dans la documentation d'expositions soulève des défis éthiques importants, particulièrement dans une approche participative valorisant les témoignages.
+
+#### 5. Priorités et posture de recherche
+
+- Approche pragmatique
+
+Privilégier le travail à partir de cas d'études concrets pour construire une méthodologie ancrée dans la pratique professionnelle et facilement appropriable par les acteurs du terrain.
+
+- Posture réflexive et éthique
+
+Adopter une posture critique et réflexive face aux enjeux de pouvoir inhérents à tout acte documentaire, en questionnant constamment les choix de sélection, d'interprétation et de mise en récit.
+
+- Outil collaboratif et ouvert
+
+Concevoir un outil numérique ouvert et collaboratif, facilement appropriable par les professionnel·les du patrimoine et les chercheur·euses, dans une logique de science ouverte et de démocratisation des savoirs.
+
+#### 6. Corpus bibliographique de référence (3 références)
+
+- Caillet, Aline. 2019. L’art de l’enquête: savoirs pratiques et sciences sociales. Art, esthétique, philosophie, n. 6. Milan. Paris: Éditions Mimésis.
+
+- Debary, Octave, et Laurier Turgeon. 2007. Objets & mémoires. Paris Québec: Éd. de la Maison des sciences de l’homme les Presses de l’Université Laval.
+Je ne suis pas encore certaine de quel passage.
+
+- Vall, Renée van de, et Vivian van Saaze. 2024. Conservation of Contemporary Art: Bridging the Gap Between Theory and Practice. 1 online resource (viii, 401 pages) : illustrations (some color). vol. Studies in Art, Heritage, Law and the Market; v. 9; Volume 9. Cham: Springer. https://doi.org/10.1007/978-3-031-42357-4.
+Le chapitre de Sanneke Stigter " Conceptual Art and Conservation " ou " No Longer Artwork " de Marina Valle Noronha.
+
+#### 7. Contribution scientifique attendue
+Cette recherche vise à contribuer à trois champs disciplinaires :
+
+Muséologie et études curatoriales : en proposant de nouveaux modèles théoriques pour penser la conservation-restauration de l'éphémère
+Humanités numériques : en développant des outils spécifiquement adaptés aux objets culturels complexes
+Études du patrimoine : en questionnant les processus de patrimonialisation et leurs enjeux politiques
+
+L'objectif ultime est de transformer notre compréhension de ce que signifie "conserver" dans le contexte de l'art contemporain, en proposant des alternatives aux modèles traditionnels centrés sur l'objet matériel.

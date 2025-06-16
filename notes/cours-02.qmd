@@ -47,236 +47,299 @@ format:
   - Champ de la muséologie très présent en livre numérique.
   - Inviter Clémentine Deliss pour un workshop ?
 
-## Cours  
+## Cours : Art contemporain - Modèle de l'exposition et de la réflexion Snow et Kolbowski
 
-### Art contemporain : modèle de l'exposition et de la réflexion Snow et Kolbowski
+### Génèse curatoriale : une documentation absente
 
-- Génétique curatoriale : une documentation absente.
-- Exposition contrairement au texte ou aux œuvres : comprendre comment l'artiste en est arrivé là. Le commissaire prend pour acquis que ce qui est important est ce qui est mis à vue.
-- Le conservateur : s'explique par la tradition française et dans les  musées d'État ici, devoir de réserve. Imprégné très tôt dans son  apprentissage de ce devoir.
-- Un agent public est soumis à diverses obligations : devoirs de  réserve et de neutralité, obligation de discrétion professionnelle et,  dans certains cas, secret professionnel.
-- Le conservateur n'est pas aiguillé pour revendiquer ses idées et  pour produire sa pensée propre, inverse dans le champ universitaire.
-- Beaucoup de cette littérature est conflictuelle et le produit de  l'expo doit toujours apparaître comme ayant surmonté cette épreuve et  s'inscrit dans la logique irénique du musée.
-- Difficile de porter les informations en dehors du cas, souvent des résistances individuelles.
-- Fred Wilson : "Undermining the Museum". Pièce de critique  institutionnelle mais aujourd'hui en parle comme une épreuve  thérapeutique.
-- Beaucoup de musées ont fini par se sentir coupables mais cela ne  rendait pas créatif. Alors que sortir une critique permet de traiter  cette histoire du musée problématique.
-- Pourquoi ne parle-t-on pas des problèmes ? Aucune trace des problèmes.
-- Matériel dangereux car proche du potinage. Souvent nominatif.
-- Rester du côté fonctionnel si on veut des résultats.
+L'exposition, contrairement au texte ou aux œuvres, manque de documentation. On veut comprendre comment l'artiste en est arrivé là. Le commissaire prend pour acquis que ce qui est important est ce qui est mis à vue.
 
-### Chronologie des événements et expositions
+Quand on parle du conservateur : cela s'explique par la tradition française et dans les musées d'État ici, le devoir de réserve. Imprégné très tôt dans son apprentissage de ce devoir.
 
-- 2003-2007 : Période de réflexion et de développement de projets.
+Un agent public (fonctionnaire ou contractuel) est soumis à diverses obligations dans le cadre de son activité professionnelle : devoirs de réserve et de neutralité, obligation de discrétion professionnelle et, dans certains cas, secret professionnel.
 
-- 31 octobre 2003 : Début de l'exposition Carr, tournée jusqu'en 2008.
+Le conservateur n'est pas aiguillé pour revendiquer ses idées et pour produire sa pensée propre. C'est l'inverse dans le champ universitaire.
 
-- Automne 2003 : "Doublure" - Intérêt du vêtement comme vecteur relationnel et social.
+Beaucoup de cette littérature est conflictuelle et le produit de l'expo doit toujours apparaître ayant surmonté cette épreuve-là et s'inscrit dans la logique irénique du musée.
 
-- 31 octobre : Think tank autour d'Emily Carr. Tout le monde autour de la table a écrit sur l'artiste sauf JL qui avait seulement écrit un  article sur l'artiste comme porteuse d'altérité.
+Il est difficile de porter les informations en dehors du cas, souvent il y a des résistances individuelles.
 
-- Vancouver Gallery : veulent faire une grande expo Emily Carr.  Doivent s'associer à un musée mais le musée du Canada a déjà fait une  expo sur l'artiste. Ne savent pas quoi faire de plus. L'expo de 1990  avait eu un échec cuisant.
+Fred Wilson : undermining the museum. Pièce de critique institutionnelle mais aujourd'hui on en parle comme d'une épreuve thérapeutique.
 
-- Comment pourrait-on encore exposer Carr sans susciter la fureur du monde de l'art ?
+Beaucoup de musées ont fini par se sentir coupables mais cela ne rendait pas créatif. Alors que sortir une critique permet de traiter cette histoire du musée problématique.
 
-- La bonne femme qu'est Emily Carr : contemporaine de Proust,  formation académique à San Francisco puis Londres. Internée puis décide  de voyager au Canada.
+Pourquoi ne parle-t-on pas des problèmes ? Aucune trace des problèmes.
 
-- Elle voyage beaucoup au Canada, Nord du BC, visite des "villages  indiens", volonté de "commémoration" de cette culture qui est en train  de disparaître en documentant les villages, vies, œuvres autochtones.
+Matériel dangereux car proche du potinage. Souvent nominatif.
+Rester du côté fonctionnel si on veut des résultats.
 
-- Elle est découragée car elle n'a pas les compétences techniques.  Pour elle, elle doit maîtriser de la nouvelle modernité. Elle voyage  solo en France au début du XXe siècle.
+### De 2003 à 2007
 
-- Fait des ateliers pour s'approprier les différents langages. 1911 : Pour rendre justice aux cultures autochtones.
+31 octobre 2003 - A tourné jusqu'en 2008.
+L'exposition Carr commence à ce moment alors que JL a une toute petite expérience curatoriale. Elle avait déjà pris l'habitude de transformer ses recherches en exposition.
 
-- 1913 : elle fait une expo avec une centaine de ses œuvres sur la  culture BC. Aucun achat car la modernité n'est pas un langage acceptable pour la bureaucratie, pas le bon style pour documenter. Ex: *Arbre, France* 1911.
+John Porter, à l'époque directeur du musée des beaux-arts du Québec, amateur d'Irene Whittome. Il voulait présenter une expo monographique de Whittome. Seul problème : déjà 4 expos de l'artiste dans l'année. Axe pas encore exploré : le numérique. Donc on fait cela pour Irène F. Whittome, *Biofiction* au Musée des Beaux-Arts du Québec, 2000.
 
-- Années 1920 : C'est la merde pour elle parce que personne ne veut de ses croûtes.
+Expérience sans précédent : parler de quelqu'un dont on ne sait plus quoi dire. Le cas de Carr.
 
-- Elle se met donc à faire de l'artisanat "autochtone". Elle s'est  beaucoup fait accuser de ça. Dit elle-même avoir prostitué les savoirs  autochtones. Ce qui rend difficile ces expositions actuellement.
+Automne 2003 :
+[Doublures](https://voir.ca/arts-visuels/2003/06/25/doublures-vetements-de-lart-contemporain-tenues-de-soiree/)
+Intérêt du vêtement comme vecteur relationnel et social.
 
-- A pratiquement abandonné la peinture pour l'artisanat.
+31 octobre : Think tank autour d'Emily Carr. Tout le monde autour de la table a écrit sur l'artiste sauf JL qui avait seulement écrit un article sur l'artiste comme porteuse d'altérité.
 
-- *Autoportraits*, 1925.
+Vancouver Gallery veut faire une grande expo Emily Carr. Ils doivent s'associer à un musée mais le musée du Canada a déjà fait une expo sur l'artiste. Ils ne savent pas quoi faire de plus. L'expo de 1990 avait eu un échec cuisant.
 
-- Elle est découverte : exposition : Canadian West Coast Art. Native and Modern. 1927.
+Comment pourrait-on encore exposer Carr sans susciter la fureur du monde de l'art ?
 
-- Années de grandes répressions : Eric Brown, directeur de la galerie  et on lui rapporte d'exposer que l'école des 7 (que des mecs blancs of  course).
+### La bonne femme qu'est Emily Carr
 
-- Idée d'identité nationale ? On l'accuse de centralisme. Il consulte  Barbot pour exposer d'autres gens, c'est là que Carr est incluse dans  l'exposition. Et elle devient une figure renommée et elle se remet à la  peinture.
+Contemporaine de Proust.
 
-- Elle repart en expédition.
+Formation académique à SF puis Londres. Internée puis décide de voyager au Canada.
 
-- *Strangled by Growth*, 1931.
+Elle voyage beaucoup au Canada, Nord de la Colombie-Britannique.
+Elle visite des "villages indiens".
+Volonté de "commémoration" de cette culture qui est en train de disparaître en documentant les villages, vies, œuvres autochtones.
 
-- Proche d'Harris qui lui dit d'arrêter de copier mais trouver son style.
+D'autres artistes qui ont fait ça ?
 
-- *Détroit Juan de Fuca*, 1933-1936.
+Elle est découragée car elle n'a pas les compétences techniques. Pour elle, elle doit maîtriser la nouvelle modernité. Elle voyage seule en France au début du XXe siècle.
+Elle fait des ateliers pour s'approprier les différents langages. 1911
+Pour rendre justice aux cultures autochtones.
 
-- Elle arrête de peindre vers 1936 pour des raisons de santé, et se consacre à l'écriture.
+1913 : elle fait une expo avec une centaine de ces œuvres sur la culture de la Colombie-Britannique.
+Aucun achat car la modernité n'est pas un langage acceptable pour la bureaucratie, pas le bon style pour documenter. Ex : *Arbre, France* 1911.
+Survie.
 
-- Devenue sujet controversé au Canada.
+Années 1920 : C'est la merde pour elle parce que personne ne veut de ses croûtes.
 
-- Retour au Think Tank : Elle est reconnue rapidement, beaucoup d'expos sur elle. A été exposée à la Documenta.
+Elle se met donc à faire de l'artisanat "autochtone". Elle s'est beaucoup fait accuser de ça. Elle dit elle-même avoir prostitué les savoirs autochtones. Ce qui rend difficile ces expositions actuellement.
+Elle a pratiquement abandonné la culture.
+Elle a pratiquement abandonné la peinture pour l'artisanat.
 
-- Bref, on fait une expo sur quoi ? Montrer comment vous l'avez créée : "le monstre canadien".
+*Autoportraits*, 1925.
 
-- Les grands moments de sa mise à vue au Canada.
+Elle est découverte : exposition : Canadian West Coast Art. Native and Modern. 1927
+Années de grandes répressions.
+Eric Brown, directeur de la galerie et on lui reproche d'exposer que l'école des 7 (que des mecs blancs of course).
+Idée d'identité nationale ?
+On l'accuse de centralisme. Il consulte Barbeau pour exposer d'autres gens, c'est là que Carr est incluse dans l'exposition. Et elle devient une figure renommée et elle se remet à la peinture.
+Elle repart en expédition.
 
-- JL propose de refaire chrono des scénographies.
+*Strangled by Growth*, 1931.
 
-  - Refaire l'exposition de 1927. Art Gallery of Ontario.
-  - Volonté d'expliquer le projet colonial, et comment cela la mise au  monde de l'artiste. Comment c'est devenue un monument et un symbole de  l'Ouest Canadien.
-  - Au lieu d'être centralisé en termes de lieux clés aux US en tant que scènes artistiques : dénominateurs communs : Canada, c'est vraiment  plus des spécificités géographiques.
-  - Figure de l'ouest.
-  - Ensuite montré comment exposé pendant le règne du cube blanc, comme Doris Shadbolt au Musée des beaux-arts du Canada en 1990.
-  - L'expo se déroule pendant la Crise d'Oka en 1990. Aucune  reconnaissance de l'appropriation de la culture autochtone. Discours  formalistes ne sont pas encore dans les musées.
-  - Rétrospective à son décès : 1945, commissaire : Lawren Harris. Première rétrospective à sa mort.
+Proche d'Harris qui lui dit d'arrêter de copier mais de trouver son style.
 
-- Donc JL fait cette proposition : devoir refaire une expo  essentiellement colonialiste et liée au désir d'appropriation des  traditions autochtones. Se rendait pas bien compte, 2 mois après la  proposition, Hill confirme la proposition. JL a dit ok, mais trouver un  collaborateur autochtone. Impossible de trouver quelqu'un autochtone  pour travailler sur Carr.
+*Détroit Juan de Fuca*, 1933-1936.
+Elle arrête de peindre vers 1936 pour des raisons de santé, et se consacre à l'écriture.
 
-- Grande exposition sur les artistes autochtones : intégration de  Norval Morrisseau par exemple et implication des commissions des  commissaires autochtones.
+Devenue sujet controversé au Canada.
 
-- Michel Snow est alors l'artiste le plus célébré au monde. Ouverture  du CP et lui est invité. Il est parmi les artistes avec jsp qui a une  expo à Pompidou en 1977.
+### Retour au Think Tank
 
-- Snow prend en photo salle des 7 à l'ancien lieu du musée de sbx arts de Montréal. Photo peu lisibles.
+Elle est reconnue rapidement, beaucoup d'expos sur elle. Elle a été exposée à la Documenta.
 
-- Le scénario et la scénographie : les fils de 
+Bref, on fait une expo sur quoi ?
+Montrer comment vous l'avez créée : "le monstre canadien".
+Les grands moments de sa mise à vue au Canada.
+JL propose de refaire la chronologie des scénographies.
 
-  Plus tard
+- Refaire l'exposition de 1927. Art Gallery of Ontario.
+  Volonté d'expliquer le projet colonial, et comment cela a mis au monde l'artiste. Comment c'est devenu un monument et un symbole de l'Ouest Canadien.
 
-  .
+Au lieu d'être centralisé en termes de lieux clefs aux US en tant que scènes artistiques : dénominateurs communs : Canada, c'est vraiment plus des spécificités géographiques.
+Figure de l'ouest.
 
-  - Snow, 
+- Ensuite montrer comment elle a été exposée pendant le règne du cube blanc, comme Doris Shadbolt au Musée des beaux-arts du Canada en 1990.
 
-    Plus tard
+L'expo se déroule pendant la Crise d'Oka en 1990.
+Aucune reconnaissance de l'appropriation de la culture autochtone.
+Les discours formalistes ne sont pas encore dans les musées.
 
-     :
-
-    - Pose la question du temps.
-    - Pas de scénario sans scénographie.
-    - Reconnaît le rôle des institutions canadiennes.
-    - Mise en abîme.
-    - Critique de ce fait la culture du paysage, comme référence naturellement québécoise.
-    - Déploiement d'un accrochage de 25 photographies, semblable à celui que ces photos brouillent et rendant illisible.
-
-- Carr est une créature du besoin national :
-
-  - Inclusion d'un autre officiel.
-  - Altérité : incarnait l'ouest, adulation de la culture autochtone, puis valorisation de genre.
-  - Validation d'une autre altérité : son genre.
-  - Pas possible de raconter la modernité au Canada, sans parler de Carr.
-
-- Cet enchevêtrement du scénario et de la scénographie a contrarié beaucoup de mondes.
-
-  - Les acteurs contrariés : sacrifier la cohérence et la signature graphique.
-  - Relations les plus difficiles : avec les scénographes. Mieke Bal  était venu faire une conférence au congrès international d'HDA qui se  déroulait à Montréal. Thématique : espace.
-  - Bal avait dit : musée intéressé que par la cohérence.
-  - Dispositif à fabriquer de la cohérence à tout prix.
-  - Idée de construire du mobilier pour chaque expo (1927, 1945).
-  - Pas de signature graphique de l'expo.
-  - Tous ces gestes ont une importance.
-  - Discussions prises car l'expo devait circuler, et donc confrontation à des espaces différents, donc adaptabilité du mobilier.
-  - Affirmer l'énonciation curatoriale.
-  - Le musée ne présente pas des formes neutres : valeurs dans chacun des décors qui sont représentés.
-  - Donnait à voir de l'art autochtone.
-  - Défis de cette reconstruction d'expo alors qu'il y a un gros souci d'appropriation culturelle :
-    - Difficultés des négociations à cause de l'utilisation artistique de  matériel anthropologique (prêt des artefacts autochtones parce que  décontextualise les approches de l'objet).
-    - Nécessité d'un aval autochtone car c'est une des manières de faire  changer les musées historiques et anthropologiques avec l'appui des  "autochtones".
-    - Nouvelles précautions muséographiques exigées : sans fin, par  exemple 80 ans après l'expo de 1927, valeur des œuvres de l'époque n'ont pas augmenté. Les œuvres autochtones coûtaient cher à assurer. Les  musées prêtaient mais avec des conditions muséographiques extrêmement  contraignantes. Les traiter comme des objets de valeur et les plus  précieuses de l'expo.
-    - Signaler la nature de l'exposition originale (coloniale) en  résistant à la tentation de l'améliorer. (Résister à mettre de cartels  allongés par exemple sympathique) Texte qui reconnaissait la teneur  coloniale de l'expo originale de 1927, et pas envie d'édulcorer la  "violence" coloniale de l'expo.
-    - Couleur x audio : comment faire entendre les voix autochtones ?  Réaliser un audioguide, voix d'un commentateur autochtone. Seulement la  possibilité de l'entendre, aucun texte. Pas emprunt d'objets qui avaient une utilisation rituelle, seulement fonctionnelle. Discours autochtone  et qui visuellement ne changeait rien à l'expo. Pour la couleur,  designer propose une palette de couleur : vert aka la forêt c'est sympa. Mais non, peinture beige, couleur du tissu de l'expo de 1927.
-    - Énonciation apparaît dans l'acte curatorial : c'est plus tard.  Pourquoi tout est brouillé ? Il y a un point de vue et ce n'est pas le  neutre.
-
-- Modèle 2 : 1945-1990
-
-  - Murs blancs au musée des beaux-arts de Montréal.
-  - Surtout, discours sur la forme et économie de tout approfondissement du sujet et contextualisation. AUCUN document d'archives encore.
-  - Salle 1 : diverses explorations formelles à partir du modernisme. Toute la chrono d'EC dans cette salle.
-  - Salle 2 "Résonnances affectives" donnée par JL.
-  - Titre des salles fait par JL, puisque c'était son job de faire le  scénario. Cropping très proche, tête-à-tête avec "une figure  intimidente".
-  - Accrochage plus réussi dans les autres lieux que dans le Musée des beaux-arts du Canada, car les salles étaient trop grandes.
-  - Salle 3 : Nature et Transcendance. Dernière salle du cube blanc.  Titre qui fait référence au paysage comme spiritualité, voix extrêmement riche pour les artistes dans les années 1920 et 30. Carr était  intéressée mais résistait aussi : pas besoin de système de pensée pour  penser la nature spirituelle. Transcendance du blanc. *Fir Tree and Sky*.
-
-- Les négociations douloureuses
-
-  - Frontière entre les modèles 2 et 3.
-  - Modèle 3 : Contextualisation de son travail.
-  - Lien avec plein de phénomènes de son temps : comme l'industrie du  bois, une salle sur le tourisme culturel qui avait pour but de montrer  comment Carr s'est inspirée de cartes postales, comment elle était pas  pionnière ou unique que d'autres artistes femmes le faisaient aussi. Que les compagnies de train finançaient les artistes qui y allaient.
-  - Production de l'image et de l'identité, dernière salle : "The Carr  Industry's" petit nom à l'interne. Autoportraits de l'artiste, une  peinture de son singe avec des petits habits de petites filles. Carr  était vue "comme la folle du village".
-  - *Scorned as timber, beloved of the sky*. 1935.
-  - Contexte d'exploitation de la peinture : Hill a proposé d'approcher un commissaire torontois indépendant, Andrew Hunter.
-  - Intérêt de faire une salle sur l'industrie du bois. Une condition :  c'est moi qui aurait l'œuvre susmentionnée, et pas la salle de Nature et Transcendance. Les petits arbres sont des traces de l'exploitation.  Pour rappeler que les arbres étaient là et à quoi ressemblerait la  forêt...
-  - Réalité capitaliste de cette œuvre, alors que cette œuvre a été construite comme l'œuvre la plus spirituelle de Carr.
-  - Recherche dans les archives de compagnies de bois, parallèle avec  les œuvres de Carr. Les compositions sont rigoureusement les mêmes.
-  - A fait une installation photo vs peinture.
-  - Sentiment optimiste que la nature aurait le dernier mot.
-  - Toronto : choisi une des œuvres de cette salle.
-  - Vert comme paramètre signifiant.
-
-- Salle 1 : Unnatural Landscapes.
-
-- Salle 2 : Tourisme culturel.
-
-  - Analyse des cartes postales utilisées par Carr, ses erreurs quand elle raconte des bêtises sur la culture autochtone.
-  - Série sur l'artisanat pseudo autochtone.
-
-- Salle 3 : Entre miroir et l'écho (?)
-
-  - Citations sur les murs d'artistes :
-    - *Mark Tobey's Emily Carr Studio* (1928) "sans moi (...) Emily Carr n'aurait jamais existé", 1957.
-    - Carr l'a accueilli. Citations sur Carr.
-  - Marcia Crosby, collaboratrice autochtone, comment Carr s'est rendue  dans les villages autochtones en 1928, qui étaient interdits aux blancs à l'époque.
-
-- Dernière salle : Autre type de dispositif et de fauteuils. Autoportraits.
-
-- Entrée de l'exposition :
-
-  - Travail avec les communications : ont décidé pour l'affiche qu'elle  était pas assez photogénique donc on a choisi une photo de sa jeunesse  avant qu'elles soient vraiment peintre.
-  - Aussi ce qu'on retrouvait à l'extérieur du musée avec une de ses peintures.
-  - A réussi à mettre l'image sur le Catalogue.
-  - Dans le catalogue : reconstitution du séjour.
-  - Sélection d'ouvrages sur Carr, spectacles, romans etc...
-
-- Défis de réitérations :
-
-  - Modèle documentaire d'une expo :
-    - Comment les réitérations modifient légèrement l'œuvre ?
-    - Dans les différentes réitérations de Carr, celle de Toronto (seul conservateur autochtone). Il a changé :
-      - Couleur mur.
-      - Séparé les œuvres d'EC et autochtone dans la reconstitution de la première exposition.
-    - JL a noté dans son journal, qu'il faut ajouter des conditions spécifiques pour les réitérations d'une expo qui circule.
-    - Donne l'exemple de Picasso Primitif. Expo a d'abord été présentée au Quai Branly, puis a dû changer de titre à Montréal.
-    - Générations futures qui sont appropriées/qui répondaient à Picasso, ajout d'une salle par Nathalie Bondil.
-    - Lui aussi aurait certainement préféré avoir un contrat de respect de son itération.
-
-- Temporalités dans l'exposition n'est pas chronologique.
-
-- Importance du rôle de l'institution qui organisait importante :
-
-  - Prêts exclusivement de musées canadiens.
-  - Comment la culture du paysage est construite à travers le tourisme.
-
-- Un blockbuster, c'est une exposition qui amène au musée tous les gens qui vont voir toutes les expos PAS tous les gens.
-
-- Nom de l'exposition aurait été "plus tard".
-
-### Silvia Kolbowski
-
-- À la lecture des textes :
-  - Faire remonter des trucs intéressants. Variété de l'art décrit.
-  - Rosalyn Deutsche, comme une éthique de l'échec ou de la défaillance.
-  - Modernisme nous a habitués à la narration triomphale qui ne reconnaît pas les vertus heuristiques de l'échec.
-  - En quoi est-ce une éthique ?
-  - Œuvre est réalisée ou triomphe l'histoire et les archives orales, reconnues comme une forme de mémoire.
-  - On peut pas dire que pour la reconstitution uniquement quand il y a de l'intention : artistes.
-  - Idée de la mémoire.
-  - Entretien avec les artistes pas avec interprète.
-  - Éthique de la plénitude : effets de présence de Gombrecht, vertus de s'intéresser pas seulement à la signification, mais à des effets de  présence. Reconnaissance qu'on y accède par les sens. Ils viennent avec  une plénitude.
-  - Nos deux objets : **expérience de la présence sans plénitude.** Surtout dans les blockbusters, surcharge des œuvres parasites.
-  - Surcharge des œuvres parasites dans les accrochages est écrasant.
-  - Effet de présence avec Payant.
-  - Expérience de la performance, comment on restitue alors que sensation que tout nous échappe ?
-  - Question du spectateur : années 60, 70. Critique de Debord, beaucoup des interventions interrogent la passivité des spectateurs, la  frontière entre la scène et le public. On sent que cette frontière est  une des choses qui est en train d'être redéfinie et acceptée en tant  qu'œuvres conceptuelles.
-  - Définition de l'art conceptuel : elle opère un déplacement de  l'autorité des artistes et/ou des personnes interviewées, seulement  comme des spectateur·rices.
-  - Questions soulevées par rapport à son propre sujet : tisser des liens.
+- Rétrospective à son décès
+  1945, commissaire : Lawren Harris
+  Première rétrospective à sa mort.
+
+Donc JL fait cette proposition : devoir refaire une expo essentiellement colonialiste et liée au désir d'appropriation des traditions autochtones. Elle ne se rendait pas bien compte, 2 mois après la proposition, Hill confirme la proposition. JL a dit ok, mais il faut trouver un collaborateur autochtone. Impossible de trouver quelqu'un d'autochtone pour travailler sur Carr.
+
+Grande exposition sur les artistes autochtones : intégration de Norval Morrisseau par exemple et implication des commissaires autochtones.
+
+Michel Snow est alors l'artiste le plus célébré au monde. Ouverture du Centre Pompidou et il est invité.
+Il est parmi les artistes qui ont une expo à Pompidou en 1977.
+Snow prend en photo la salle des 7 à l'ancien lieu du musée des beaux-arts de Montréal. Photos peu lisibles.
+
+### Le scénario et la scénographie : les fils de *Plus tard*
+
+Snow, *Plus tard* :
+
+- Pose la question du temps.
+- Pas de scénario sans scénographie.
+- Reconnaît le rôle des institutions canadiennes
+- Mise en abyme
+- Critique de ce fait la culture du paysage, comme référence naturellement québécoise
+- Déploiement d'un accrochage de 25 photographies, semblable à celui que ces photos brouillent et rendent illisible.
+
+Carr est une créature du besoin national :
+inclusion d'un autre officiel.
+Altérité : incarnait l'ouest, adulation de la culture autochtone, puis valorisation de genre.
+Validation d'une autre altérité : son genre.
+Pas possible de raconter la modernité au Canada, sans parler de Carr.
+
+Cet enchevêtrement du scénario et de la scénographie a contrarié beaucoup de monde.
+
+- Les acteurs contrariés : sacrifier la cohérence et la signature graphique
+
+La relation la plus difficile : avec les scénographes. Mieke Bal était venue faire une conf au congrès international d'histoire de l'art qui se déroulait à Montréal. Thématique : espace.
+Bal avait dit : musée intéressé que par la cohérence.
+Dispositif à fabriquer de la cohérence à tout prix.
+
+Idée de construire du mobilier pour chaque expo (1927, 1945).
+Pas de signature graphique de l'expo.
+
+Tous ces gestes ont une importance.
+
+Discussions prises car l'expo devait circuler, et donc confrontation à des espaces différents, donc adaptabilité du mobilier.
+
+- Affirmer l'énonciation curatoriale
+
+Le musée ne présente pas des formes neutres : valeurs dans chacun des décors qui sont représentés.
+
+- Donnait à voir de l'art autochtone.
+
+Défis de cette reconstruction d'expo alors qu'il y a un gros souci d'appropriation culturelle :
+
+- Difficultés des négociations à cause de l'utilisation artistique de matériel anthropologique (prêt des artefacts autochtones parce que décontextualise les approches de l'objet)
+- Nécessité d'un aval autochtone parce que c'est une des manières de faire changer les musées historiques et anthropologiques avec l'appui des "autochtones"
+- Nouvelles précautions muséographiques exigées : sans fin, par exemple 80 ans après l'expo de 1927, la valeur des œuvres de l'époque n'a pas augmenté. Les œuvres autochtones coûtaient cher à assurer. Les musées prêtaient mais avec des conditions muséographiques extrêmement contraignantes. Les traiter comme des objets de valeur et les plus précieux de l'expo
+- Signaler la nature de l'exposition originale (coloniale) en résistant à la tentation de l'améliorer. (résister à mettre des cartels allongés par ex sympathiques) Texte qui reconnaissait la teneur coloniale de l'expo originale de 1927, et pas envie d'édulcorer la "violence" coloniale de l'expo.
+- Couleur et audio : comment faire entendre les voix autochtones ? Réalisation d'un audioguide, voix d'un commentateur autochtone. Seulement la possibilité de l'entendre, aucun texte. Pas d'emprunt d'objets qui avaient une utilisation rituelle, seulement fonctionnelle. Discours autochtone et qui visuellement ne changeait rien à l'expo. Pour la couleur, le designer propose une palette de couleurs : vert aka la forêt c'est sympa. Mais non, peinture beige, couleur du tissu de l'expo de 1927.
+
+L'énonciation apparaît dans l'acte curatorial : c'est *Plus tard*. Pourquoi tout est brouillé ?
+Il y a un point de vue et ce n'est pas le neutre.
+
+### Modèle 2 : 1945-1990
+
+Murs blancs au musée des beaux-arts de Montréal.
+Surtout, discours sur la forme et économie de tout approfondissement du sujet et contextualisation. AUCUN document d'archives encore.
+
+**Salle 1** : diverses explorations formelles à partir du modernisme
+Toute la chronologie d'EC dans cette salle
+
+**Salle 2** "Résonances affectives" donnée par JL
+
+Titre des salles fait par JL, puisque c'était son job de faire le scénario. Cadrage très proche, tête à tête avec "une figure intimidante".
+Accrochage plus réussi dans les autres lieux que dans le Musée des beaux-arts du Canada, car les salles étaient trop grandes.
+
+**Salle 3** : Nature et Transcendance. Dernière salle du cube blanc. Titre qui fait référence au paysage comme spiritualité, voie extrêmement riche pour les artistes dans les années 1920 et 30. Carr était intéressée mais résistait aussi : pas besoin de système de pensée pour penser la nature spirituelle. Transcendance du blanc. *Fir Tree and Sky*
+
+### Les négociations douloureuses
+
+- Frontière entre les modèles 2 et 3
+
+## Modèle 3 : Contextualisation de son travail
+
+Lien avec plein de phénomènes de son temps : comme l'industrie du bois, une salle sur le tourisme culturel qui avait pour but de montrer comment Carr s'est inspirée de cartes postales, comment elle n'était pas pionnière ou unique et que d'autres artistes femmes le faisaient aussi. Que les compagnies de train finançaient les artistes qui y allaient.
+
+Production de l'image et de l'identité, dernière salle : "The Carr Industries" petit nom à l'interne. Autoportraits de l'artiste, une peinture de son singe avec des petits habits de petites filles.
+Carr était vue "comme la folle du village".
+
+*Scorned as timber, beloved of the sky*. 1935.
+
+Contexte d'exploitation de la peinture : Hill a proposé d'approcher un commissaire torontois indien È Andrews Hunter.
+Intéressé de faire une salle sur l'industrie du bois. Une condition : c'est moi qui aurais l'œuvre susmentionnée, et pas la salle de Nature et Transcendance. Les petits arbres sont des traces de l'exploitation. Pour rappeler que les arbres étaient là et à quoi ressemblerait la forêt...
+
+Réalité capitaliste de cette œuvre, alors que cette œuvre a été construite comme l'œuvre la plus spirituelle de Carr.
+Recherche dans les archives de compagnies de bois, parallèle avec les œuvres de Carr.
+Les compositions sont rigoureusement les mêmes.
+Il a fait une installation photo vs peinture.
+
+Sentiment optimiste que la nature aurait le dernier mot.
+
+Toronto : a choisi une des œuvres de cette salle.
+
+Vert comme paramètre signifiant.
+
+**Salle 1** : Unnatural Landscapes
+**Salle 2** : Tourisme culturel
+Analyse des cartes postales utilisées par Carr, ses erreurs quand elle raconte des bêtises sur la culture autochtone,
+Série sur l'artisanat pseudo autochtone.
+**Salle 3** : Entre miroir et l'écho (?)
+
+Citations sur les murs d'artistes :
+*Mark Tobey's Emily Carr Studio* (1928) "sans moi (...) Emily Carr n'aurait jamais existé", 1957.
+Carr l'a accueilli. Citations sur Carr.
+
+Marcia Crosby, collaboratrice autochtone, comment Carr s'est rendue dans les villages autochtones en 1928, qui étaient interdits aux blancs à l'époque.
+
+**Dernière salle** : Autre type de dispositif et de fauteuils.
+Autoportraits
+
+**Entrée de l'exposition** :
+Travail avec les communications : ils ont décidé pour l'affiche qu'elle n'était pas assez photogénique donc on a choisi une photo de sa jeunesse avant qu'elle soit vraiment peintre.
+
+Aussi ce qu'on retrouvait à l'extérieur du musée avec une de ses peintures.
+
+Elle a réussi à mettre l'image sur le catalogue.
+Dans le catalogue : reconstitution du séjour.
+
+Sélection d'ouvrages sur Carr, spectacles, romans etc...
+
+## Défis de réitérations :
+
+Modèle documentaire d'une expo :
+Comment les réitérations modifient légèrement l'œuvre ?
+Dans les différentes réitérations de Carr, celle de Toronto (seul conservateur autochtone). Il a changé :
+
+- couleur des murs
+- séparé les œuvres d'EC et autochtones dans la reconstitution de la première exposition.
+
+JL a noté dans son journal, qu'il faut ajouter des conditions spécifiques pour les réitérations d'une expo qui circule.
+Elle donne l'exemple de Picasso Primitif. L'expo a d'abord été présentée au Quai Branly, puis a dû changer de titre à Montréal.
+Générations futures qui sont appropriées/qui répondaient à Picasso, ajout d'une salle par Nathalie Bondil. Non respect du travail initial.
+
+Les temporalités dans l'exposition ne sont pas chronologiques.
+Importance du rôle de l'institution qui organisait était importante :
+Prêts exclusivement de musées canadiens.
+Comment la culture du paysage est construite à travers le tourisme.
+
+Un blockbuster, c'est une exposition qui amène au musée tous les gens qui vont voir toutes les expos PAS tous les gens.
+
+Le nom de l'exposition aurait été "plus tard".
+
+---
+
+## Silvia Kolbowski
+
+À la lecture des textes :
+
+- Faire remonter des trucs intéressants. Variété de l'art décrit.
+
+Rosalyn Deutsche, comme une éthique de l'échec ou de la défaillance.
+
+Le modernisme nous a habitués à la narration triomphale qui ne reconnaît pas les vertus heuristiques de l'échec.
+En quoi est-ce une éthique ?
+
+L'œuvre est réalisée où triomphent l'histoire et les archives orales, reconnues comme une forme de mémoire.
+On ne peut pas dire que pour la reconstitution uniquement quand il y a de l'intention : artistes.
+Idée de la mémoire.
+Entretien avec les artistes pas avec l'interprète.
+
+Éthique de la plénitude : effets de présence de Gumbrecht, vertus de s'intéresser pas seulement à la signification, mais à des effets de présence. Reconnaissance qu'on y accède par les sens. Ils viennent avec une plénitude.
+
+Nos deux objets : **expérience de la présence sans plénitude.** Surtout dans les blockbusters, surcharge des œuvres parasites.
+Surcharge des œuvres parasites dans les accrochages est écrasante.
+Effet de présence avec Payant.
+
+Expérience de la performance, comment on restitue alors que sensation que tout nous échappe ?
+
+- **Question du spectateur**
+  Années 60, 70. Critique de Debord, beaucoup des interventions interrogent la passivité des spectateurs, la frontière entre la scène et le public. On sent que cette frontière est une des choses qui est en train d'être redéfinie et acceptée en tant qu'œuvres conceptuelles.
+
+**Définition de l'art conceptuel**
+
+Elle opère un déplacement de l'autorité des artistes et/ou des personnes interviewées, seulement comme des spectateur·rices.
+
+- **Questions soulevées par rapport à son propre sujet** : tisser des liens
 
 ### À faire
 

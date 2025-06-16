@@ -1,279 +1,228 @@
----
-title: "La perte : notion constitutive de l’histoire de l’art (et de l’art?). Notes sur la performance"
-date : 2025-05-15
-format:
-  html:
-    page-layout: article
----
+## 2025-05-15
 
-#### Regarder des textes à l'origine d'un discours sur un objet aujourd'hui consacré
+Regarder des textes qui se posent à l'origine d'un discours sur un objet, aujourd'hui consacré. 
 
-- Payant et Ward n'appartiennent pas à la tradition documentaire.
-- Ward inscrit sa considération dans l'historique alors que Payant appartient à la tradition critique d'art.
+Payant et Ward n'appartiennent pas à la tradition documentaire. Ward inscrit sa considération dans l'historique alors que Payant s'inscrit dans la tradition critique d'art. 
 
-### Martha Ward
+### Ward
 
-- Volonté de contribuer aux balbutiements de l'histoire des expositions.
-- Elle ne prend pas en compte ce qui s'écrit sur les expositions en France à ce moment-là.
-- À l'époque où elle écrit, la critique d'art est tournée vers les modèles d'expositions.
-- JL écrivait 10 ans avant sur les modèles d'expositions.
-- **FAKE NEWS** : Fin du 18e - début XXe (1750-1914) : il n'y aurait pas de savoir professionnel à cette époque : pas de savoir  professionnel et de cultures du display (aussi bien public et privé).
+Martha Ward : volonté de contribuer aux balbutiements de l'histoire des expositions. Elle ne prend en compte que ce qui s'écrit sur les expositions en France à ce moment-là.
+À l'époque où elle l'écrit, la critique d'art est tournée sur les modèles d'expositions. 
+JL écrivait 10 ans avant sur les modèles d'expositions. 
+FAKE NEWS : Fin du 18e- début XXe (1750-1914): il n'y aurait pas de savoir professionnel à cette époque : pas de savoir professionnel et de cultures du display (aussi bien public et privé)
 
-#### Diderot, critique d'art
+Diderot, critique d'art. Chardin le tapissier. Diderot commente toujours l'intention de Chardin et les intentions de display de l'artiste. Chardin a une pratique d'accrochage qui favorise les comparaisons. Critique de Diderot fonctionne comme ça. Il n'est d'ailleurs pas indifférent au lieu où l'œuvre est présentée. JL a fait un texte sur le sujet dans sa thèse. Prise en compte du display. 
 
-- Chardin le tapissier.
-- Diderot commente toujours l'intention de Chardin et les intentions de display de l'artiste.
-- Chardin a une pratique d'accrochage qui favorise les comparaisons.
-- Critique de Diderot fonctionne comme ça.
-- Il n'est d'ailleurs pas indifférent au lieu où l'œuvre est présentée.
-- JL a fait un texte sur le sujet dans sa thèse. Prise en compte du display.
+Poetics of the Museum: Lenoir and Du Sommerard, Stephen Bann: analyse de la rhétorique de l'exposition. 
+Rhétorique fait référence au mode d'adresse au spectateur. 
 
-#### Poetics of the Museum
+Musée des monuments français, Alexandre Lenoir : Sens du décor : parlait de salle d'atmosphère. Exposition de fragments, avec une déclinaison de typologies de monuments. 
 
-- Lenoir et Du Sommerard, Stephen Bann : analyse de la rhétorique de l'exposition.
-- Rhétorique fait référence au mode d'adresse au spectateur.
+Atmosphère, aujourd'hui on parlerait d'immersion. 
+À côté, Alexandre Du Sommerard va être à l'origine de la chambre de François premier. 
 
-#### Musée des monuments français, Alexandre Lenoir
+À Cluny, chambre de François 1er : que nous pourrions considérer comme une des premières reconstitutions historiques, mais c'est sûr que rien n'appartenait à François 1er, mais idée de totalité. 
 
-- Sens du décor : parlait de salle d'atmosphère.
-- Expo de fragments, avec une déclinaison de typologies de monuments.
+Ce qui n'existe pas : mise en récit continue et discontinue des expositions spécifiques. On a des manières de faire, des études de cas, on a une réflexion conceptuelle sur l'exposition en France. Mise en place de la défense de l'argumentation : exposition comme medium de communication, Davallon et suiveurs.
 
-#### Atmosphère
+Elle pose : What's important ? 
+Comment faire cette histoire-là. 
 
-- Aujourd'hui on parlerait d'immersion.
-- À côté, Alexandre Du Sommerard va être à l'origine de la chambre de François Premier.
-- À Cluny, chambre de François 1er : que nous pourrions considérer  comme une des premières reconstitutions historiques, mais c'est sûr que  rien n'appartenait à François 1er, mais idée de totalité.
+Elle repère des domaines qui restent à investiguer. 
+Elle exclut complètement les collections muséales contemporaines. 
+On sait qu'il y a une pensée de l'accrochage plus ancienne grâce à ça. 
 
-#### Ce qui n'existe
+Relecture du XIXe siècle et de ses œuvres dans leur insertion synchronique dans un milieu. The Painting of Modern Life : Il refait une lecture de l'Olympia. Ne retrace pas une filiation Venise - Manet. Ce qui l'intéresse c'est la réception par la caricature de cette œuvre. Les nus acceptables, la représentation ailleurs de la prostitution. Pointe un ensemble de séries culturelles qui lui semblent contemporaines. 
+TJ Clark. Histoire sociale de l'art. 
 
-- Mise en récit continue et discontinue des expositions spécifiques.
-- On a des manières de faire, des études de cas, on a une réflexion conceptuelle sur l'expo en France.
-- Mise en place de la défense de l'argumentation : exposition comme medium de communication, Davallon et suiveurs.
+Elle écrit dans ce moment où elle écrit 
+Ce moment qui casse la thèse sur le fait que les impressionnistes n'avaient pas de sujet. 
+Nouveau modèle de faire de l'histoire de l'art. 
+Hauser essayait de poser le lien possible entre la fragmentation de la touche dans l'impressionnisme et la montée de l'individualisme (chaîne de production USA). Il cherche une médiation très précise pour articuler et reprendre l'analyse critique. 
 
-#### Questions posées par Ward
+Tom Crow : l'espace public se développe au XXe siècle
+Objet d'étude sont les salons 
+Expositions suscitent l'intérêt, non pas pour son contenu, mais par son public. Événement public. Si ce n'est pas un événement public, c'est un accrochage (le mot n'existe pas). 
+Francis Haskell a essayé autour de Charles premier, grand collectionneur, décapité au banquet hall, en passant par sa collection. Banquet hall privé/pas privé. Mélangeait sculpture et tableau ? Plus on peut dire oui ça se faisait plus on peut prouver qu'il y avait une conscience de l'art pour l'art. 
+Provenance : collectionnisme de Charles 1er a ruiné parce que ruine de l'état l'a ruiné. Dans les minutes et documents historiques : on ne lui reproche pas son collectionnisme mais on lui reproche ses accointances italiennes, en filigrane on lui reproche ses penchants pour le catholicisme, dans un contexte protestant puritain. 
+Statut privé public difficile de distinguer. 
+Première grande vente 
 
-- What's important ?
-- Comment faire cette histoire-là.
-- Elle repère des domaines qui restent à investiguer.
-- Elle exclut complètement les collections muséales contemporaines.
-- On sait qu'il y a une pensée de l'accrochage plus ancienne grâce à ça.
+Le public est tout de suite un élément plus important que ne le sont les modèles d'accrochage. Le public est un objet nouveau. Cf caricatures dans le texte de Ward. 
 
-#### Relecture du XIXe siècle
+Critique demande une performance protéiforme pour rendre justice aux différents talents des artistes - dixit Diderot. 
 
-- The Painting of Modern Life : Il refait une lecture de l'Olympia.
-- Ne retrace pas une filiation Venise - Manet.
-- Ce qui l'intéresse c'est la réception par la caricature de cette œuvre.
-- Les nus acceptables, la représentation ailleurs de la prostitution.
-- Pointe ensemble de série culturelle qui lui semble contemporaine.
-- TJ Clark. Histoire sociale de l'art.
+La représentation, comment un sujet en vient à être représenté par une sélection d'œuvres ? 
+Principe de sélection peu étudié.
+Une exposition est un événement discursif ce qui implique que l'exposition a comme un mandat, celui-ci est toujours ou presque toujours pour la combinaison des œuvres, et non leur sélection. 
+On choisit - ensuite on associe avec d'autres mots. Sélection et combinatoire du langage = dire événement discursif : très proche de ces actes-là.  
 
-#### Écriture dans son contexte
+Exposition rarement évaluée à leur argument. Exposition monographique l'argument souvent seulement le nom propre de l'artiste.
 
-- Ce moment qui casse la thèse sur le fait que les impressionnistes n'avaient pas de sujet.
-- Nouveau modèle de faire de l'histoire de l'art.
-- Hauser essayait de poser le lien possible entre la fragmentation de  la touche dans l'impressionnisme et la montée de l'individualisme  (chaîne de production USA).
-- Il cherche une médiation très précise pour articuler et reprendre l'analyse critique.
+L'écart entre l'argument et le résultat. 
 
-#### Tom Scraw
+On s'intéresse aux réceptions critiques des expositions : les expositions n'ont pas d'arguments. 
 
-- L'espace public se développe au XXe siècle.
-- Objet d'étude : les salons.
-- Expo suscite l'intérêt, non pas pour son contenu, mais par son public. Événement public.
-- Si ce n'est pas un événement public, c'est un accrochage (le mot n'existe pas).
-- Francis Askell a essayé autour de Charles Premier, grand collectionneur, décapité au banquet hall, en passant par sa collection.
-- Banquet hall privé/pas privé. Mélangeait sculpture et tableau ?
-- Plus on peut dire oui ça se faisait, plus on peut prouver qu'il y avait une conscience de l'art pour l'art.
-- Provenance : collectionnisme de Charles 1er a ruiné parce que ruine de l'État l'a ruiné.
-- Dans les minutes et documents historiques : on ne lui reproche pas  son collectionnisme mais on lui reproche ses accointances italiennes, en filigrane on lui reproche ses penchants pour le catholicisme, dans un  contexte protestant puritain.
-- Statut privé public difficile de distinguer.
-- Première grande vente.
+JL a fait de la rhétorique de l'exposition dans ses critiques. 
 
-#### Le public
+Souvent les mêmes artistes, les mêmes œuvres. Sans chercher à avoir à publier l'argument (à part dans le catalogue où l'on espérait voir l'argument)
 
-- Tout de suite un élément plus important que les modèles d'accrochage.
-- Le public est un objet nouveau. Cf caricatures dans le texte de Ward.
+Impact sur les artistes : phénomène pris en compte, mais qui fait partie de l'histoire de l'artiste et non celle de l'exposition. 
 
-#### Critique
+Impact sur l'art : pas un index de la réussite de l'exposition, mais réussite de ce qui est exposé. 
+Développement, hors de la branche des expositions, beaucoup plus facile de voir l'impact des expositions. 
 
-- Demande une performance protéiforme pour rendre justice aux différents talents des artistes - dixit Diderot.
+Impact d'expositions ont eu sur d'autres expositions. Harald Szeemann
 
-#### La représentation
+Elle n'évoque pas la question de qui parle : pas de distinction entre l'énoncé et l'énonciation. Ne sont pas choisis pour les mêmes raisons, mais parce qu'ils ont leurs expertises. 
 
-- Comment un sujet en vient à être représenté par une sélection d'œuvres ?
-- Principe de sélection peu étudié.
-- Une expo est un événement discursif ce qui implique que l'expo a  comme un mandat, celui-ci est toujours et presque toujours pour la  combinaison des œuvres, et non leur sélection.
-- On choisit - ensuite on associe avec d'autres mots. Sélection et  combinatoire du langage. = dire événement discursif : très proche de ces actes-là.
+Aujourd'hui, de plus en plus conscients du brouillage entre l'exposition temporaire et l'exposition de collections. Cette dernière se raccourcit, efforts scénographiques, investissement discursif plus grand et donc on tendance à se rapprocher des expositions temporaires. Différentes stratégies au sein des collections. Collections permanentes sont plus susceptibles d'avoir des subventions (du gouvernement). 
 
-#### Évaluation des expositions
+Projet d'aménagement de la grande galerie du Louvre 
+Travées scandées pour ne pas couper la galerie, pour être à l'image de la bonne nouvelle république française hehe. Indivisible. 
 
-- Expo rarement évaluée à leur argument.
-- Expo monographique l'argument souvent seulement le nom propre de l'artiste.
-- L'écart entre l'argument et le résultat.
-- On s'intéresse aux réceptions critiques des expositions : les expos n'ont pas d'arguments.
-- JL a fait de la rhétorique de l'exposition dans ses critiques.
-- Souvent les mêmes artistes, les mêmes œuvres. Sans chercher à avoir à publier l'argument (à part dans le catalogue où l'on espérait voir  l'argument).
+Accrochage par école.
 
-#### Impact sur les artistes
+Accrochage sur un modèle national très fort en Allemagne. 
 
-- Phénomène pris en compte, mais qui fait partie de l'histoire de l'artiste et non celles de l'expo.
-- Impact sur l'art : pas un index de la réussite de l'exposition, mais réussite de ce qui est exposé.
-- Développement, ou de la branche des expositions, beaucoup plus facile de voir l'impact des expositions.
-- Impact d'expositions ont eu sur d'autres expositions. Harald Szeemann.
+Hirschhorn, instaure des accrochages plus précis qu'en France, par école oui, mais aussi par école, musée labyrinthe. Des pièces en enfilade etc. 
 
-#### Énoncé et énonciation
+Tendance à ne pas vouloir ne pas mettre l'accent sur des analyses de cas particulières, déjà une tendance anthologique à cette époque faire des compilations. 
+Comme L'art de l'exposition : se concentre sur les hits 
+Au contraire du bouquin de Glicenstein qui se construit autour de la réflexion 
 
-- Elle n'évoque pas la question de qui parle : pas de distinction entre l'énoncé et l'énonciation.
-- Ne sont pas choisis pour les mêmes raisons, mais parce qu'ils ont leurs expertises.
+Autrice au ton distancié de son sujet. 
+Conférence à la base, conserve le caractère informel dans la conférence, en ajoutant des exemples. Sentiment qu'on n'est pas en train de se regarder écrire. 
 
-#### Aujourd'hui
+Dernier de la sélection, ouvrir il nous faut une histoire des expositions.  
+La plupart des textes utilisent des cas. 
+Chambre d'amis
 
-- De plus en plus conscients du brouillage entre l'expo temporaire et l'expo de collections.
-- Cette dernière se raccourcit, efforts scénographiques,  investissement discursif plus grand et donc on a tendance à se  rapprocher des expos temporaires.
-- Différentes stratégies au sein des collections. Collections  permanentes sont plus susceptibles d'avoir des subventions (du  gouvernement).
+Ouvrage se finit par un truc programmatique : il nous faudrait bien officialiser cet objet 
 
-#### Projet d'aménagement de la grande galerie du Louvre
+### Payant
 
-- Travées scandées pour ne pas couper la galerie, pour être à l'image de la bonne nouvelle république française hehe. Indivisible.
-- Accrochage par école.
-- Accrochage sur un modèle national très fort en Allemagne.
-- Hirschhorn, instaure les accrochages plus précis qu'en France, par  école oui, mais aussi par école, musée labyrinthe. Des pièces en  enfilade etc.
+Texte de 1979. 
 
-#### Tendances
+Partie sur la description : décrire et pas seulement parler de 
+Description c'est posséder un savoir 
+Récit de la transformation 
 
-- Tendance à ne pas vouloir accent sur des analyses de cas  particulières, déjà une tendance anthologique à cette époque faire des  compilations.
-- Comme L'art de l'exposition : se concentre sur les hits.
-- Au contraire du bouquin de Glicenstein qui se construit autour de la réflexion.
+Hypothèse : visées mimétiques, il se pense lui-même comme performance. 
 
-#### Auteur
+Visée mimétique. Il se pense lui-même comme performance. Mimétisme du commentaire
 
-- Ton distancié de son sujet.
-- Conférence à la base, conserve le caractère informel dans la conférence, en ajoutant des exemples.
-- Sentiment qu'on est pas en train de se regarder écrire.
-- Dernier de la sélection, ouvrir il nous faut une histoire des expos.
-- La plupart des textes utilisent des cas.
-- Chambre d'amis.
-- Ouvrage se finit par un truc programmatique : il nous faudrait bien officialiser cet objet.
+Si je parle d'un objet troué, incomplet : je vais faire un peu pareil. 
+Je vais les montrer, en les re-performant. 
 
-### René Payant
+Il s'intéresse au discours sur la performance, pas sa documentation, pas sa conservation.
 
-#### Texte de 1979
+Max Dean, 1979
+Performance où il apparaît vraiment impuissant, bâillonné et attaché à un dispositif par une corde. Tranquillement, il est en train d'être pendu par la machine tête en bas. Enjeu, pas indice. Le public comprend quand il fond du bruit, le système ralentit. Enjeu : il faut que le public fasse beaucoup de bruits pour que le truc s'arrête.
+Transfert de pouvoir. 
 
-- Partie sur la description : décrire et pas seulement parler de.
-- Description c'est posséder un savoir.
-- Récit de la transformation.
+Dispositif comprend aussi le public. Le public est partie prenante du dispositif. 
 
-#### Hypothèse
+1979, Payant est un jeune prof. Il est chargé de cours. S'inscrit au doctorat avec Louis Marin. Imprégné par le travail de Marin. _Récit est un piège_. 
+Énoncé/Énonciation aussi dû à Marin. 
+Marin s'est fait connaître sur l'étude sémiologique formule énonciateur de l'eucharistie, ceci est mon corps blabla
+A ensuite publié la _... du discours_.
 
-- Visées mimétiques, il se pense lui-même comme performance.
-- Mimétisme du commentaire.
-- Si je parle d'un objet troué, incomplet : je vais faire un peu pareil.
-- Je vais les montrer, en les reperformant.
+Puis se déplace vers les arts visuels, _Détruire la peinture_. 
 
-#### Intérêt
+Participe au congrès de sémiotique annuel à Urbino sous l'égide de Umberto Eco. 1974, il produit une analyse du carton de la tapisserie de l'île aux faisans. Moment où se négocient de Louis XIV et le roi d'Espagne. 
+Marin fonde son analyse : structure point de vue/point de fuite. 
+Structure dialogique. En s'inspirant du linguiste Benveniste, LM reprend entre la formulation "récit et discours"
 
-- Il s'intéresse au discours sur la performance, pas sa documentation, pas sa conservation.
+Chez Benveniste, le discours est un texte où il y a des marques d'énonciation. Je, ce jour-là, historiographie qui raconte : énonciateur s'inscrit dans le texte en opposition est le discours - les marques d'énonciation. 
 
-#### Max Dean, 1979
+Benveniste nous montre que le discours est davantage dans un axe dialogique alors que le récit s'écrit à la troisième personne, comme s'il se racontait tout seul. Dans presque tous les tableaux du 15e, tension entre la perspective et avec l'histoire qui se déroule à l'avant. Bien que l'œil soit constamment attiré par la composition du fond. Ex : clé du paradis Le Pérugin 
 
-- Performance où il apparaît vraiment impuissant, bâillonné et attaché à un dispositif par une corde.
-- Tranquillement, il est en train d'être pendu par la machine tête en bas.
-- Enjeu, pas indice. Le public comprend quand il fait du bruit, le système ralentit.
-- Enjeu : il faut que le public fasse beaucoup de bruits pour que le truc s'arrête.
-- Transfert de pouvoir.
-- Dispositif comprend aussi le public. Le public est partie prenante du dispositif.
+[Charles Le Brun, Tapisserie de l'Ile aux faisans](https://www.meisterdrucke.fr/fine-art-prints/Charles-Le-Brun/188971/La-rencontre-de-Philippe-IV-(1605-65)-d%27Espagne-et-de-Louis-XIV-(1638-1715)-sur-l%27%C3%AEle-des-Faisans-(tapisserie).html)
+Marin montre le récit repose sur la dénégation de l'énonciation. Payant est complètement là-dedans. Il va montrer comment la performance de Dean renverse ce qui est présenté dans l'île des faisans. 
+Raconter une performance, c'est raconter son expérience. Se faisant, inscription d'un énonciateur dans le discours (pas le récit).
 
-#### Contexte de Payant
+Forme de la performance : forme fermée, et il passe la structure, qui est aussi fermée, mais un mécanisme relationnel. 
 
-- 1979, Payant est un jeune prof. Il est chargé de cours.
-- S'inscrit au doctorat avec Louis Marin.
-- Imprégné par le travail de Marin. *Récit est un piège*.
-- Énoncé/Énonciation aussi dû à Marin.
-- Marin s'est fait connaître sur l'étude sémiologique formule énonciateur de l'eucharistie, ceci est mon corps blabla.
-- A ensuite publié la *... du discours*.
-- Puis se déplace vers les arts visuels, *Détruire la peinture*.
+Pourquoi Coyote ? 
+Artistes intégraient des mécanismes de commémoration, effet rétrospectif avec des références de leur travail ancien. Accent sur l'autoréférencement. 
+ArtCanada, et dans Parachutes. 
 
-#### Participation au congrès de sémiotique annuel à Urbino
+ORLAN
+Robe à distance, robe baroque en papier graft 
+Offerte au musée à condition qu'il la pérennise. Le musée a refusé. 
 
-- Sous l'égide de Umberto Eco.
-- 1974, il produit une analyse du carton de la tapisserie de l'île aux faisans.
-- Moment où se négocie de Louis XIV et le roi d'Espagne.
-- Marin fonde son analyse : structure point de vue de vue/point de vue de fuite.
-- Structure dialogique. En s'inspirant du linguiste Benveniste, LM reprend entre la formulation "récit et discours".
+==> Besoin de laisser une œuvre, de faire œuvre. 
 
-#### Chez Benveniste
+2nd thoughts on ephemeral art n'a jamais été abordé comme sujet. 
 
-- Le discours est un texte où il y a des marques d'énonciation. Je, ce jour-là, historiographie qui raconte : énonciateur s'inscrit dans le  texte en opposition est le discours - les marques d'énonciation.
-- B nous montre que le discours est davantage dans un axe dialogique  alors que le récit s'écrit à la troisième personne, comme s'il se  racontait tout seul.
-- Dans presque tous les tableaux du 15e, tension entre la perspective et avec l'histoire qui se déroule à l'avant.
-- Bien que l'œil soit constamment attiré par la composition du fond. Ex : clé du paradis Le Pérugin.
+Melvin Charney, Maisons de la rue Sherbrooke, exposition corridor 1976. 
+Avant texte de Rosalind Krauss (indexicalité) sur la site spécificité. 
 
-#### Charles Brun, Tapisserie de l'Île aux faisans
+[Les maisons de la rue Sherbrooke](https://artpublicsphere.wordpress.com/wp-content/uploads/2015/07/les-maisons.jpg)
+Le maire facho de Montréal a détruit l'œuvre avant l'ouverture des JO. 
 
-- [Charles Brun, Tapisserie de l'Île aux faisans](https://www.meisterdrucke.fr/fine-art-prints/Charles-Le-Brun/188971/La-rencontre-de-Philippe-IV-(1605-65)-d'Espagne-et-de-Louis-XIV-(1638-1715)-sur-l'île-des-Faisans-(tapisserie).html)
-- Marin montre le récit repose sur la dénégation de l'énonciation.
-- Payant est complètement là-dedans.
-- Il va montrer comment la performance de Dean renverse ce qui est présenté dans l'île des faisans.
-- Raconter une performance, c'est raconter son expérience. Se faisant, inscription d'un énonciateur dans le discours (pas le récit).
+Coyote de Beuys
+Singularité de l'imbrication du public dans le dispositif : placé de manière séparée. 
+Dans l'architecture il y a la salle et la scène. 
 
-#### Forme de la performance
+"Il fallait être là"
 
-- Forme fermée, et il passe la structure, qui est aussi fermée, mais un mécanisme relationnel.
+Conception de la critique d'art, 
+Pratique pédagogique sur ses convictions de critique, œuvre dictait le discours sur l'œuvre. 
+Le critique agit sur les propositions de l'œuvre. 
 
-#### Pourquoi Coyote ?
+On écrit pour les gens qui n'ont pas vu. 
 
-- Artistes intégraient des mécanismes de commémoration, effet rétrospectif avec des références de leur travail ancien.
-- Accent sur l'autoréférencement.
-- ArtCanada, et dans Parachutes.
+Il n'est pas dans la phénoménologie mais dans la pragmatique. 
+Emploi du lexique de la linguistique 
+Fonction pragmatique du public plutôt qu'une expérience phénoménologique. 
 
-#### ORLAN
+JL a discuté avec Marin de l'esthétique de la réception. 
 
-- Robe à distance, robe baroque en papier graff.
-- Offert au musée à condition qu'il la pérennise. Le musée a refusé.
-- ==> Besoin de laisser une œuvre, de faire œuvre.
+On voit les effets du "Son". 
 
-#### 2nd thoughts on ephemeral art
+### Jones 
 
-- N'a jamais été abordé comme sujet.
+Le texte d'Amelia Jones explore le statut de la documentation dans l'expérience et l'étude de l'art de la performance, en particulier des œuvres des années 1960 et 1970 qu'elle n'a pas vues en direct. Elle remet en question l'idée reçue selon laquelle l'expérience directe d'une performance est intrinsèquement plus valide ou "vraie" que l'expérience de sa documentation.
 
-#### Melvin Charney, Maisons de la rue Sherbrooke, exposition corridor 1976
+Idée de l'expérience de l'archive. 
 
-- Avant texte de Rosaline Krauss (indexicalité) sur la site specificité.
-- [Les maisons de la rue Sherbrooke](https://artpublicsphere.wordpress.com/wp-content/uploads/2015/07/les-maisons.jpg)
-- Le maire fachiste de Montréal a détruit l'œuvre avant l'ouverture des JO.
+Réserve sur le discours de la présence. 
 
-#### Coyote de Beuys
+Et avec l'imagination, est-ce qu'on expérimente la performance ? Ça n'a pas convaincu les foules. 
 
-- Singularité de l'imbrication du public dans le dispositif, : placé de manière séparée.
-- Dans l'archi il y a la salle et la scène.
-- "Il fallait être là".
+Documentation exhaustive de ces artistes qui documentent ? Et ceux, qui ne documentent pas ? 
 
-#### Conception de la critique d'art
+Fétichisme : Christian Metz ? fait un rapport fétichiste et la photo. 
 
-- Pratique pédagogique sur ses convictions de critique, œuvre dictait le discours sur l'œuvre.
-- Le critique agit sur les propositions de l'œuvre.
-- On écrit pour les gens qui n'ont pas vu.
-- Il est pas dans la phénoménologie mais dans la pragmatique.
-- Emploi à la lexique de la linguistique.
-- Fonction pragmatique du public plutôt qu'une expérience phénoménologique.
-- JL a discuté avec Marin de l'esthétique de la réception.
-- On voit les effets du "Son".
+## Lecture
 
-### Amelia Jones
+Les deux sources de Jones et Payant abordent la question de la relation entre l'œuvre d'art éphémère (performance) et sa trace ou documentation. Elles remettent toutes deux en question l'idée d'une "présence" non problématique ou univoque dans l'art.
 
-#### Texte d'Amelia Jones
+- Tant Jones que Payant voient dans la documentation/le récit non pas une simple retranscription de l'événement, mais une transformation ou une nouvelle modalité de l'œuvre, qui met en évidence la nature médiatisée de l'expérience artistique.
+- Les deux auteurs soulignent l'importance de la réception et de l'interprétation par le public dans la constitution du sens de l'œuvre, que ce soit dans l'échange intersubjectif (Jones) ou dans la dynamique spectateur-acteur (Payant).
+- Ward, bien que se concentrant sur les expositions, soulève également la question de la manière dont les arrangements de présentation cherchent à modeler le spectateur et l'expérience de l'art, faisant écho aux préoccupations de Jones et Payant concernant l'influence du dispositif sur la réception.
 
-- Explore le statut de la documentation dans l'expérience et l'étude  de l'art de la performance, en particulier des œuvres des années 1960 et 1970 qu'elle n'a pas vues en direct.
-- Elle remet en question l'idée reçue selon laquelle l'expérience  directe d'une performance est intrinsèquement plus valide ou "vraie" que l'expérience de sa documentation.
+**Différences et Perspectives Complémentaires :**
+- Jones se concentre spécifiquement sur l'art corporel et la performance, analysant comment le corps de l'artiste, loin d'être une source de "présence" univoque, révèle sa propre "supplémentarité" et dépend de la représentation et de la documentation.
+- Payant, dans ses notes, offre une analyse plus concentrée sur la dynamique interne de certaines performances et la manière dont le "récit" transforme l'événement. Il utilise un langage parfois plus phénoménologique ou structurel pour décrire les interactions.
+- Ward offre une perspective historique plus large sur l'évolution des expositions, depuis leur émergence en tant que présentation publique jusqu'à leur rôle dans la représentation de diverses entités et leur impact sur la production artistique. Elle situe l'émergence d'une "science ou discours de l'exposition" au début du XXe siècle, contrastant avec les pratiques antérieures qui étaient plus ancrées dans les habitudes sociales.
 
-#### Idée de l'expérience de l'archive
+### Ward 
 
-- Réserve sur le discours de la présence.
-- Et avec l'imagination, est-ce qu'on expérimente la performance ? Ça n'a pas convaincu les foules.
+Le texte de Ward s'intéresse à l'histoire de la forme de l'exposition d'art moderne sur une longue période (post-1750, avec un accent sur 1750-1914). Elle analyse comment l'exposition, en tant qu'institution et dispositif, a évolué, créé des sphères publiques, représenté des entités (artistes, mouvements, nations), et influencé la production artistique. Son focus est sur les pratiques d'accrochage, les espaces et les conventions de présentation.
 
-#### Documentation exhaustive
+Ward regarde l'exposition comme un cadre qui façonne la manière de voir et elle souligne l'importance de prendre en compte le contexte de présentation et la réception pour comprendre l'art.
 
-- De ces artistes qui documentent ? Et ceux, qui ne documentent pas ?
+Ward consacre une dimension de son analyse aux "Viewers in the Exhibition's Image?". Elle explore comment les installations cherchaient à créer de "bons spectateurs", comment les conventions d'accrochage définissaient implicitement les modes de vision, et reconnaît l'existence de "spectateurs aberrants" qui ne correspondaient pas à la norme. Elle suggère que les expositions étaient des "tests publics de compétence spectatorielle", parfois liés à la classe et au genre. L'exposition est vue comme un espace qui pouvait permettre "divers types d'observation".
 
-#### Fétichisme
+Ward note que l'installation avant 1914 n'était pas un sujet de discussion professionnelle et que sa documentation est limitée. Elle souligne que nous manquons d'une histoire complète et empirique de la forme de l'exposition. Cela renvoie à une histoire de l'art et de la muséologie qui a traditionnellement privilégié l'objet matériel ou les discours critiques établis, au détriment du contexte de présentation et de la réception vécue, qui sont pourtant essentiels pour comprendre pleinement l'art et son impact.
 
-- Christian Mrs ? fait un rapport fétichiste et la photo.
+Sa conclusion est très claire : l'étude de l'histoire des expositions (particulièrement la période 1750-1914) a pour but premier de "provide some needed distance on the present". Elle estime que nous sommes trop proches des pratiques contemporaines d'exposition et d'installation pour en saisir la signification historique. La comparaison historique est donc le meilleur moyen de "throwing into relief the peculiarities of our own practices, thus making them available for critical analysis". p.326
+
+Rapport avec le dernier cours : La notion de l'expérience du spectateur et la manière dont elle est médiatisée (par l'exposition ou par le souvenir/témoignage).
+
+### Jones
+
+Le texte d'Amelia Jones explore le statut de la documentation dans l'expérience et l'étude de l'art de la performance, en particulier des œuvres des années 1960 et 1970 qu'elle n'a pas vues en direct. Elle remet en question l'idée reçue selon laquelle l'expérience directe d'une performance est intrinsèquement plus valide ou "vraie" que l'expérience de sa documentation.

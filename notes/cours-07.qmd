@@ -7,234 +7,371 @@ format:
 
 ---
 
-### Nos définitions
+# Notes de cours - 27 mai 2025
 
-**Exposition comme événement discursif** : L'exposition est conceptualisée comme un événement discursif, contrairement à la performance qui ne l'est pas. Les définitions de l'exposition sont plus stables que celles de la performance, et le terme est utilisé comme un mot du langage ordinaire. Il fonctionne moins par sa propre définition que par ce à quoi le milieu l'oppose, c'est-à-dire l'objet.
+## Nos définitions
 
-**Réflexion de Camille** : Camille se demande si un acte devient un événement par la suite. Dans le champ de la philosophie, depuis Aristote, il y a une distinction entre l'acte et l'action.
+L'exposition est conçue comme un événement discursif, tandis que l'événement n'est pas conceptualisé pour la performance.
 
-**Définition de Camille** : Selon le dictionnaire académique, un événement est ce qui intervient ou survient en un temps et un lieu déterminés.
+Performance et exposition ne sont pas sur le même pied. Exposition : définitions plus stables que pour la performance, le terme est utilisé comme un mot du langage ordinaire.
 
-**Réinventer les collections** : Comment l'événementiel influence-t-il les pratiques curatoriales ? L'événement est devenu une mesure du temps qui sert à découper et organiser notre quotidien. Dès que quelque chose est noté dans un téléphone, cela devient un événement. Ce qui est programmé est déjà un événement. Nos journées sont mesurées par des minutes, mais aussi par des événements.
+Fonctionne moins par sa définition propre que par ce à quoi le milieu l'oppose, c'est-à-dire l'objet.
 
-**Citation de Rovelli (2018)** : "Nous pouvons penser au monde comme étant fait de choses, de substances, d'entités, de quelque chose qui est. Ou nous pouvons le penser comme étant fait d'événements, d'arrivées, de processus, de quelque chose qui se produit. Quelque chose qui ne dure pas et qui subit une transformation continue, qui n'est pas permanent dans le temps. [...] Le monde n'est pas une collection de choses, c'est une collection d'événements."
+Camille se demande si c'est un acte qui devient un événement par la suite.
 
-**Le soin des choses** : La maintenance comme valeur.
+Dans le champ de la philosophie, depuis Aristote, il y a une différence entre l'acte et l'action.
 
-**Notion d'événement** : Un événement est tout ce qui arrive dans le présent, mais aussi tout ce qui va arriver, ce qui nous place dans le futur. L'idée que l'événement est spontané et imprévisible est prédominante.
+**Définition de Camille** (dictionnaire académique) : ce qui intervient, survient en un temps et lieu déterminés.
 
-**Contradictions dans la notion d'événement** : La notion d'événement peut signifier des choses et leur contraire, tout en les sanctionnant de la même manière.
+## Réinventer les collections
 
-**Chronologie de l'événement** : Selon quelle chronologie se joue la question de l'événement ?
+Événementiel. Comment l'événementiel influence-t-il les pratiques curatoriales ?
 
-**Wood et Nagel** : Dans "Anachronique Renaissance", "l'auteur ne se contente pas de livrer un paquet d'informations préexistantes ; il crée quelque chose qui n'existait pas auparavant. C'est l'agent qui fait de l'œuvre un événement ponctuel."
+L'événement est « devenu une mesure du temps » qui sert « à découper et à organiser notre affairement ordinaire ». Dès que je note quelque chose dans mon téléphone, cela s'appelle un événement : ce qui est programmé est déjà un événement.
 
-**Champ de l'art et de l'histoire de l'art** : Nous allons penser l'événement dans le champ de l'art et de l'histoire de l'art.
+Pas ce qui est arrivé, mais ce qui est programmé. Nos journées sont mesurées par des minutes, etc., mais aussi par des événements.
 
-**École de pensée** : Hubert Damish et la théorie des échecs rapprochent l'œuvre du coup, au sens d'un coup nouveau qui crée une nouvelle situation sur l'échiquier. La notion d'événement n'est pas réfléchie en histoire de l'art mais soutient une histoire canonique.
+**The Order of Time** : Rovelli 2018
 
-**Arthur Danto** : Comment le système de Vasari est une série de coups, contributions additives. Greenberg, intéressé par la théorie du coup gambit : une œuvre crée et remplace l'autre, modèle soustractif.
+Citation au début de *Réinventer les collections* :
+> We can think of the world as made up of things. Of substances. Of entities. Of something that is. Or we can think of it as made up of events. Of happenings. Of processes. Of something that occurs. Something that does not last, and that undergoes continual transformation, that is not permanent in time. [...] The world is not a collection of things, it is a collection of events. (Rovelli, 2018, p. 97)
 
-**Deleuze** : L'événement n'est pas l'état des choses, il s'actualise.
+**Le soin des choses** : maintenance comme valeur
 
-**Merleau-Ponty** : La notion même d'événement n'a pas sa place dans le monde objectif. Les événements sont découpés par un observateur fini dans la totalité spatio-temporelle du monde objectif. Le changement suppose un certain poste où je me place et d'où je vois défiler les choses : il n'y a pas d'événements sans quelqu'un à qui ils adviennent et dont la perspective finie fonde leur individualité. Le temps suppose une vue sur le temps.
+Un événement, c'est tout ce qui arrive : dans le présent, mais quand on dit que c'est aussi tout ce qui va arriver, on est dans le futur.
 
-**Abolition de la frontière sujet/objet** : Cela pose la question de ce qu'on entend par événement.
+Idée que l'événement est spontané et imprévisible.
 
-**Événement collectif** : Tout le monde s'en souvient de manière très singulière, par exemple le 11 septembre. Le discours public recouvre le fait que cela a été vécu des milliers de fois de manière singulière. On se souvient où on était, comment on était, etc. La subjectivité, sans que les contingences servent à l'éclairer, fait partie de l'expérience traumatique. Elle apparaît dans notre subjectivité.
+La notion d'événement va vouloir dire des choses et son contraire. Sanctionner du même genre.
 
-**Idée prédominante chez Deleuze** : C'est l'idée d'actualisation, de déstabilisation du quotidien, d'ouverture vers des vérités.
+Selon quelle chronologie se joue la question de l'événement ?
 
-**François Dosse** : Idée de la rupture.
+**Wood et Nagel** : Anachronique Renaissance
+« L'auteur ne se contente pas de livrer un paquet d'informations préexistantes ; il crée quelque chose qui n'existait pas auparavant. C'est l'agent qui fait de l'œuvre un événement ponctuel. » p.7
 
-**Trois grands sens chez Dosse** :
-1. Dénouement, issue, résolution.
-2. Ce qui arrive (à quelqu'un).
-3. Rupture singulière du cours du temps.
+On va penser l'événement dans le champ de l'art et de l'histoire de l'art.
 
-**Ce qui s'installe en 1935** : L'idée de rupture l'emporte, conduit à l'école méthodique en histoire, école de la crise. Histoire événementielle, suture un ensemble de ruptures. Chaque événement garde sa rupture déchirante mais conserve sa linéarité. Domine encore le politique.
+### École de pensée
 
-**Impact du marxisme** : Pendant tout le 19e siècle, on commence à ressentir l'impact du marxisme, à travers la sociologie des forces et des groupes qui sont des formes agissantes au sein du social. L'économie est le principe dominant.
+**Hubert Damisch** : théorie des échecs :
+Rapproche l'œuvre du coup, au sens d'un coup nouveau qui crée une nouvelle situation de l'échiquier.
+Notion d'événement pas réfléchie en histoire de l'art mais soutient une histoire canonique.
 
-**Histoire des Annales** : Se fonde sur d'autres acteurs, des groupes. Après la Seconde Guerre mondiale et la montée de l'anthropologie et du structuralisme, il y a un gros clash entre l'événement et le projet structuraliste. On reproche à l'événement de ne pas être que le singulier, alors que le projet structuraliste passe du singulier à un ensemble de relations qui le situe et pense sa contingence.
+**Arthur Danto** : comment système de Vasari : c'est une série de coups, contributions additives.
+Alors que Greenberg s'intéressait à la théorie du coup gambit : une œuvre créée remplace l'autre : modèle soustractif.
 
-**1960-1970** : L'événement n'est pas bien vu. Pourtant, dès les années 1970, beaucoup de textes sont intitulés "Le retour de l'événement", dont celui de Morin. Notamment dans une position anti-structuraliste.
+**Deleuze** : l'événement n'est pas l'état des choses, il s'actualise.
 
-**Texte d'Edgar Morin** : Dans "Communications" (1972), plusieurs sections dont l'intégration de l'événement comme transformateur. Déterminé par l'événement-sphinx, appellation de Morin en 1972.
+> C'est ce qu'on appelle l'Événement, ou la part dans tout ce qui arrive de ce qui échappe à sa propre actualisation. L'événement n'est pas du tout l'état de choses, il s'actualise dans un état de choses, dans un corps, dans un vécu, mais il a une part ombrageuse et secrète, qui ne cesse de s'ajouter à son actualisation.
 
-**Bestiaire fantastique de l'événement** : Le sphinx, du côté de l'herméneutique et de l'énigme, et le phénix, seul individu de son espèce comme singularité, figure les incessants retours de l'événement.
+**Merleau-Ponty** :
+> La notion même d'événement n'a pas sa place dans le monde objectif [...]. Les « événements » sont découpés par un observateur fini dans la totalité spatio-temporelle du monde objectif. Mais, si je considère ce monde lui-même, il n'a qu'un seul être indivisible et qui ne change pas. Le changement suppose un certain poste où je me place et d'où je vois défiler les choses : il n'y a pas d'événements sans quelqu'un à qui ils adviennent et dont la perspective finie fonde leur individualité. Le temps suppose une vue sur le temps.
 
-**Morin parle de l'événement monstre** : Dosse parle même d'événement invisible.
+Abolition de la frontière sujet/objet.
 
-**Foucault** : Histoire sérielle de la découverte des protéines, qui change plein de choses dans la vie des gens, événement invisible. Dans Daumier, quand Napoléon III régule la fonction de boucher et standardise les outils de mesure, Daumier fait des caricatures dans la série "Les Bouchers" : "Il paraît qu'ils vont démocratiser la viande."
+Pose la question de ce qu'on entend par événement ?
 
-### L'événement monstre
+**Événement collectif** : tout le monde s'en rappelle de manière très singulière
+Ex : 11 septembre
+Le discours public est recouvert par le fait que cela a été vécu par des milliers de personnes de manière singulière. On se rappelle où on était, comment on était, etc.
+Subjectivité, sans que les contingences servent à l'éclairer mais fait partie de l'expérience traumatique. Apparaît dans notre subjectivité.
 
-**Notion de monstre spectaculaire** : Plusieurs théories :
-- **L'hybride** : Gilbert Lascault, le monstre dans l'art. Théorie cartésienne du monstre : l'hybride en tant que montage d'espèces. On le trouve avant Descartes.
-- **Le monstre romantique** : Frankenstein, inventé par le cinéma. Il n'en est pas du tout question chez Mary Shelley. Force surhumaine, seul marqueur visuel : couleur de cadavre, jaune, grand. Mais rien ne parle de lui comme un montage. Le deuxième film, pas le premier. Celui de James Whale change tout, c'est à partir de là que Frankenstein devient un assemblage.
+L'idée qui prédomine chez Deleuze, c'est l'idée d'actualisation.
+Déstabiliser le quotidien, ouverture vers des vérités.
 
-**JL a écrit sur ce que le monstre disait** : Ça devient une auto-référence médiale. Comme Charlie Chaplin qui passe dans les rouages. Exaltation du principe de montage dont procède le cinéma, métaphore réflexive du médium.
+François Dosse en parle : idée de la rupture.
 
-**Forme de monstruosité romantique** : Créateur qui exagère. Hypertrophie : comportement, taille. Il est amplifié. Dérapage de l'excès. Monstre : ce qui est merveilleux, inexplicable et en tant que tel inquiétant.
+## 3 grands sens chez Dosse
 
-**Le psychopathe** : Rentrent-ils dans cette partie ?
+- Dénouement, issue, résolution
+- Ce qui arrive (à quelqu'un)
+- Rupture singulière du cours du temps
 
-**La tomate contemporaine** : Reçoit des gènes de poissons, monstruosité qui ne dit pas son nom, invisible au niveau du génome.
+Ce qui s'installe en 1835, où l'idée de rupture l'emporte ⟹ conduit l'école méthodique en histoire, école de la vitesse. Histoire événementielle.
 
-**Morin parle de l'événement monstre** : Au sens romantique, comme amplification, mais comme amplification médiatique.
+Suture un ensemble de ruptures. Chaque événement garde sa rupture déchirante mais conserve sa linéarité.
 
-**Conjecture actuelle de l'événement** : L'événement monstre est celui qui va faire sensation. Monstre, monstration et sensation. On rentre dans le domaine des attractions. Parc d'attraction : Vénus Noire, l'homme éléphant. Obsession tératologique, qui caractérise l'époque victorienne. Ce sont les freak shows. Un événement monstre, c'est lier l'événement à la rhétorique de la sensation.
+Domine encore le politique pendant tout le XIXe. On commence à ressentir l'impact du marxisme, à travers la sociologie. Des forces et des groupes qui sont des formes agissantes au sein du social. L'économie est le principal domaine.
 
-**Couches du temps d'un musée** :
-- Temps convulsif de l'événement
-- Temps moyen
-- Temps long
+L'histoire des Annales se fonde sur d'autres acteurs, des groupes. Après la 2e guerre mondiale et la montée de l'anthropologie et du structuralisme, il va y avoir un gros clash entre événement et projet structuraliste. On reproche à l'événement de ne penser que le singulier, alors que le projet structuraliste passe du singulier à un ensemble de relations qui le situent et qui en pensent la contingence.
 
-**Régime événementiel** : En travaillant avec les gens sur le terrain, ils font beaucoup plus de choses que ce à quoi JL s'intéressait, mais aucune communication là-dessus. Renouvelle leurs pratiques sans implication médiatique. Se sont rendues compte que tout n'était pas forcément relié à l'événementiel. Tournant réflexif des musées, des nouveaux usages des collections dans les musées d'art. Qu'est-ce que le musée fait aujourd'hui, ce qu'il n'aurait pas fait avant aux étapes de vie de l'objet ?
+1960-70, l'événement n'est pas apprécié, et mal vu. Et pourtant dès les années 1970 beaucoup de textes intitulés : « Le retour de l'événement » dont Morin. Notamment dans une position anti-structuraliste.
 
-**Planter et Therenty** : Est-ce que les hommes et les femmes vivent les mêmes événements ? Il n'y a pas d'événements sans sujet.
+### Texte d'Edgar Morin
 
-**Prises en compte des dispositifs** : Le triomphe de l'image, une histoire des pseudo-événements, Boorstin (attention, c'est un réac). Qu'est-ce qu'un pseudo-événement ?
+Le texte d'Edgar Morin est dans Communications n°18, 1972.
+Plusieurs sections dont l'intégration de l'événement comme transformateur.
+⟹ Déterminé par l'événement-sphinx, appellation de Morin en 1972.
 
-### L'événement extra-occidentalale
+**Bestiaire fantastique de l'événement**
+Sphinx, du côté de l'herméneutique et de l'énigme, et le phénix, seul individu de son espèce comme singularité et figure les incessants retours de l'événement.
 
-**Réflexions sur les mutations** : Impact sur le sujet et les forces spirituelles. Changement et harmonie.
+Morin va parler de l'**événement-monstre**.
+Dosse va même parler d'**événement invisible**.
 
-**Philosophie indienne** : Bouddhisme. Les événements sont compris dans le karma. Les actions passées influencent les événements futurs. Co-production conditionnée comme les événements sont interconnectés et interdépendants les uns des autres.
+**Foucault** : Histoire sérielle de la découverte des protéines, qui change plein de choses dans la vie des gens, événement invisible.
+Dans Daumier, quand Napoléon III régule la fonction de boucher et standardise les outils de mesures, Daumier fait des caricatures dans la série "Les bouchers" : « Il paraît qu'ils vont démocratiser la viande. »
 
-**Événement autochtone (large)** :
-- Les événements étaient compris dans la relation avec la nature, le sujet, l'esprit.
-- Événements comme des signes.
+## Événement-monstre
 
-**Kairos** : Dans la notion de l'événement occidental, depuis Aristote, le kairos qui s'oppose au Chronos. Explique tout le paradoxe de la construction de l'histoire du XIXe siècle, c'est-à-dire l'alignement des moments de kairos sur une ligne de temps chronologique.
+La notion de monstre spectaculaire, plusieurs théories :
 
-**Kairos** : C'est le moment opportun. Découle d'une conjoncture, ensemble de contingences qui définissent la possibilité de surgissement, de convulsivité.
+### La plus étudiée : l'hybride
 
-### Le pseudo-événement
+Gilbert Lascault, "Le monstre dans l'art". Théorie cartésienne du monstre : l'hybride en tant que montage d'espèces : Arielle par exemple. On la trouve avant Descartes.
 
-**Boorstin** : Dans l'introduction du "Triomphe de l'image", présente une série TV, premier débat du genre à la télé, joute verbale entre personnages politiques. Les politiques sont jugés sur leur capacité à se plier aux contraintes de la télé, événement conçu pour divertir le public et pour fournir une matière optimisée pour les journalistes.
+### Le monstre romantique
 
-**Pseudo-événement** : Type de nouveauté artificielle qui a envahi la vie des Américains. À ses yeux : faux, leurre. Possèdent 4 caractéristiques :
-- Pas spontané : survient parce que quelqu'un l'a prévu.
-- Conçu pour être diffusé et reproduit, se déroule dans un environnement fictif, contrôlé. Exemple : embargo journalistique ou publicitaire.
-- Signification incertaine.
+Frankenstein inventé par le cinéma.
+Il n'en est pas du tout question chez Mary Shelley. Force surhumaine, seul marqueur visuel : couleur de cadavre, jaune, grand. Mais rien ne parle de lui comme un montage.
+Le deuxième film, pas le premier. Celui de James Whale change tout, c'est à partir de là que Frankenstein devient un assemblage.
+
+JL a écrit sur ce que le monstre disait.
+Cela devient une auto-référence médiale. Comme Charlie Chaplin qui passe dans les rouages.
+
+Exaltation du principe de montage dont procède le cinéma. Métaphore réflexive du medium.
+
+Forme de monstruosité romantique : créateur qui exagère. Hypertrophie : comportement, taille. Il est amplifié. Dérapage de l'excès.
+
+Monstre, ce qui est merveilleux, inexplicable et en tant que tel inquiétant.
+
+Le psychopathe rentre-t-il dans cette partie ?
+
+### La tomate
+
+La tomate contemporaine : reçoit des gènes de poissons, monstruosité qui ne porte pas son nom.
+Invisible au niveau du génome.
+
+Quand Morin parle de l'événement-monstre, c'est au sens romantique, comme amplification, mais comme amplification médiatique.
+
+Conjoncture actuelle de l'événement : événement-monstre est celui qui va faire sensation ?
+
+Monstre, monstration et sensation. On rentre dans le domaine des attractions.
+Parc d'attraction : Vénus Noire, l'homme éléphant ⟹ Obsession tératologique, qui caractérise l'époque victorienne. Ce sont les freak shows en gros, d'après Wiki.
+
+Un événement-monstre, c'est lier l'événement à la rhétorique de la sensation.
+
+### Couches du temps d'un musée :
+```
+---- temps convulsif de l'événement ----
+--- temps moyen ----
+-- temps long --
+```
+
+Régime événementiel, mais en fait... En travaillant avec les gens sur le terrain, ils font beaucoup plus de choses que ce qui intéressait JL, mais aucune communication là-dessus.
+Renouvellent leurs pratiques sans implication médiatique.
+Se sont rendus compte que tout n'était pas forcément relié à l'événementiel.
+Tournant réflexif des musées ⟹ de nouveaux usages des collections dans les musées d'art. Qu'est-ce que le musée fait aujourd'hui, ce qu'il n'aurait pas fait avant aux étapes de vie de l'objet ?
+
+**Platel et Théranty**
+Est-ce que les hommes et les femmes vivent les mêmes événements ?
+⟹ Il n'y a pas d'événements sans sujet.
+
+Prise en compte des dispositifs.
+
+**Le triomphe de l'image**, une histoire des pseudo-événements, Boorstin (attention c'est un réac)
+Qu'est-ce qu'un pseudo-événement ?
+
+## L'événement extra-occidental
+
+Réflexions sur les mutations : impact sur le sujet et les forces spirituelles. Changement et harmonie.
+**Philosophie indienne** : bouddhisme. Les événements sont compris dans le karma. Les actions passées influencent les événements futurs.
+
+Coproduction conditionnée : les événements sont interconnectés et interdépendants les uns des autres.
+
+**Événement autochtone** (large) :
+- Les événements étaient compris dans la relation avec la nature, sujet, esprit.
+- Événements comme des signes
+
+Ramène à la notion dans l'événement occidental, depuis Aristote : **kairos**. Qui s'oppose au **chronos**. Explique tout le paradoxe de la construction de l'histoire du XIXe, c'est-à-dire l'alignement des moments de kairos sur une ligne de temps chronologique.
+
+**Kairos** : C'est le moment opportun.
+Découle d'une conjoncture :
+Ensemble de contingences qui définissent la possibilité de surgissement, convulsive.
+
+## Le pseudo-événement
+
+Dans l'introduction du *Triomphe de l'image*, Boorstin : présente une série TV, premier débat du genre à la télé, joutes verbales entre personnages politiques.
+Les politiques sont jugés sur leur capacité à se plier aux contraintes de la télé, événement conçu pour divertir le public et pour fournir une matière optimisée pour les journalistes.
+
+**Pseudo-événement** : type de nouveauté artificielle qui a envahi la vie des Américains.
+À ses yeux : faux, leurre
+Possèdent 4 caractéristiques :
+
+- Pas spontané : survient parce que quelqu'un l'a prévu
+- Conçu pour être diffusé et reproduit, se déroule dans un environnement fictif contrôlé. Ex : embargo journaliste ou publicitaire.
+- Signification incertaine
 - Être une prophétie autoréalisable.
 
-**Ne tient pas la route** : C'est seulement une réaction à la montée de la publicité. Idée qu'un événement est un pseudo-événement, ce serait penser que tout ce qui arrive et surgit est spontané. Exemple : le 11 septembre était prévu mais pourtant pas spontané. Presque tous les grands événements étaient prévus (beaucoup de choses sur les événements naturels chez Aristote, ils nous impressionnent différemment).
+Ne tient pas la route. C'est seulement une réaction à la montée de la publicité. Idée qu'un événement est un pseudo-événement. ⟹ Ce serait penser que tout ce qui arrive et surgit est spontané.
+Ex : 11 septembre prévu mais pourtant pas spontané.
+Presque tous les grands événements étaient prévus (plein de choses sur événements naturels chez Aristote, ils nous impressionnent différemment)
 
-**Un événement ne peut pas être un pseudo-événement** : Parce qu'il n'est pas spontané.
+Un événement ne peut pas être un pseudo-événement parce qu'il n'est pas spontané.
 
-**Logique communicationnelle** : Dénonce essentiellement que pendant que la notion d'événement donnait lieu à une réflexion interdisciplinaire avec une grande richesse épistémologique, parallèlement, sans trop qu'on s'en occupe, à un moment où arrive une véritable migration dans le champ de la communication.
+Logique communicationnelle.
+Dénonce essentiellement que pendant que la notion d'événement donnait lieu à une réflexion interdisciplinaire avec une grande richesse épistémologique, parallèlement sans trop qu'on s'en occupe. À un moment où arrive une véritable migration dans le champ de la communication.
 
-**Impératif événementiel** : Besoin de fabriquer de l'événement. On peut imaginer que l'événement systématiquement fabriqué n'est pas sûr d'avoir un pouvoir transformateur, surtout qu'en se banalisant, utiliser le mot événement dans le sens de ce qui arrive, paradoxal avec ce qu'ils veulent du singulier, de l'exemplaire. Définitions contraires : amphibologie chez Barthes.
+**Impératif événementiel** = besoin de fabriquer de l'événement.
+On peut imaginer que l'événement systématiquement fabriqué n'est pas sûr d'avoir un pouvoir transformateur, surtout en se banalisant.
+Utiliser le mot événement, dans le sens de ce qui arrive. Paradoxal avec ce qu'ils veulent du singulier, de l'exemplaire. Définitions contraires : amphibologie chez Barthes.
 
-**Chez Deleuze** : La signification du terme événement n'est pas certaine.
+Chez Deleuze, la signification du terme événement n'est pas certaine.
 
-**Instrumentalisation de l'événementiel** : Propagande ? On peut le penser mais Boorstin ne le sait pas à l'époque.
+Instrumentalisation de l'événementiel : propagande ? On peut le penser mais Boorstin ne le sait pas à l'époque.
 
-**JL** : Relation entre les faits et les réalités sont toujours équivoques, impression qu'il préfigure les fake news. Mais les fake news ne se qualifient pas de pseudo-événements. Mais ne se réalisent pas. C'est un pseudo-événement, il n'y a pas d'événement. C'est un mensonge.
+JL : les relations entre les faits et les réalités sont toujours équivoques : impression qu'il préfigure les fake news. Mais les fake news ne se qualifient pas de pseudo-événements. Mais ne se réalisent pas. C'est un pseudo-événement, il n'y a pas d'événement. C'est un mensonge.
 
-**Quatrième point** : Pseudo-événement tend à être une prophétie autoréalisable. Vient du fait qu'il dépend de mécanismes d'amplification. Si ça se déroule bien, fait arriver ce qui était annoncé, amplification, si le coup est réussi.
+4ème point : pseudo-événement tend à être une prophétie autoréalisable.
+Vient du fait que dépend de mécanismes d'amplification. Si cela se déroule bien : fait arriver ce qui était annoncé.
+Amplification, si le coup est réussi.
 
-**Comparaison à un vrai événement** : Ou un type d'événement ?
+Comparaison à un vrai événement ? Ou un type d'événement ?
 
-**Pour JL** : C'est l'événementiel, conséquence de la migration dans le domaine de la communication.
+Pour JL c'est l'événementiel, c'est-à-dire une conséquence de la migration dans le domaine de la communication.
 
-**JF Belile** : Faire de l'événementiel est un métier.
+**JF Bellile** : faire de l'événementiel est un métier.
 
-**Table ronde de Santiago (1972)** : La mission du musée n'est pas de conserver mais de diffuser. Musée doit se rentabiliser en ayant toujours plus d'activités. C'est ce qui caractérise les cirques.
+Table ronde de Santiago 1972 : la mission du musée n'est pas de conserver mais de diffuser.
+Le musée doit se rentabiliser. En ayant toujours plus d'activité. C'est ce qui caractérise les cirques...
 
-**Rend la tâche de la médiation difficile** : Pour les personnes qui sont attachées à une notion de culture et non de communication. On est forcé d'être dans une logique communicationnelle, qui a beaucoup façonné la muséologie en France, parce que là-bas c'est communication (exemple : Avignon), ce qui est le cas au Québec : discipline fondements épistémologiques avec des sciences pas que humaines : bio, anthropo, histoire, histoire de l'art.
+Rend la tâche de la médiation difficile pour les personnes qui sont attachées à une notion de culture et non de communication. On est forcé d'être dans une logique communicationnelle, qui a beaucoup façonné la muséologie en France, parce que là-bas c'est la communication (ex : Avignon), ce qui n'est pas le cas au Québec : discipline avec des fondements épistémologiques avec des sciences pas que humaines : bio, anthropo, histoire, histoire de l'art.
 
-**Ce qui vient expliquer l'exposition** : Une logique communicationnelle et qui s'inscrit du côté du sens et de la signification symbolique.
+Ce qui vient expliquer l'expo est une logique communicationnelle et qui s'inscrit du côté du sens et de la signification symbolique.
 
-**Artifice est la vérité du système** : Comme le souligne Pierre Nora dans sa critique de l'auteur, il n'y a pas "de pseudo-événements qui postuleraient le parasitisme d'événements vrais par de faux événements. L'artifice – mais s'agit-il d'artifice ? – est la vérité du système. Mieux vaut dire qu'il fallait autrefois de l'extraordinaire pour qu'il y eût événement et que l'événement tend à être, dans un aujourd'hui qui n'a rien d'ailleurs d'absolu, son propre sensationnel."
+L'artifice est la vérité du système.
+
+**Réinventer la collection** : « Car, comme le souligne Pierre Nora dans sa critique de l'auteur, il n'y a pas « de pseudo-événements qui postuleraient le parasitage d'événements vrais par de faux événements. L'artifice – mais s'agit-il d'artifice ? – est la vérité du système. Mieux vaut dire qu'il fallait autrefois de l'extraordinaire pour qu'il y eût événement et que l'événement tend à être, dans un aujourd'hui qui n'a rien d'ailleurs d'absolu, son propre sensationnel ». (Nora, 1972, p. 167)
 
 ### Exposition
 
-**Exposition comme événement discursif** : Produit des communiqués, etc., en dehors de... Machine à fabriquer du discours. Dans l'exposition, gens qui parlent, musée conservateur, exposition tente de singulariser.
+L'expo est un événement discursif : produit des communiqués, etc. en dehors de...
+Machine à fabriquer du discours.
+Dans l'expo, gens qui parlent, musée, conservateur, artiste, l'expo tente à singulariser.
 
-**Premier temps de l'exposition** : Cartel changeait de couleur et de police selon qui parlait. Émile Carr : les gens comprennent les finesses de la muséologie.
+Expo premier temps, cartel changeait de couleur et de police selon qui parlait.
+Emily Carr : les gens comprennent les finesses de la muséologie.
 
-**Se pose comme énonciation** : Dimension la plus occultée, moins maintenant.
+Donc se pose comme énonciation.
 
-**Présente mais pas étudiée** : L'exposition comme storytelling.
+Dimension la plus occultée, moins maintenant :
 
-**S'ajoute une composante rhétorique** : Comment l'adresse est faite au public ? Par exemple, Greenblatt dans "Cultural Display" explique qu'il y a deux grands modes d'exposition :
-- Wander : joue sur des éléments dissonants insérés dans une série.
-- Résonance : ensemble d'objets qui ont des affinités et qui répondent les uns aux autres.
+Présente mais pas étudiée : l'exposition comme story-telling.
 
-**JL** : Une exposition, c'est une transformation d'une série en récit. On est dans la narrativité et on a pas seulement un événement discursif qui se donne par des coups de presse et muséographie, mais un événement narratif qui se donne par les œuvres elles-mêmes.
+S'ajoute une composante rhétorique : comment l'adresse est faite au public ? Par ex, Greenblatt dans *Culture Display*
+explique qu'il y a deux grands modes d'expo :
 
-**Sur ce second terrain** : Zoë, tu peux essayer de constituer un objet ? Masse des réseaux discursifs, c'est plus compliqué.
+- **Wonder** : joue sur des éléments dissonants insérés dans une série.
+- **Resonance** : ensemble d'objets qui ont des affinités et qui répondent les uns avec les autres.
 
-**Conservation** : Événement acquisition, création de l'œuvre mais aussi des événements : accidents. Ce n'est pas seulement l'accident qui fait événement, mais le fait que ce soit conscientisé et publicisé. Processus d'acquisition. Kairos ?
+JL : une expo c'est une transformation d'une série en récit.
+On est dans la narrativité et on n'a pas seulement un événement discursif qui se donne par couverture de presse et muséographie mais un événement narratif qui se donne par les œuvres elles-mêmes.
 
-**Ce que les gens vont voir quand ils vont voir une exposition** : Une exposition unifiée comme discours ou un ensemble d'œuvres ? Texte fondateur Tom Scraw : "La peinture et son public". Chapitre d'introduction montre que c'est au salon que s'invente le premier public. Les salons montrent qu'il existait déjà dès qu'il y avait un principe de hiérarchie des genres, agencement des formats, mais pas une exposition. Voici, il y a un storytelling à refaire, événement discursif qui gère la parole.
+Sur ce second terrain, Zoé tu peux essayer de constituer un objet ?
+Masse des réseaux discursifs, c'est plus compliqué.
 
-**On va au salon pour rire des croûtes** : C'est un freak show. Est-ce que ça a changé ? Les gens vont-ils voir comment Van Gogh est présenté cette fois-ci ou vont-ils seulement voir des Van Gogh ? Les journalistes s'y intéressent, à la parole du curateur.
+Conservation : événement acquisition, création de l'œuvre mais aussi des événements : accidents. Ce n'est pas seulement l'accident qui fait événement, mais le fait que ce soit conscientisé et publicisé. Processus d'acquisition.
+Kairos ?
 
-**Événement libère l'exposition d'avoir un argument** : L'Otto Dix de Montréal, "Portrait de l'avocat Hugo Simons" avait été considéré comme perdu. Avait été poursuivi par un banquier qui n'avait pas aimé la représentation de sa fille pour la commande. Simons avait gagné et Otto Dix lui avait offert. Lois anti-juives proclamées dans les années 1930. Va en Suisse, aide les Juifs à sortir d'Allemagne. "The Simons loophole". Émigre au Canada avec son tableau. Conservateur de Montréal à Stuttgart apparaît dans une exposition et le tableau va être mis en vente. Famille reconnaissante envers Montréal, serait prête à accepter beaucoup moins d'argent. Le tableau acquis par souscription publique qui ne fonctionne pas bien.
+Que les gens vont voir quand ils vont voir une exposition : une expo unifiée comme discours ou un ensemble d'œuvres ?
+Texte fondateur Tom Crow : *La peinture et son public*. Chapitre d'intro montre que c'est au salon que s'invente le premier public. Les salons montrent qu'il existait déjà dès qu'il y avait un principe de hiérarchie des genres, agencement des formats,
+mais pas une exposition, voilà il y a un storytelling à refaire, événement discursif qui gère la parole.
 
-**Tableau rentre au MBAM** : Bondil arrive comme directrice. Elle trouve qu'il n'y a pas d'icônes dans les musées québécois. Crée des icônes dans les collections. Exemple : À chaque fois que le tableau est exposé, elle s'assure pour que sa légende le suive. Pour faire monter sa valeur. Elle fait une rétrospective Otto Dix dont la seule raison d'être c'est qu'il n'y en a jamais eu. Un tableau d'Otto Dix : sa propre salle. Se positionner dans un corpus. Campus Digit.
+On va au salon pour rire des croûtes, c'est un freakshow.
+Est-ce que ça a changé ?
+Les gens vont-ils voir comment Van Gogh est présenté cette fois-ci ou ils vont seulement voir des Van Gogh ?
+Les journalistes s'y intéressent, à la parole du curateur.
 
-**ZR** : Mon positionnement est encore un peu différent, j'ai l'impression.
+L'événement libère l'expo d'avoir un argument. L'Otto Dix de Montréal, *Portrait de l'avocat Hugo Simons* avait été considéré perdu. Avait été poursuivi par un banquier qui n'avait pas aimé la représentation de sa fille pour la commande. Simons avait gagné et Otto Dix lui avait offert. Lois anti-juives proclamées dans les années 30. Va en Suisse, aide les juifs à sortir d'Allemagne. "The Simons loophole". Émigre au Canada avec son tableau. Conservateur de Montréal à Stuttgart apparaît dans une expo et le tableau va être mis en vente. Famille reconnaissante envers Montréal, serait prête à accepter beaucoup moins d'argent. Le tableau acquis par souscription publique qui ne fonctionne pas bien.
 
-### Événement culturel
+[Lien Goethe Institut](https://www.goethe.de/ins/ca/fr/kul/ges/dsk/dsm/god.html)
 
-**Avant, il n'y avait pas tout le temps des événements culturels** : Accélération.
+Tableau rentre au MBAM et Bondil arrive comme directrice. Elle trouve qu'il n'y a pas d'icônes dans les musées québécois. Crée des icônes dans les collections.
+Exemple : À chaque fois que le tableau est exposé, elle s'assure que sa légende le suive. Pour faire monter sa valeur.
+Elle fait une rétrospective Otto Dix dont la seule raison d'être c'est qu'il n'y en a jamais eu.
+Un tableau d'Otto Dix : sa propre salle. Se positionner dans un corpus.
 
-**Vernissage** : N'était pas à l'origine un événement social. Fait partie du processus de l'art making. Finir l'œuvre sur place. Œuvre n'est pas finie, mais "vernie" sur place. Jour où les artistes finissent leur toile.
+ZR : mon positionnement est encore un peu différent j'ai l'impression.
 
-**Ce n'est plus la même chose** : Philanthrope, la presse, les mécènes puis le grand public. Qualité des bouchées baissait. Du pain dur et de l'eau pour la plèbe.
+## Événement culturel
 
-**L'événement premier** : Événement artistique. Histoire du vernissage à faire : Ça veut dire que les tableaux étaient vernis sur place, in situ.
+Avant il n'y avait pas tout le temps des événements culturels = accélération.
 
-**Le musée et l'événement périphérique** : Commence avec ce truc liminaire, qu'est le vernissage.
+Le vernissage était là. Pas un événement social à l'origine.
+Fait partie du processus du art making. Finir l'œuvre sur place.
+L'œuvre n'est pas finie, mais "vernie" sur place. Jour où les artistes finissent leur toile.
 
-**Le numérique est une raison de moins de venir au musée** : Les communications ont fait leur job, les publics ne se déplacent pas pour voir les œuvres qu'ils ont vues en ligne, mais pour vivre un événement. L'événement est devenu plus désirable que la présence même des œuvres. La présence même des œuvres ne suffit plus.
+Ce n'est plus la même chose.
+Philanthrope, la presse, les mécènes puis le grand public.
+Qualité des bouchées baissait. Du pain dur et de l'eau pour la plèbe.
 
-**Gabor Szilasi** : Photographe dans vernissage : [donation de sa collection au McCord](https://www.musee-mccord-stewart.ca/fr/expositions/gabor-szilasi-photographies/?gad_source=1&gad_campaignid=22498281327&gbraid=0AAAAA_XlV9ZagUdS2TBhg94vO0nj9A7dw&gclid=Cj0KCQjwxdXBBhDEARIsAAUkP6iOQSne9-J6H2ZQI9fgNydJsjM4Hgbs2DJfwY4f-4EoTiuBLY2HSaUaAuOCEALw).
+L'événement premier : événement artistique
+Histoire du vernissage à faire : Cela veut dire que les tableaux étaient vernis sur place, in situ.
 
-**Un événement originaire** : Qui a à voir avec le champ de l'art. Ensuite, il y a la notion d'événement telle qu'elle organise le récit de l'histoire de l'art. Théorie de Damish, théorie de l'échec et des coups. L'histoire de l'art se raconte comme une série de coups, configuration nouvelle et inattendue où les règles du jeu peuvent se trouver ébranlées, mais pas dépassées, on reste dans un contexte régulé. Grand moteur.
+Le musée et l'événement périphérique commence avec ce truc liminaire, qu'est le vernissage.
 
-**Quand quelqu'un peint en laissant sa trace** : Un paradigme. Manière de basculer les compos dans le fond, avant c'était devant pour rendre ça plus lisible, etc. Le portrait qui cesse d'être de profil. Que l'art ne devient plus figuratif. Pas forcément des règles internes, mais des règles qui attaquent l'horizon d'attente des spectateurs contemporains. Horizon d'attente est ébranlé. Ça a été le cas quand la perspective a triomphé, c'était pareil. Alberti a été obligé de dire : Pas plus de 9 personnages. Avant, on remplissait. Maintenant, il faut laisser voir le vide. Montrer le nouveau dispositif. Réintroduire l'antique : un gros coup.
+Le numérique est une raison de moins de venir au musée. Les communications ont fait leur job, les publics ne se déplacent pas pour voir les œuvres qu'ils ont vues en ligne, mais pour vivre un événement. L'événement est devenu plus désirable que la présence même des œuvres.
+La présence même des œuvres ne suffit plus.
 
-**Histoire est la suite du micro-événement** : Qui est donc pas forcément une valeur de rupture mais de secousse.
+**Gabor Szilasi**. Photographe dans vernissage : [donation de sa collection au McCord.](https://www.musee-mccord-stewart.ca/fr/expositions/gabor-szilasi-photographies/?gad_source=1&gad_campaignid=22498281327&gbraid=0AAAAA_XlV9ZagUdS2TBhg94vO0nj9A7dw&gclid=Cj0KCQjwxdXBBhDEARIsAAUkP6iOQSne9-J6H2ZQI9fgNydJsjM4Hgbs2DJfwY4f-4EoTiuBLY2HSaUaAuOCEALw_wcB)
 
-**Le public ne va pas forcément voir le discursif** : C'est ce qui gêne JL.
+Un événement originaire qui a à voir avec le champ de l'art.
+Ensuite il y a la notion d'événement telle qu'elle organise le récit de l'histoire de l'art.
+Théorie de Damisch, théorie de l'échec et des coups. L'histoire de l'art se raconte comme une série de coups, configuration nouvelle et inattendue où les règles du jeu peuvent se trouver ébranlées, mais pas dépassées, on reste dans un contexte régulé.
+Grand moteur.
 
-#### L'œuvre événement
+Quand quelqu'un peint en laissant sa trace = un paradigme.
+Manière de basculer les compositions dans le fond, avant c'était devant pour rendre ça plus lisible, etc.
+Le portrait qui cesse d'être de profil.
+Que l'art ne devienne plus figuratif.
 
-**On voit que cet événement est un événement de l'histoire de l'art** : Une transformation d'un récit. Un ébranlement. Il existe un principe narratif : Caroline Doyon en parle. Comparaison de ce que font l'histoire de l'art entre David et Goya : opposition entre deux protagonistes contemporains pour dynamiser une époque. Principe bon pour la narration.
+Pas forcément des règles internes, mais des règles qui attaquent l'horizon d'attente des spectateurs contemporains. L'horizon d'attente est ébranlé.
+Ça a été le cas quand la perspective a triomphé, c'était pareil.
+Alberti a été obligé de dire : Pas plus de 9 personnages. Avant on remplissait. Maintenant, il faut laisser voir le vide. Montrer le nouveau dispositif.
+Réintroduire l'antique : un gros coup.
 
-**Comment arrive quand l'art, la scène artistique dotée d'un calendrier investi par des tonnes d'institutions** : Comment se déroule l'événement dans ce contexte-là ?
+L'histoire est la suite de micro-événements.
+Qui n'est donc pas forcément une valeur de rupture mais de secousse.
 
-**À faire** : Du vernissage au Met Gala : histoire de l'événement de musée. Histoire de l'événement.
+Le public ne va pas forcément voir le discursif : c'est ce qui gêne JL.
 
-**T'as le chic pour lancer un débat à la fin du cours, toi.**
+### L'œuvre événement
 
-### La suite
+On voit que cet événement est un événement de l'histoire de l'art, une transformation d'un récit. Un ébranlement. Il existe un principe narratif : Caroline Doyon en parle.
+Comparaison de ce que font les historiens de l'art entre David et Goya : opposition entre deux protagonistes contemporains pour dynamiser une époque. Principe bon pour la narration.
 
-**Jeudi 29** : Article de Marie Fraser pour la muséologie événementielle dans "Réinventer la collection". Approche historiographique. Reste sur la muséo événementielle. Documentation de l'événement.
+Comment arrive quand l'art scène artistique dotée d'un calendrier investi par des tonnes d'institutions ?
 
-**Enquête** :
-- 03 juin : Présentation texte Zoë.
-- 05 juin : Sortie ?
+Comment se déroule l'événement dans ce contexte-là ?
 
-**Participation** :
-- 10 juin : Présentation cas d'étude Camille.
-- 12 juin : Présentation de texte.
+À faire : Du vernissage au Met Gala : histoire de l'événement de musée.
+Histoire de l'événement.
 
-**Bilan** :
-- 17 juin.
+T'as le chic pour lancer un débat à la fin du cours toi.
 
-**Quand la performance fait exposition** : Présentation : discussion, pas de temps minimum ou maximum.
+## La suite
 
-**Question de Zoë** : Y a-t-il différents types d'événements ? En effet, tout le monde ne parle pas de la même chose. C'est pas possible.
+**Jeudi 29** :
+Article de Marie Fraser pour la muséologie événementielle dans *Réinventer la collection*.
+Approche historiographique
+Reste sur la muséo événementielle
+Documentation de l'événement
 
-**Banger** : Jojo, le 30 mai 2025, "tarte à la crème de l'histoire de l'art".
+### Enquête :
+- 03 juin. Présentation texte Zoé
+- 05 juin. Sortie ?
 
-**Faire un mail** : Pour demander quelle date pour les présentations.
+### Participation :
+- 10 juin présentation cas d'étude Camille
+- 12 juin présentation de texte
+
+### Bilan :
+- 17 juin
+
+Quand la performance fait exposition ?
+
+Présentation : discussion, pas de temps min ou max.
+
+**Question Z** : Y a-t-il différents types d'événements ?
+En effet tout le monde ne parle pas de la même chose. Ce n'est pas possible.
 

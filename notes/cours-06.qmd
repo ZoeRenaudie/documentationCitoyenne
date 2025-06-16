@@ -6,90 +6,390 @@ format:
     page-layout: article
 ---
 
-### Histoire de l’art : discipline mélancolique
+# Histoire de l'art : discipline mélancolique
+*22 mai 2025*
 
-### Contexte et Biographie de Winckelmann
+## Chronologie Winckelmann
 
-- **Origines et contexte historique** :
-  - **Dresde** : Ville culturelle majeure en Allemagne, connue pour ses collections d'art et son patrimoine historique.
-  - **Frédéric II de Prusse** : Connu sous le nom de  Frédéric le Grand, il a régné de 1740 à 1786 et a transformé la Prusse  en une puissance européenne majeure.
-  - **Homosexualité** : À cette époque, l'homosexualité était souvent stigmatisée et criminalisée, ce qui a pu influencer la vie personnelle et professionnelle de Winckelmann.
-- **Drame personnel** :
-  - **Exécution de son amant** : Cet événement tragique a profondément marqué Winckelmann et a pu influencer sa décision de quitter Dresde.
-- **Hypocrisie sociale et départ pour Rome** :
-  - **Rome** : Centre culturel et artistique majeur, attirant de nombreux érudits et artistes.
-  - **Accès aux œuvres d'art** : Rome offrait à Winckelmann l'opportunité d'étudier les œuvres antiques qui l'intéressaient.
-  - **Milieu propice à l'homo-érotisme** : Rome était plus tolérante envers l'homosexualité, permettant à Winckelmann de vivre plus librement.
-- **Conversion et vie à Rome** :
-  - **Conversion au catholicisme** : Cette conversion lui a permis de s'intégrer dans un milieu où l'homo-érotisme était plus toléré.
-  - **Études et travaux** : Winckelmann a pu poursuivre ses études et ses travaux sur l'art antique, contribuant ainsi à l'histoire de l'art.
+### Contexte biographique
+- Vient du milieu de Dresde, présent au moment où Frédéric II prend le pouvoir
+- Homosexuel dans un contexte d'hypocrisie sociale (drame terrible : son père a exécuté son amant)
+- Fuit l'hypocrisie du milieu de Dresde en partant à Rome pour avoir accès aux œuvres qui l'intéressent
+- Dimensions homoérotiques : l'idée que le milieu dans lequel il s'insère en se convertissant au catholicisme est propice à l'homoérotisme
 
-### Œuvres et Réception
+### Œuvres et réception
+**Date clé : 1764** - Parution de *Histoire de l'art de l'Antiquité*
+- Mal reçu en France : débat entre Falconet et Diderot
+- Falconet : "Comment ce type fait-il l'histoire de l'art ? C'est aux artistes de la faire."
+- N'est pas son premier ouvrage : avait déjà publié ses *Réflexions* en 1755 (**À LIRE**)
 
-- **Histoire de l'Art de l'Antiquité (1764)** :
-  - **Contenu** : Cet ouvrage est une étude approfondie de l'art antique, mettant l'accent sur la beauté et l'idéal esthétique.
-  - **Réception en France** : L'ouvrage a été mal reçu en France, suscitant un débat entre Falconet et Diderot.
-  - **Critique de Falconet** : Falconet critiquait l'idée qu'un non-artiste comme Winckelmann puisse écrire sur l'histoire de l'art.
-- **Réflexions (1755)** :
-  - **Contenu** : Avant son ouvrage majeur, Winckelmann avait déjà publié ses réflexions en 1755, posant les bases de ses travaux ultérieurs.
-  - **Importance** : Ces réflexions ont jeté les bases de ses travaux ultérieurs et ont contribué à l'histoire de l'art.
-- **Assassinat en 1768** :
-  - **Circonstances** : Winckelmann a été assassiné en 1768. Longtemps, on a cru que son assassinat était dû à un vol.
-  - **Thèses récentes** : Des thèses plus récentes suggèrent que son homosexualité pourrait avoir joué un rôle dans son assassinat.
+### Mort et mythologie
+- Assassiné en 1768, au sommet de sa gloire
+- Longtemps, on a dit qu'il transportait un objet précieux et qu'il a été tué en montant d'un bateau par un jeune criminel
+- Thèse alternative : Winckelmann comme un "Pasolini néoclassique", assassiné pour avoir fait des avances
 
-### Contributions et Influence
+### Impact disciplinaire
+- Winckelmann n'était pas "dans le placard"
+- Son histoire de l'art va inaugurer le nu masculin comme nouveau paradigme (jusque-là, c'était le nu féminin qui triomphait)
+- Parcours professionnel et ambition ont servi à canaliser son élan personnel
 
-- **Nu masculin** :
-  - **Nouveau paradigme** : Winckelmann a introduit le nu  masculin comme nouveau paradigme dans l'art, remplaçant le nu féminin  qui était jusqu'alors triomphant.
-  - **Influence** : Il a ainsi influencé la perception et la représentation du corps masculin dans l'art.
-- **Langue et prose** :
-  - **Prose allemande** : Winckelmann a porté la prose allemande à un niveau inégalé, contribuant ainsi à l'enrichissement de la langue allemande.
-  - **Style** : Son style littéraire a influencé de nombreux écrivains et érudits.
-- **Goethe** :
-  - **Hommage** : Goethe a rendu hommage à Winckelmann dans son poème "Tombeau de Winckelmann" (1778), soulignant son importance et son influence.
-  - **Influence** : Goethe a été influencé par les travaux de Winckelmann et a contribué à la diffusion de ses idées.
+## La fondation de la discipline
 
-### Contexte Académique et Réception en France
+### Contexte français
+JL a étudié sans qu'on lui parle de Winckelmann, seulement comme "père fondateur de l'histoire de l'art" :
+- Lui a posé l'histoire de l'art
+- Avant, l'histoire des œuvres était portée par les œuvres (Vasari)
+- Pas traduit en français quand JL était jeune
+- Tout cela ne permet pas de comprendre ce qu'est Winckelmann en Allemagne
 
-- **Université de Strasbourg** :
-  - **Enseignement de l'histoire de l'art** : L'histoire de l'art y est enseignée, mais Winckelmann n'était pas étudié en France en raison de la barrière linguistique.
-  - **Barrière linguistique** : Les œuvres de Winckelmann n'étaient pas traduites en français, ce qui a limité sa réception et son influence en France.
-- **Discipline innovante** :
-  - **Pluridisciplinarité** : L'histoire de l'art était une discipline pluridisciplinaire, intégrant des éléments de numismatique,  d'histoire, de traités esthétiques, etc.
-  - **Innovation** : Winckelmann a contribué à faire de l'histoire de l'art une discipline innovante et pluridisciplinaire.
+### Université de Strasbourg
+- Deux grandes tours de chaque côté, placée en face du palais impérial Guillaume II
+- Archéologie et histoire de l'art
 
-### Autres Figures et Contextes
+### Évolution post-68
+Après 68, l'histoire de l'art n'a pas attiré beaucoup d'attention, alors que l'histoire de l'art anglophone connaissait une révolution (intégration marxiste, sémiologie et psychanalyse).
+- Histoire de l'art en français ≠ histoire de l'art d'Allemagne
+- Pionnier d'une discipline longtemps vue comme un phare épistémologique
 
-- **Warburg et Riegl** :
-  - **Aby Warburg** : Historien de l'art allemand, connu pour ses travaux sur la Renaissance et la survie de l'Antiquité.
-  - **Alois Riegl** : Historien de l'art autrichien, connu pour ses travaux sur l'art romain et l'art baroque.
-  - **Réception en France** : Comme Winckelmann, Warburg et Riegl étaient peu connus en France, en raison de la barrière  linguistique et du manque de traductions.
-- **Bénédicte Savoy** :
-  - **Travaux** : Bénédicte Savoy a écrit des articles sur l'histoire de l'art, contribuant à une meilleure compréhension de cette discipline.
-  - **Influence** : Ses travaux ont influencé l'histoire de l'art et continuent d'être étudiés aujourd'hui.
-- **Gombrecht** :
-  - **Travaux** : Gombrecht a travaillé sur l'épiphanie et  l'expérience esthétique, soulignant l'importance de ces concepts dans  l'histoire de l'art.
-  - **Influence** : Ses travaux ont influencé l'histoire de l'art et continuent d'être étudiés aujourd'hui.
+### Pluridisciplinarité originelle
+Histoire de la réception esthétique : rappelle comment l'histoire de l'art était une discipline innovante, née pluridisciplinaire car elle demandait une approche de multiples domaines :
+- Numismatique
+- Histoire
+- Traités esthétiques
+- Toujours vue comme convoquant de nombreuses disciplines
 
-### Réflexions sur l'Histoire de l'Art
+**Bref** : En France, on ne parlait pas de Winckelmann car pas de professeurs parlant allemand. Winckelmann, créateur de la langue, a porté la prose allemande à un niveau peu égalé.
 
-- **Perte et mélancolie** :
-  - **Thèmes centraux** : L'histoire de l'art est marquée par la perte et la mélancolie, thèmes centraux chez Winckelmann.
-  - **Influence** : Winckelmann a souligné l'importance de la perte et de la mélancolie dans l'art et l'histoire de l'art.
-- **Arc de Titus et Arc de Constantin** :
-  - **Étude comparative** : Winckelmann a étudié  l'évolution de la forme et de la perte à travers des exemples comme  l'Arc de Titus et l'Arc de Constantin.
-  - **Influence** : Ces études ont influencé l'histoire de l'art et continuent d'être étudiées aujourd'hui.
-- **Vasari** :
-  - **Histoire, critique et théorie** : Vasari a introduit  l'histoire, la critique et la théorie dans l'histoire de l'art,  influençant ainsi les travaux de Winckelmann.
-  - **Influence** : Vasari a influencé l'histoire de l'art et continue d'être étudié aujourd'hui.
+**Goethe**, *Tombeau de Winckelmann*, 1778 : figure importante.
 
-### Conclusion
+### Autres absences disciplinaires
+Winckelmann n'était pas la seule absence de l'histoire de l'art il y a 30 ans :
+- On ne parlait pas de Warburg (Raymond Klibansky a sauvé la bibliothèque de Warburg)
+- École de Vienne à travers la figure de Riegl : on parlait de Riegl mais personne d'autre, pas disponible, traduit en même temps que Winckelmann
 
-- **Figure importante** :
-  - **Influence durable** : Winckelmann est une figure majeure de l'histoire de l'art, malgré une réception tardive en France.
-  - **Contributions** : Ses contributions à l'histoire de  l'art ont eu une influence durable et continue d'inspirer les chercheurs et les amateurs d'art.
-- **Influence durable** :
-  - **Héritage** : Les travaux de Winckelmann ont influencé l'histoire de l'art et continuent d'être étudiés aujourd'hui.
-  - **Inspiration** : Son héritage continue d'inspirer les chercheurs et les amateurs d'art.
+Propre à la tradition francophone.
 
-### Semaine suivante : Événement
+**Bénédicte Savoy** a écrit quelques articles "hilarants" sur ce sujet.
+
+## Présence et épiphanie
+
+**Gumbrecht** : texte point de départ de réflexion sur la présence, particulièrement à partir du champ esthétique.
+- **Épiphanie** : intensité qu'il était difficile de réintégrer dans le discours du vécu artistique
+- Comment garder la trace ? Comment rappeler l'effet de sens existant ?
+- Comment montrer comme c'est une caractéristique propre à chaque expérience esthétique ?
+
+Soulignant par l'épiphanie qu'on est sur le terrain de l'éphémère, pour permettre de rallier le point commun à nos deux objets : singulariser certes, mais dans le champ de l'esthétique, toute œuvre d'art est susceptible, à travers l'expérience des spectateurs, d'être caractérisée par ce bouleversement éphémère qu'est l'épiphanie.
+
+## La discipline mélancolique
+
+### Travail sur les lacunes
+Aujourd'hui, travail à partir des lacunes et pertes, comment ce sont des dimensions constitutives de la discipline.
+- Approche documentaire
+- Images de l'époque comme un siècle de terrible gaspillage mais aussi de conservation de toutes sortes de sources
+- Incapacité à disposer [de tout]
+
+L'histoire de l'art est extraordinaire : avant, on pensait que les textes exclusivement permettaient de faire de l'histoire.
+
+### Évolution des formes
+Arc de Titus et de Constantin ≠ pas la même chose : évolution de la forme.
+Winckelmann n'est pas le premier à ne pas le sous-entendre, car si on prend le modèle antérieur de faire de l'histoire de l'art : modèle des vies d'artistes.
+
+### Les trois fils de Vasari (1550)
+Chez Vasari, il y a **trois fils**, mentionnés par Davis :
+1. **Histoire**
+2. **Critique** 
+3. **Théorie**
+
+Il faudrait dire qu'il y a **4 fils** : **rhétorique** en plus.
+
+#### Histoire
+C'est compliqué chez Vasari : quête de faits et de chronologie, mais aussi une **histoire rhétorique** : reprise de lieux communs, de topoï qui écartent toutes les données.
+
+#### Critique
+C'est quand Vasari se prononce sur certaines œuvres, il les classe.
+
+#### Théorie
+Grand projet de l'art qui dépasse l'expérience artistique d'un artiste.
+
+### Relativisme vasarien
+Vasari a un début de relativisme : il dit que les artistes du XVe ont encore une facture un peu sèche et linéaire, mais pour leur temps, c'est ce qu'il y avait de mieux. Histoire de l'art progressive vouée à une aporie, car le Moyen Âge lui paraît indépassable. Son propre temps est indépassable.
+
+**Idea** : les arts sont des arts d'imitation, gracieuse imitation.
+
+**Winckelmann fait une croix sur l'artiste.**
+
+## Winckelmann guide et théoricien
+
+Il écrit ses ouvrages dans son temps libre, car il est bibliothécaire papal, et une de ses fonctions est d'être cicérone, guide.
+- Depuis, études sur la manière de montrer
+- **Deixis** selon Winckelmann se faisait avec la lumière
+- La lumière permettait d'attirer l'attention sur des détails
+- Découpage lumineux des œuvres qui étaient montrées
+- Extrapolation : mise en morceaux de l'art par la lumière
+
+C'est dans ce contexte que David considère le moment fondateur de la discipline chez Winckelmann : métaphore.
+
+### Histoire à partir des copies
+Pas de mention : histoire de l'art à partir des copies romaines.
+- Avouer qu'il sait qu'il n'a pas les originaux
+- Partie du discours tacite, discours sur la perte
+- Antiquité : histoire qui n'existe plus
+
+Important de garder en tête les aberrations sur la chronologie de Winckelmann.
+
+**Davis** : valeur = liberté. Idée que c'est la liberté qui a fait la Grèce (pas que politique, aussi individuelle et sexuelle).
+
+**Lumières** : autre période de l'art de la liberté.
+
+**Lire** : Serge Gilbaut, 1983, *New York stole the idea of modern art*
+- Guerre froide, abstraction américaine, action painting comme acte existentiel
+- Innovant que seul un gouvernement "démocratique" pouvait porter comme symbole de la liberté
+
+## Mélancolie et perte
+
+**Freud** : "l'affect - manque qui pousse à la connaissance."
+
+Analyser ce sentiment de perte dans la perspective, non pas comme une naissance de l'histoire de l'art, mais faire de l'histoire de l'art une représentation en vue d'un deuil anticipé : anticiper la disparition.
+
+**Re-présentation** n'était pas souvent redondante, mais ce qui n'était plus.
+
+### Parallèle art/histoire de l'art
+Histoire de l'art = histoire littéraire et narrative. Par définition, la performance narrative du texte vient occulter la perte. Le récit par définition est une machine à fabriquer de la cohérence.
+
+**Queering** de l'origine de la discipline : pas seulement une discipline mélancolique.
+
+**Alex Potts**, *Winckelmann and the Origins of Art History. Flesh and the Ideals* (même année de parution).
+
+Départ de l'être aimé, étape de la perte de l'être aimé, mort de l'être aimé.
+
+**Influence de Holly**, *Melancholy of Art* : quelqu'un de très endeuillé, carrière secouée par la perte d'un enfant au pic de sa gloire.
+
+### Questions fondamentales
+Pourquoi Winckelmann aurait-il pu écrire 100 ans avant ou 100 ans après ?
+
+Quelle est la vision de la perte dans le champ de la culture à la même époque que les publications et les découvertes de Pompéi et Herculanum ?
+
+À ce moment-là : conservation, acuité particulière.
+
+## Le Louvre et la conservation
+
+### Hubert Robert
+**Hubert Robert**, *Projet d'aménagement de la grande galerie du Louvre*
+- Vue imaginaire de la destruction du Louvre
+- Discours du progrès
+- Classement par école
+- Promesse de l'avenir, école française
+- Priorité aux dispositifs muséaux, et non emphase sur les tableaux
+- Vision optimiste
+
+**Notes des réunions à la création du Louvre** : Cantarel-Besson Y., *La naissance du Louvre*, deux tomes.
+
+### Débats plus profonds
+Est-ce qu'on doit autoriser la présence du public quand les artistes copient les œuvres ?
+**Thèse** : non, parce qu'il n'y a rien de plus excitant qu'une œuvre en train de se faire. Encourager trop vite les artistes.
+
+### Temps cyclique
+Tout s'effondre avec **Hubert Robert**, *Vue imaginaire de la Grande Galerie du Louvre en ruines*, 1796.
+- Il reste le buste de Raphaël
+- Plus dans un temps linéaire : **temps cyclique**
+- Peintre de ruines
+- Caractéristique de la ruine à la fin du XVIIIe : pas un sentiment nostalgique mais **prospectif** (réf. Roger Mortier)
+
+Discours sur la fortune de l'art : comment la fonction du musée ne garantit pas la conservation de l'art.
+
+### Déception de Pompéi
+La peinture de Pompéi déçoit. Des auteurs disent donc que la grande peinture a disparu à jamais.
+- Extrême sensibilité à la perte, plus aiguë en 1790-96
+- Déception de la plénitude de Pompéi est contemporaine à Winckelmann
+
+**Preziosi**, *The Art of Art History: A Critical Anthology* : plutôt fondée sur la littérature que sur les arts visuels.
+
+## Le mythe de Dibutade
+
+### Thème de la jeune Corinthienne
+**Alexander Runciman**, *Dibutade et son amant*, 1771.
+
+En 1957, **Robert Rosenblum**, historien de l'art, *Origins of Painting*, raconte qu'à partir de la seconde moitié du XVIIIe siècle, scène représentant une jeune fille peignant son amant avant son départ.
+- Épisode extrait de **Pline l'Ancien**, *Histoire Naturelle*, livre 35, verset 12
+- L'idée de la peinture par un trait au mur se retrouve aussi dans d'autres textes
+
+**1675** : Sandrart, qui est le Vasari des Pays-Bas (vies d'artistes du Nord, plus tardive que Vasari), origine de la peinture, représente Dibutade qui peint son amant, avec un effet de lumière, sources d'éclairage.
+
+### Importance de l'article de Rosenblum
+L'article de Rosenblum est important car le thème était oublié.
+
+**1966, Rosenblum** : pourquoi le néoclassicisme et le romantisme devraient être un seul et même courant, car ils utilisent les mêmes thèmes.
+- Reconstitué dans une vision presque archéologique d'une époque : un seul mouvement, historicisme en peinture
+- Ce qui importe : désir de s'inspirer du mobilier, des costumes du temps, précision dans la reconstitution
+
+### Exemples de tableaux
+- **David Allan**, *The Origin of Painting*, 1773 : rapport fusionnel avant le départ
+- **Regnault**, *Dibutade et son amant*, 1788-91 : incapacité constitutive de créer au féminin
+- **Joseph Wright of Derby**, *The Origin of Painting*
+- **Suvée**, *L'Origine du dessin*, 1791
+
+### Analyse du texte de Pline
+Le texte de Pline ne raconte pas l'origine de la peinture. Il parle de plastique. Le père de Dibutade est complètement absent de toutes les traductions. C'est la jeune fille qui saisit, voit que le profil est projeté et s'empare de l'occasion pour le tracer, en faire le contour.
+
+### Contribution de Rosenblum
+Pourquoi cette histoire qui n'a rien à voir avec l'origine de la peinture l'incarne-t-elle ?
+- Éloge du dessin plutôt que de la couleur
+- Éloge du trait, de la vérité, car signe analogique
+- Mode des portraits en silhouette dans les années 1780
+- Presque un manifeste du sujet exemplaire mais vraiment porté par l'affect
+- L'affect est à l'origine de la création de la peinture qui fait voir la projection, qui se traduit par un tracé, et disparaît par l'action du père
+
+### Parallèle avec Winckelmann
+Comme dans Winckelmann, l'énonciateur est la jeune fille qui crée, et donc la création est effacée par le masculin (son père qui lui vole son travail). L'histoire ne montre pas ce déplacement-là.
+
+**Lire le passage de Winckelmann en écho au mythe de Dibutade.**
+
+## Mimétisme entre art et histoire de l'art
+
+Comment penser ce mimétisme entre art et histoire de l'art ?
+
+**Beaucoup de traits** : origine de la peinture et du dessin, affect, raison, disparition, portrait de l'être aimé, disparition.
+
+Comment expliquer la proximité entre deux récits d'origine ? Manière de retenir l'histoire de l'être aimé : trace et contour sur la toile (**Kairos**).
+
+### Différences entre les deux récits
+Qu'est-ce qui fait que l'un n'est pas l'autre ?
+- Deuil antérieur
+- Création du moment présent
+- L'objet est volé, paternité de l'invention est donnée à son père dans le mythe de Dibutade
+- Rapport de filiation
+- Univers opposé de l'eau et du feu
+
+**Discipline et son objet** : retenir très ponctuellement au niveau des récits d'origine, métaphores très proches l'une de l'autre pour parler de la discipline de l'histoire de l'art et son objet : la peinture.
+
+Intérêt de voir que l'histoire de l'art se fonde sur une anecdote qui ressemble à une anecdote à partir de laquelle aussi est fondée la naissance de l'art.
+
+## Références complémentaires
+
+**Didi-Huberman**, *Devant l'image*
+
+**Vasari**, *Vies des artistes* : "Tu montres ce qu'il faut cacher." Donatello critique l'utilisation des perspectives d'Uccello dans la *Bataille de San Romano* (panneau du Louvre). Utilisation des lances pour faire les perspectives.
+
+### Tradition française
+L'histoire de l'art devait faire oublier ce qu'elle faisait. Tradition dans l'histoire de l'art française.
+- Différentes manières d'aborder le mimétisme entre l'art et l'histoire de l'art
+- On s'aperçoit que la discipline est pénétrée par les qualités principales de son objet ou la théorie qu'elle a donnée de ce qui va être son objet
+- Cache le prix et fabrique la valeur
+
+Rosenblum met en évidence que le mythe de Dibutade est le manifeste esthétique pour l'art du temps : simplifier la peinture pour finir le rococo, ramener le trait.
+
+## Présence/absence
+
+### Intérêt de confronter art et histoire de l'art
+Les deux sont des manières de gérer l'absence :
+- L'art le fait par la **re-présentation**
+- L'histoire de l'art le fait par le **récit**, la mise en récit
+
+### Les deux disciplines fondées sur l'absence
+**Pour l'art**, la perte est à deux niveaux :
+1. Perte du référent, substitué par la représentation
+2. Précarité de la représentation matérielle dans sa matérialité
+
+**Pour l'histoire de l'art**, la perte est aussi à deux niveaux :
+1. Manque comme un manque d'œuvres : panorama à faire mais je n'ai pas toutes les œuvres pour le faire, en plus ce ne sont que des copies romaines
+2. Intégrité même des œuvres : parvenues massacrées par le temps
+
+### Le Torse du Belvédère
+**Torse du Belvédère**, raconté par Winckelmann : torse mutilé d'une œuvre antique.
+
+Winckelmann écrit aux artistes. Il veut qu'elle serve de modèle : l'art grec.
+
+Peu d'œuvres nous restent, et celles qui nous restent sont mutilées, en plus du fait que ce sont souvent des copies romaines.
+
+**L'imagination** est l'une des stratégies pour gérer l'absence.
+
+### Cohérence textuelle
+Est-ce que son récit est cohérent ? Cela vient avec raconter.
+- Clôture du texte chez les anciens est importante
+- L'*Iliade* est conçue comme ça : par pendants (chants 1 et 24)
+- Les évangiles sont construits de la même manière : les trois rois mages et les trois Marie au tombeau
+
+JL ne pense pas que nous ayons une intentionnalité pour la cohérence.
+
+### Questions ouvertes
+Est-ce qu'on est tous capables de porter la conscience de l'absence et le sens de l'absence pour notre projet ?
+
+**La présence** : une des choses terribles dans l'absence, elle n'est pas appréhendée dans un mode épiphanique. Caractère définitif à l'absence.
+- Position de l'artiste (proche de son objet) vs position de l'historien (loin de son objet)
+- Affect à l'origine de la discipline, de la conception à la réception
+
+## Corpus iconographique
+
+### Anecdote de Dibutade - tableaux analysés :
+1. **David Allan**, *The Origin of Painting*, 1773 (premier tableau - pas d'image)
+2. **Jean-Baptiste Regnault**, *Dibutade et son amant*
+3. **Joseph Wright of Derby**, *Dibutades*
+4. **Suvée**, *L'Origine du dessin*, 1791
+
+### Analyse de Pline
+Pline ne parle pas de l'origine de la peinture mais plutôt de la sculpture sur pot. On a assez parlé de peinture, mais parlons plutôt de plastique.
+
+Jeune fille qui saisit de la vision du portrait, le trace.
+- Éloge du dessin plutôt que la couleur
+- Éloge du trait, éloge de la vérité
+- Portrait en silhouette
+- Manifeste de la réaction néoclassique
+
+L'affect fait voir la projection - implique une trace qui disparaît avec l'action du père.
+Comme dans Winckelmann, l'énonciateur (la jeune fille qui crée) disparaît par le masculin. Changement de genre.
+
+### Mimétisme art/histoire de l'art
+Retenir l'image de l'être aimé. Garde un **Kairos**.
+
+Quels sont les rapports entre les deux anecdotes ? Qu'est-ce qui fait que l'un n'est pas l'autre ?
+
+Intéressant de voir que l'histoire de l'art se fonde sur une anecdote qui ressemble à l'anecdote sur laquelle se fonde la naissance de l'art. Déplacement du genre dans les deux.
+
+### Références artistiques complémentaires
+**Didi-Huberman** a posé des problèmes similaires dans *Devant l'image*.
+
+**Uccello**, *Bataille de San Romano* de Londres, *Déluge*
+
+**Vasari** met en scène une discussion imaginaire entre Donatello et Uccello où Donatello fait le reproche à Uccello en lui disant qu'il montre ce qu'il faut cacher. "Tu ne peux pas briser l'unité du tableau. Il faut de la subtilité. L'art, c'est faire apparaître sans que ça paraisse."
+
+### Tradition disciplinaire
+Avant les renouveau de l'histoire de l'art, l'histoire de l'art devait faire oublier ce qu'elle faisait. En France encore aujourd'hui, rien de plus obscène que de parler de l'histoire de l'histoire de l'art.
+
+Différentes façons d'aborder le mimétisme entre art et histoire de l'art : la discipline est pénétrée par ce qu'elle perçoit être les qualités principales de son objet, ou la théorie de ce qu'elle a donné de ce qui va être son objet.
+
+L'histoire de l'art cache le prix et fabrique de la valeur.
+
+## Synthèse : art et histoire de l'art face à l'absence
+
+### Stratégies de sublimation
+Art et histoire de l'art sont les deux une manière de sublimer l'absence :
+- **Art** : représentation
+- **Histoire de l'art** : récit
+
+Art et histoire de l'art sont fondés sur l'absence, fondés sur la perte, à deux niveaux :
+- Perte du référent et précarité de la représentation matérielle dans sa matérialité
+- Pour l'histoire de l'art : le manque
+
+### Le Torse du Belvédère
+Winckelmann parle de ce torse : imagination, avant même le récit pour suturer.
+
+Winckelmann s'adresse aux artistes.
+
+Gère la deuxième forme d'absence : il nous reste peu d'œuvres et la majorité d'entre elles sont mutilées (et des copies).
+
+**Imaginer** : une des stratégies pour gérer l'absence. Et le récit !
+
+### Cohérence et incohérence
+Incohérence d'un texte. Recherche de cohérence pendant l'écriture.
+Les anciens construisaient la cohérence : 1er chapitre répond au dernier, 2e à l'avant-dernier, etc.
+Exemples : l'*Iliade*, les évangiles.
+
+Pouvoir du texte pour rendre l'absence tolérable. Obligés de porter le sens de l'absence pour notre projet ?
+
+### Distance et proximité
+Absence pas épiphanique, pas soudaine. L'historien à distance alors que l'artiste est collé à l'objet. Résonance entre les deux moments. Place de l'artiste et de l'historien. Dans l'art, il y a l'affect.
+
+### Question finale
+Peut-on ressentir l'absence de quelque chose qui n'a pas eu de présence ?
+
+
