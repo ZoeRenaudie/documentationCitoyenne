@@ -20,24 +20,32 @@ website:
             href: notes/definition-evt.qmd
           - text: Définition documentation
             href: notes/definition-docu.qmd           
-          - text: Premier cours
+          - text: Co-construction 
             href: notes/cours-01.qmd
-          - text: Deuxième cours
+          - text: "L’œuvre modèle : essai de genèse curatoriale"
             href: notes/cours-02.qmd
-          - text: Troisième cours
+          - text: Koblowski, Témoin et expérience
             href: notes/cours-03.qmd
-          - text: Quatrième cours
+          - text: Ward et Payant
             href: notes/cours-04.qmd
-          - text: Cinquième cours
+          - text: Gümbrecht
             href: notes/cours-05.qmd
-          - text: Sixième cours
+          - text: Winckelmann et Dibutades
             href: notes/cours-06.qmd
-          - text: Septième cours
+          - text: Dosse
             href: notes/cours-07.qmd
-          - text: Huitième cours
+          - text: Fraser et Prioul
             href: notes/cours-08.qmd    
-          - text: Neuvième cours
-            href: notes/cours-09.qmd                                
+          - text: Caillet, L'enquête pragmatiste
+            href: notes/cours-09.qmd    
+          - text: Simon et Bishop
+            href: notes/cours-10.qmd          
+          - text: Hölling et Gusman
+            href: notes/cours-11.qmd            
+          - text: Documentation citoyenne
+            href: notes/cours-12.qmd 
+          - text: Display et bilan
+            href: notes/cours-13.qmd                                                    
           - text: Lecture
             href: notes/lectures-01.qmd
           - text: Lecture
