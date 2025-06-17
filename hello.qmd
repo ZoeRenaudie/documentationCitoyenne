@@ -5,8 +5,6 @@ format:
     page-layout: article
 ---
 
-# Journal de séminaire
-
 Ce journal de recherche retrace mes réflexions autour des séances ou ce qu'il me semblait important de souligner. 
 
 ## I. Parcours réflexif au travers des séances
@@ -354,14 +352,14 @@ Au terme de ce parcours, trois acceptions de la documentation citoyenne se déga
 
 Ce séminaire ouvre plusieurs chantiers de recherche qui dépassent le cadre de ma thèse pour interroger plus largement l'avenir des institutions culturelles.
 
-**Développement d'outils méthodologiques spécifiques.** Les protocoles documentaires traditionnels se révèlent inadaptés aux initiatives citoyennes.Cela implique de développer des outils qui respectent la nature processuelle, relationnelle et souvent conflictuelle de ces démarches. Cette innovation méthodologique pourrait s'inspirer des approches développées en anthropologie visuelle, en recherche-action ou en enquête collaborative.
+**Outils pour la documentation citoyenne.** Les protocoles documentaires traditionnels se révèlent inadaptés aux initiatives citoyennes.Cela implique de développer des outils qui respectent la nature processuelle, relationnelle et souvent conflictuelle de ces démarches. Cette innovation méthodologique pourrait s'inspirer des approches développées en anthropologie visuelle, en recherche-action ou en enquête collaborative.
 
 **Exploration des "espaces imaginaires" comme lieux d'existence.** Mes interventions révèlent une intuition récurrente sur l'existence d'espaces imaginaires qui échappent à la documentation traditionnelle mais constituent des lieux d'expérience et de mémoire légitimes. Cette piste mériterait d'être approfondie, notamment en dialogue avec les travaux sur l'archive vivante et la mémoire incorporée.
 
-**Articulation entre documentation et transformation sociale.** Le séminaire révèle que la documentation n'est jamais neutre mais toujours située, politique et potentiellement transformatrice. Cette dimension militante de la documentation citoyenne appelle une réflexion éthique approfondie sur les responsabilités des chercheurs et des institutions.
+**Documentation et transformation sociale.** Le séminaire révèle que la documentation n'est jamais neutre mais toujours située, politique et potentiellement transformatrice. Cette dimension militante de la documentation citoyenne appelle une réflexion éthique approfondie sur les responsabilités des chercheurs et des institutions.
 
-**Interrogation de la notion d'"objet" en muséologie.** Comme le soulignait Johanne Lamoureux, mon utilisation du terme "objet" pour qualifier l'exposition mérite d'être développée et problématisée. Cette réflexion ontologique pourrait nourrir les débats contemporains sur la dématérialisation du patrimoine et l'élargissement des corpus muséaux.
+**Notion d'"objet" en muséologie.** Comme le soulignait Johanne Lamoureux, mon utilisation du terme "objet" pour qualifier l'exposition mérite d'être développée et problématisée. Cette réflexion ontologique pourrait nourrir les débats contemporains sur la dématérialisation du patrimoine et l'élargissement des corpus muséaux.
 
-**Développement d'une "muséologie de l'écoute".** L'opposition entre une muséologie qui explique et une muséologie qui écoute, évoquée lors des échanges, ouvre vers une transformation radicale des pratiques institutionnelles. Cette perspective rejoint les démarches décoloniales et pourrait nourrir le développement de nouvelles formes d'exposition et de médiation.
+**"Muséologie de l'écoute".** L'opposition entre une muséologie qui explique et une muséologie qui écoute, évoquée lors des échanges, ouvre vers une transformation radicale des pratiques institutionnelles. Cette perspective rejoint les démarches décoloniales et pourrait nourrir le développement de nouvelles formes d'exposition et de médiation.
 
-L'aventure intellectuelle de ce séminaire ne fait que commencer. La documentation citoyenne, loin d'être un simple outil technique, s'affirme comme un enjeu démocratique majeur qui interroge l'avenir même des institutions culturelles dans une société en mutation. Les questions soulevées appellent une recherche collective, interdisciplinaire et engagée qui assume pleinement sa dimension transformatrice.
+La documentation citoyenne, loin d'être un simple outil technique, s'affirme comme un enjeu démocratique majeur qui interroge l'avenir même des institutions culturelles dans une société en mutation. Les questions soulevées appellent une recherche collective, interdisciplinaire et engagée qui assume pleinement sa dimension transformatrice.
