@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+format:
+  html:
+    theme: cosmo
+    css: styles.css
 
 website:
   title: "Documentation citoyenne"
@@ -8,8 +12,6 @@ website:
     left:
       - text: Accueil
         href: index.qmd
-      - text: À propos
-        href: apropos.qmd
       - text: Journal
         href: hello.qmd
       - text: Notes
