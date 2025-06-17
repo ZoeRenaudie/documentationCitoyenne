@@ -1,12 +1,12 @@
 ---
-title: "Simon & Bishop, Participation"
+title: "La participation et la documentation (Simon et Bishop). "
 date : 2025-06-05
 format:
   html:
     page-layout: article
 ---
 
-# 5 juin - Simon & Bishop, Participation
+# 5 juin - La participation et la documentation (Simon et Bishop). 
 
 Se pose comme un manifeste, littérature critique du musée traditionnel. Mais se croise aussi avec un courant de littérature que les universitaires ont délaissé : ouvrages professionnels.
 

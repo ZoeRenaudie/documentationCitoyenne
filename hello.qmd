@@ -1,23 +1,21 @@
 ---
-title: "Journal de recherche"
+title: "Journal de séminaire"
 format:
   html:
     page-layout: article
 ---
 
-## I. Introduction
+# Journal de séminaire
 
-Ce journal de recherche retrace mes réflexions autour des séances ou ce qu'il me semblait important de souligner. Premièrement je propose un parcours réflexif chronologique du séminaire, avant de refléter les éléments traversaux puis de conclure. 
+Ce journal de recherche retrace mes réflexions autour des séances ou ce qu'il me semblait important de souligner. 
 
-Il ne s'agit pas des notes de cours mais de résumés des séances et ouverture de réflexions. 
-
-## II. Parcours réflexif thématique 
+## I. Parcours réflexif au travers des séances
 
 #### 06 mai - Co-construction ([note de cours](../documentationCitoyenne/notes/cours-01.qmd))
 
 Johanne Lamoureux a présenté le contexte du séminaire : rappel des objectifs pédagogiques (co-construction, réflexivité, exploration des notions de présence, événement, enquête, participation).
 
-Nous avons commencé a exploré le concept émergent de "documentation citoyenne" en muséologie, révélant un paradoxe majeur : les musées, institutions de mémoire par excellence, ne documentent pas leurs propres pratiques d'engagement citoyen les plus innovantes. La discussion a mis en lumière les différentes acceptions de cette notion (documentation par, pour et des citoyens) et les obstacles institutionnels qui empêchent sa systématisation, notamment la culture "irénique" des musées qui évite les conflits et tensions.
+Nous avons commencé a exploré le concept émergent de "documentation citoyenne" en muséologie, révélant un paradoxe majeur : les musées, institutions de mémoire par excellence, ne documentent pas leurs propres pratiques d'engagement citoyen les plus innovantes. La discussion a mis en lumière les différentes acceptions de cette notion (documentation par, pour et des citoyens) et les obstacles institutionnels qui empêchent sa systématisation, notamment la culture *irénique* des musées qui évite les conflits et tensions.
 
 Les ouvertures possibles incluent le développement de protocoles spécifiques pour documenter les initiatives participatives, l'exploration des "effets de présence" dans la documentation numérique, et l'analyse comparative des modèles français et québécois d'engagement citoyen. Cette réflexion ouvre également sur des questions plus larges concernant la transformation des rapports de pouvoir au sein des institutions muséales et le rôle de la documentation dans la construction d'une mémoire critique des pratiques muséologiques contemporaines.
 
@@ -32,21 +30,13 @@ Cette question trouve un écho particulier dans le champ de la muséologie criti
 L'expression "documentation citoyenne" pose d'emblée un paradoxe fascinant. Par définition, les initiatives citoyennes relèvent davantage de la médiation que de la conservation, ce qui explique pourquoi elles laissent si peu de traces archivées. Cette oralité constitutive semble être à la fois leur force vive et leur talon d'Achille institutionnel.
 L'exemple du Musée McCord avec le projet "Prendre soin de nos histoires" illustre parfaitement cette problématique : des initiatives transformatrices qui ne laissent que des bribes dans les rapports d'activité, quelques photos et des échanges de courriels. La phrase rapportée des participants itinérants - "Pourquoi vous faites ça? Vous allez faire quoi avec ça?" - révèle une conscience aiguë de cette instrumentalisation potentielle.
 
-##### Trois acceptions de la documentation citoyenne
+##### Le musée irénique face au conflit
 
-- Documentation construite par les citoyens : Approche collaborative où les publics deviennent co-producteurs de savoirs (exemple des ateliers Wiki du MNBAQ)
-- Documentation pour les citoyens : Mise à disposition d'outils et d'archives pour un usage citoyen, favorisant l'appropriation démocratique du patrimoine
-- Documentation des questions citoyennes : Archivage des initiatives citoyennes elles-mêmes, de leurs processus et de leurs impacts
+Une hypothèse stimulante émerge : le musée, en tant qu'institution intrinsèquement irénique, serait réfractaire à documenter ce qui relève du conflit et de la tension. Pourtant, les initiatives citoyennes portent souvent une dimension transformatrice, voire contestataire, qui dérange l'harmonie apparente de l'institution.
 
-##### Le musée irénnique face au conflit
-
-Une hypothèse stimulante émerge : le musée, en tant qu'institution intrinsèquement irénnique (qui recherche la paix), serait réfractaire à documenter ce qui relève du conflit et de la tension. Pourtant, les initiatives citoyennes portent souvent une dimension transformatrice, voire contestataire, qui dérange l'harmonie apparente de l'institution.
 Cette tension révèle un paradoxe : comment une "machine de conservation" peut-elle ne pas documenter ce qui constitue aujourd'hui l'essentiel de son rapport aux publics ?
 
-##### La question de la présence
-
-La discussion sur René Payant et Hans Ulrich Gumbrecht ouvre une piste théorique essentielle. Si l'exposition traditionnelle fonctionne comme "acte de signification" (Davallon), les initiatives citoyennes semblent plutôt relever des "effets de présence" - cette dimension phénoménologique qui échappe aux modèles de signification classiques.
-Comment alors documenter ce qui relève de la présence dans un monde numérique dominé par la reproduction et la circulation des signes ? Cette question devient centrale pour penser une documentation citoyenne qui ne trahisse pas la spécificité de son objet.
+::: {.callout-note}
 
 ##### Questions ouvertes
 
@@ -54,41 +44,45 @@ Quel protocole de documentation pourrait respecter la nature processuelle et rel
 Comment éviter que la documentation ne devienne un outil de récupération institutionnelle ?
 Quelle place pour les affects et les émotions dans une démarche documentaire ?
 Comment articuler mémoire institutionnelle et mémoire citoyenne ?
-
-##### Pistes de recherche
-
-L'étude de cas de Silvia Kolbowski "An Inadequate History of Conceptual Art" (1998) pourrait offrir un modèle intéressant : comment documenter une histoire subjective, anonyme et plurielle tout en préservant sa dimension expérientielle ?
-
-La notion d'engagement, privilégiée par tous les musées interrogés, mérite aussi d'être creusée : seul terme inscrit dans la durée parmi participation, équité et inclusion, il pourrait constituer un pont entre documentation et transformation sociale.
+:::
 
 ##### Résumé de mon projet doctoral présenté
 
 Sujet central : Développer une approche innovante de conservation-restauration des expositions d'art contemporain en explorant leurs dimensions matérielles et immatérielles.
+
 Problématique fondamentale : Comment résoudre la tension entre l'éphémère (nature temporaire des expositions) et le permanent (volonté de conservation et transmission) ? Les expositions, par leur nature événementielle et relationnelle, échappent aux outils traditionnels d'archivage.
 Hypothèse principale : Les humanités numériques permettront de conserver l'essence performative et relationnelle des expositions, au-delà des seules traces matérielles.
+
 Méthodologie :
 
-Modélisation progressive en 3 phases (théorique, conceptuelle, empirique)
-Partenariats institutionnels (Ouvroir, CIDOC-ICOM)
-Tests sur cas d'études variés (Feux Pâles, MAC, Szeemann)
-Outils numériques : bases de données relationnelles, web sémantique (Display), visualisation
+Modélisation progressive en 3 phases (théorique, conceptuelle, empirique) :
+- Partenariats institutionnels (Ouvroir, CIDOC-ICOM)
+- Tests sur cas d'études variés (Feux Pâles, MAC, Szeemann)
+- Outils numériques : bases de données relationnelles, web sémantique (Display), visualisation
 
-Innovation : Créer un outil collaboratif et ouvert qui documente non seulement les objets exposés mais aussi les interactions, temporalités et récits multiples des expositions.
-Contribution attendue : Transformer la compréhension de la "conservation" en art contemporain en proposant des alternatives aux modèles centrés sur l'objet matériel.
+Innovation : 
+Créer un outil collaboratif et ouvert qui documente non seulement les objets exposés mais aussi les interactions, temporalités et récits multiples des expositions.
 
-#### 08 mai - Habemus Papam - Génèse de l'évènement ([note de cours](../documentationCitoyenne/notes/cours-02.qmd))
+Contribution attendue : 
+Transformer la compréhension de la "conservation" en art contemporain en proposant des alternatives aux modèles centrés sur l'objet matériel.
 
-Cette séance de séminaire porte sur l'analyse critique des pratiques curatoriales à travers deux cas d'étude emblématiques : l'exposition sur Emily Carr dirigée par Johanne Lamoureux et les travaux de Silvia Kolbowski. Le cours examine la "génétique curatoriale" - c'est-à-dire les processus de création d'exposition souvent invisibles - en analysant comment JL a reconstitué trois modèles d'exposition historiques de l'artiste canadienne Emily Carr (1927, 1945-1990, et une approche contextualisée), révélant ainsi les enjeux coloniaux, les questions d'appropriation culturelle et les stratégies muséographiques. L'analyse se concentre sur les tensions entre neutralité institutionnelle et énonciation curatoriale, particulièrement dans le contexte de la représentation des cultures autochtones, tandis que l'oeuvre de Kolbowski abordent la question du spectateur dans l'art conceptuel, proposant une réflexion sur "l'expérience de la présence sans plénitude" dans les pratiques muséales contemporaines.
+#### 08 mai - L’œuvre modèle : essai de genèse curatoriale ([note de cours](../documentationCitoyenne/notes/cours-02.qmd))
+
+[Habemus Papam]{.aside}
+
+Cette séance de séminaire porte sur l'analyse critique des pratiques curatoriales à travers deux cas d'étude emblématiques : l'exposition sur Emily Carr dirigée par Johanne Lamoureux et les travaux de Silvia Kolbowski. Le cours examine la "génèse curatoriale" - c'est-à-dire les processus de création d'exposition souvent invisibles - en analysant comment JL a reconstitué trois modèles d'exposition historiques de l'artiste canadienne Emily Carr (1927, 1945-1990, et une approche contextualisée), révélant ainsi les enjeux coloniaux, les questions d'appropriation culturelle et les stratégies muséographiques. L'analyse se concentre sur les tensions entre neutralité institutionnelle et énonciation curatoriale, particulièrement dans le contexte de la représentation des cultures autochtones.
 
 ### A. Bloc 1 : Présence / Absence
 
 #### 13 mai - Kolbwoski, Témoin et expérience ([note de cours](../documentationCitoyenne/notes/cours-03.qmd))
 
-Nous avons examiné une œuvre de 1999 qui interroge la mémoire de l'art conceptuel à travers 22 témoignages d'artistes de la période 1965-1975. L'œuvre, présentée sans montage selon une éthique documentaire inspirée de Claude Lanzmann, révèle la tension entre l'expérience vécue et sa reconstruction théorique. Les participants, incluant des figures comme Vito Acconci, Louise Lawler et Lawrence Weiner, décrivent leurs expériences des happenings, performances et actions de l'époque, mais leurs souvenirs apparaissent "contaminés" par les débats théoriques ultérieurs, notamment celui initié par Michael Fried dans "Art and Objecthood" (1967) sur la théâtralité de l'art minimal.
+Nous avons examiné le catalogue de l'INHA sur l'œuvre *an inadequate history of conceptual art* de 1999. Kolbowski interroge la mémoire de l'art conceptuel à travers 22 témoignages d'artistes de la période 1965-1975. L'œuvre, présentée sans montage selon une éthique documentaire inspirée de Claude Lanzmann, révèle la tension entre l'expérience vécue et sa reconstruction théorique. Les participants partiellement anonymes décrivent l'oeuvre qui les a le plus marqué d'après une définition de Kolbowski. Leur souvenirs de l'art conceptuel est essentiellement constitué d'expériences de happenings et actions de l'époque. Nous avons remarqué que les participants se sente obligé de posé un cadre temporel ou spatial, ou materiel pour faire une description. 
 
 L'analyse met en évidence comment cette œuvre fonctionne moins comme une histoire objective de l'art conceptuel que comme un témoignage générationnel sur une période de transformation paradigmatique. Les descriptions révèlent l'importance de la présence, de la durée et de l'expérience immersive, contredisant paradoxalement la critique friedienne de la théâtralité. L'œuvre soulève ainsi des questions fondamentales sur la fabrication de l'histoire de l'art : entre mémoire individuelle et construction collective, entre expérience première et réception théorisée, elle illustre la difficulté de saisir l'art conceptuel comme catégorie stable, le présentant plutôt comme une "tentative désespérée de faire une catégorie" dans un monde artistique qui a renoncé aux mouvements unifiés.
 
-##### Questions de recherche pour la suite
+::: {.callout-note}
+
+##### Questions de recherche
 
 Statut de la réception première : Comment cette œuvre informe-t-elle notre approche des objets d'étude ? 
 
@@ -96,17 +90,23 @@ Mémoire vs Histoire : L'œuvre esquisse-t-elle une histoire lacunaire ou consti
 
 Art conceptuel et affect : Contradiction apparente entre dématérialisation et expérience affective. Comment l'émotion rapproche-t-elle des œuvres dont le "potentiel esthétique n'était pas saisissable à la base" ?
 
+:::
+
 ##### Distinctions avec nos objets d'étude
 
 Performance : s'est éloignée de sa critique fondatrice (aura de l'artiste) dans sa muséalisation
+
 Exposition : maintient peut-être davantage le lien avec son moment fondateur
 Point commun : l'événement comme caractéristique partagée
+
+::: {.callout-note}
 
 ##### Notes personnelles
 
 Cette séance révèle l'importance de questionner le statut du témoin dans la constitution de l'histoire de l'art. L'œuvre analysée propose une alternative à l'histoire "officielle" en privilégiant la subjectivité assumée ("All statements are true as the speakers recall them").
 
-La tension entre vérité et imaginaire, entre expérience vécue et reconstruction théorique, semble centrale pour comprendre comment se fabrique la mémoire artistique. À approfondir dans la perspective de mes propres objets d'étude sur l'exposition et la performance.    
+La tension entre vérité et imaginaire, entre expérience vécue et reconstruction théorique, semble centrale pour comprendre comment se fabrique la mémoire artistique. À approfondir dans la perspective de mes propres objets d'étude sur l'exposition et la performance. 
+:::   
 
 #### 15 mai - Ward & Payant, La perte ([note de cours](../documentationCitoyenne/notes/cours-04.qmd))
 
@@ -114,41 +114,14 @@ Nous avons exploré trois approches théoriques de l'art éphémère et de sa do
 
 René Payant (1979) et Amelia Jones explorent quant à eux la relation problématique entre performance et documentation. Influencé par Louis Marin et sa distinction énoncé/énonciation, Payant analyse le récit critique comme re-performance mimétique de l'œuvre éphémère, particulièrement à travers l'étude de performances de Max Dean et Joseph Beuys. Jones remet en question la hiérarchie traditionnelle qui privilégie l'expérience directe sur la documentation, proposant que cette dernière constitue une modalité d'expérience artistique à part entière. Les trois auteurs convergent sur l'idée que la médiation (par l'exposition, le récit ou la documentation) ne constitue pas un appauvrissement de l'expérience artistique mais révèle plutôt sa nature fondamentalement relationnelle et construite.
 
-##### Contextualisation méthodologique
-
-Séance consacrée à l'examen de textes fondateurs qui se positionnent à l'origine d'un discours sur des objets aujourd'hui consacrés. Distinction fondamentale entre deux traditions disciplinaires :
-
-- Ward : tradition historique documentaire
-- Payant : tradition critique d'art
-
-##### Martha Ward - Vers une histoire des expositions
-
-Ward s'inscrit dans une volonté de contribuer aux balbutiements de l'histoire des expositions en France. Sa démarche révèle un paradoxe historiographique : elle prétend combler un vide (absence de savoir professionnel 1750-1914) tout en s'appuyant sur des exemples qui contredisent cette assertion.
-
-Contre-exemples à sa thèse
-
-- Diderot critique d'art : commente systématiquement les intentions de display de Chardin
-- Chardin "le tapissier" : pratique d'accrochage sophistiquée favorisant les comparaisons
-- Alexandre Lenoir (Musée des monuments français) : concept de "salles d'atmosphère" - proto-immersion
-- Alexandre Du Sommerard : Chambre de François 1er à Cluny, première reconstitution historique assumée
-
-##### Réserves critiques
-
-- Discours de la présence : critique de l'ontologie de la présence
-- Documentation exhaustive : privilège donné aux artistes qui documentent vs ceux qui ne documentent pas
-- Fétichisme de la photographie : rapport problématique à l'image comme trace
-
-##### Enjeux épistémologiques
-
-- Statut du témoin : Ward privilégie les traces documentaires, Payant l'expérience subjective, Jones l'expérience médiatisée
-- Temporalité : Tous trois interrogent le rapport présent/passé dans la constitution du savoir
-- Légitimité disciplinaire : Chacun défend un territoire épistémologique spécifique
+::: {.callout-note}
 
 ##### Questions ouvertes pour la recherche
 
 - Comment articuler histoire documentaire et critique expérientielle ?
 - Quel statut accorder à la subjectivité dans l'écriture de l'histoire de l'art ?
 - La documentation peut-elle constituer une expérience esthétique autonome ?
+:::
 
 ##### Applications à nos objets d'étude
 
@@ -158,13 +131,12 @@ Ces trois approches offrent des modèles complémentaires pour penser :
 - La performance comme dispositif relationnel (Payant)
 - La documentation comme expérience légitime (Jones)
 
-##### Notes personnelles 
-
 La tension entre ces trois approches révèle la nécessité de développer une méthodologie hybride qui ne sacrifie ni la rigueur documentaire, ni la richesse de l'expérience subjective, ni la légitimité de l'archive comme lieu d'expérience.
 
 #### 20 mai - Gumbrecht, Production de présence ([note de cours](../documentationCitoyenne/notes/cours-05.qmd))
  
 Nous avons exploré la théorie de Hans Ulrich Gumbrecht sur les effets de présence dans l'expérience esthétique, en opposition au modèle herméneutique dominant en histoire de l'art. Gumbrecht propose de dépasser le clivage cartésien sujet/objet par trois concepts clés : l'épiphanie (moments d'intensité soudains et éphémères), la présentification (techniques pour rendre le passé présent) et la deixis (gestes de monstration). Sa théorie repose sur l'oscillation constante entre effets de présence et effets de signification dans l'expérience esthétique, où la présence matérielle des œuvres génère des moments d'intensité qui échappent à l'interprétation pure. Cette approche nécessite un cadre d'insularité permettant une "écoute flottante" similaire à celle de la psychanalyse, où le spectateur peut vivre des expériences épiphaniques authentiques.
+
 L'analyse critique retrace l'histoire de l'histoire de l'art comme discipline fondamentalement orientée vers la signification, depuis l'approche iconographique de Panofsky jusqu'aux courants formalistes américains (Greenberg) et aux approches contextualistes marxistes. Gumbrecht montre que même les tentatives phénoménologiques de l'art minimal n'ont pas réussi à échapper à l'impératif herméneutique. Sa proposition d'effets de présence, paradoxalement fondés sur un sentiment de perte plutôt que de plénitude, offre une voie alternative pour repenser la pédagogie artistique et l'expérience muséale. Cette perspective ouvre vers un "présent élargi" qui permettrait aux humanités de se renouveler en intégrant la dimension corporelle et affective de l'expérience esthétique, sans pour autant abandonner complètement la dimension intellectuelle et critique.
 
 > Johanne, le 20 mai 2025 :
@@ -172,7 +144,7 @@ L'analyse critique retrace l'histoire de l'histoire de l'art comme discipline fo
 
 #### 22 mai - Winckelmann et Dibutades ([note de cours](../documentationCitoyenne/notes/cours-06.qmd))
 
-Nous avons intérogé l'origine mélancolique de l'histoire de l'art à travers la figure fondatrice de Johann Joachim Winckelmann (1717-1768). Homosexuel fuyant l'hypocrisie de Dresde pour Rome, Winckelmann publie en 1764 son Histoire de l'art de l'Antiquité, ouvrage qui inaugure la discipline moderne de l'histoire de l'art. Sa démarche révolutionnaire consiste à faire une croix sur l'artiste pour se concentrer sur l'évolution des formes artistiques, tout en travaillant paradoxalement à partir de copies romaines et d'œuvres mutilées. Winckelmann transforme cette perte constitutive - l'absence des originaux grecs - en désir de connaissance, faisant de l'historien d'art un "sujet endeuillé" qui tente de conserver la trace d'une beauté disparue. Cette mélancolie fondatrice se révèle dans sa valorisation du nu masculin comme nouveau paradigme esthétique et dans sa conception de l'art grec comme modèle de liberté politique, individuelle et sexuelle.
+Nous avons interrogé l'origine mélancolique de l'histoire de l'art à travers la figure fondatrice de Johann Joachim Winckelmann (1717-1768). Homosexuel fuyant l'hypocrisie de Dresde pour Rome, Winckelmann publie en 1764 son Histoire de l'art de l'Antiquité, ouvrage qui inaugure la discipline moderne de l'histoire de l'art. Sa démarche révolutionnaire consiste à faire une croix sur l'artiste pour se concentrer sur l'évolution des formes artistiques, tout en travaillant paradoxalement à partir de copies romaines et d'œuvres mutilées. Winckelmann transforme cette perte constitutive - l'absence des originaux grecs - en désir de connaissance, faisant de l'historien d'art un "sujet endeuillé" qui tente de conserver la trace d'une beauté disparue. Cette mélancolie fondatrice se révèle dans sa valorisation du nu masculin comme nouveau paradigme esthétique et dans sa conception de l'art grec comme modèle de liberté politique, individuelle et sexuelle.
 
 La discipline naît ainsi d'un mimétisme troublant entre art et histoire de l'art, tous deux fondés sur la gestion de l'absence. Cette proximité s'illustre parfaitement dans le parallèle entre le récit fondateur de Winckelmann et le mythe antique de Dibutade, la jeune Corinthienne qui trace le contour de son amant avant son départ - thème très représenté dans la peinture du XVIIIe siècle (David Allan, Regnault, Suvée). Dans les deux cas, l'affect amoureux engendre la création artistique face à la perte imminente, mais cette création féminine est ensuite effacée ou appropriée par une figure masculine (le père de Dibutade, l'institution disciplinaire). Comme le montre le mythe de Dibutade, l'art naît de la re-présentation pour pallier l'absence du référent, tandis que l'histoire de l'art utilise le récit pour suturer les lacunes documentaires et donner cohérence à un patrimoine fragmenté. Cette double stratégie de sublimation révèle comment la mélancolie n'est pas un accident mais la condition même de possibilité de la discipline historique de l'art.
 
@@ -194,7 +166,7 @@ Paradoxalement, cette logique événementielle, initialement perçue comme une m
 
 ### C. Bloc 3 : Enquête
 
-#### 3 juin - Méthode de l’enquête ([note de cours](../documentationCitoyenne/notes/cours-09.qmd))
+#### 3 juin - Caillet, Méthode de l’enquête ([note de cours](../documentationCitoyenne/notes/cours-09.qmd))
 
 J'ai présenté le modèle pragmatiste de l'enquête tel que développé par Aline Caillet, en m'appuyant sur la philosophie de Dewey et les travaux de l'École de Chicago. Cette approche conçoit l'enquête comme une méthode transdisciplinaire et exploratoire qui dépasse les frontières académiques traditionnelles pour s'adresser également aux citoyens. Contrairement aux enquêtes classiques qui recherchent la vérité ou confirment des hypothèses préétablies, l'enquête pragmatiste privilégie l'expérience directe et l'observation de terrain. Elle se caractérise par une posture humble et curieuse où la problématique se façonne durant le processus même de l'enquête, créant un rapport dynamique entre l'enquêteur et son objet d'étude. Cette méthode valorise le savoir pratique et l'intelligence du réel plutôt que les connaissances purement théoriques.
 
@@ -264,7 +236,7 @@ Enfin, et c’est peut-être là le lien le plus fort avec l’analyse de Caille
 
 La question du participatif dans les musées contemporains, nous fut présenté comme un manifeste critique du musée traditionnel face à la menace de l'irrelevance. L'approche participative se développe autour du concept d'« active collection » où les objets sont classés selon leur degré de pertinence et leurs usages potentiels, permettant aux musées de se défaire des pièces les moins pertinentes. Cette nouvelle philosophie du collectionnement s'accompagne d'une réflexion sur la différence entre interaction (relation individuelle limitée) et participation véritable, cette dernière visant à créer des communautés et à transformer tant les institutions que la société. Les musées cherchent ainsi à devenir des tiers-lieux rassembleurs tout en maintenant leur mission première centrée sur les œuvres.
 
-La théoricienne Claire Bishop occupe une position centrale dans cette réflexion, particulièrement à travers sa critique de l'art participatif post-1989 qu'elle considère comme complice du néolibéralisme. Bishop distingue trois moments historiques déterminants (1917, 1968, 1989) et dénonce le fait que l'art participatif bénéficie d'un traitement différencié, jugé sur des critères éthiques plutôt qu'esthétiques. Elle souligne le paradoxe d'une valorisation artistique du participatif qui coïncide avec la montée des marginalisations sociales réelles. Le cours examine également les différentes modalités de participation (contribution, collaboration, co-création, hosted) et questionne la documentation de ces pratiques, souvent négligée par les institutions malgré leur importance pour évaluer l'impact transformateur de ces initiatives sur les publics et les communautés.
+La théoricienne Claire Bishop occupe une position centrale dans cette réflexion, particulièrement à travers sa critique de l'art participatif post-1989 qu'elle considère comme complice du néolibéralisme. Bishop distingue trois moments historiques déterminants (1917, 1968, 1989) et dénonce le fait que l'art participatif bénéficie d'un traitement différencié, jugé sur des critères éthiques plutôt qu'esthétiques. Elle souligne le paradoxe d'une valorisation artistique du participatif qui coïncide avec la montée des marginalisations sociales réelles. Simon examine les différentes modalités de participation (contribution, collaboration, co-création, hosted). Nous avons questionné la documentation de ces pratiques, souvent négligée par les institutions malgré leur importance pour évaluer l'impact transformateur de ces initiatives sur les publics et les communautés.
 
 ### D. Bloc 4 : Collaboratif
 
@@ -280,9 +252,9 @@ La muséologie citoyenne se distingue de la simple participation par son objecti
 
 #### 17 juin - Display et Bilan ([note de cours](../documentationCitoyenne/notes/cours-13.qmd))
 
-## III. Éléments transversaux
+## II. Éléments transversaux
 
-L'analyse rétrospective de ce parcours séminaire révèle plusieurs fils conducteurs qui tissent une trame conceptuelle cohérente autour de la documentation citoyenne. Ces éléments transversaux dépassent la chronologie des séances pour constituer un système de tensions productives qui éclairent les enjeux contemporains de la muséologie participative.
+L'analyse rétrospective de ce parcours séminaire révèle plusieurs fils conducteurs qui tissent une trame conceptuelle autour de la documentation citoyenne.
 
 ### A. La dialectique présence/absence comme fondement épistémologique
 
@@ -290,7 +262,7 @@ L'opposition entre effets de présence et effets de signification, théorisée p
 
 **L'origine mélancolique de la discipline.** L'analyse de Winckelmann et du mythe de Dibutade révèle que l'histoire de l'art naît d'une gestion de l'absence - celle des originaux grecs pour Winckelmann, celle de l'amant qui part pour Dibutade. Cette mélancolie constitutive éclaire la nature paradoxale de la documentation citoyenne : elle cherche à conserver ce qui, par essence, relève de l'éphémère et du relationnel.
 
-**L'expérience versus la trace.** Les travaux de Kolbowski sur l'art conceptuel illustrent parfaitement cette tension : les témoignages d'artistes révèlent l'importance de la présence, de la durée et de l'expérience immersive, tout en étant "contaminés" par les débats théoriques ultérieurs. Cette contamination n'est pas un défaut mais révèle la nature composite de toute documentation, mélange indissociable d'expérience vécue et de reconstruction narrative.
+**L'expérience versus la trace.** Les travaux de Kolbowski sur l'art conceptuel illustrent parfaitement cette tension : les témoignages d'artistes révèlent l'importance de la présence, de la durée et de l'expérience immersive, révèlant la nature composite de toute documentation, mélange indissociable d'expérience vécue et de reconstruction narrative.
 
 **L'épiphanie comme résistance à l'archivage.** Les moments d'épiphanie décrits par Gumbrecht - ces instants d'intensité soudains et éphémères - résistent par nature à la documentation traditionnelle. Comment capturer ce qui relève de la "présence sans plénitude" ? Cette question devient centrale pour penser une documentation citoyenne qui ne trahisse pas la spécificité relationnelle de son objet.
 
@@ -306,7 +278,7 @@ La notion d'événement évolue au cours du séminaire, passant d'une conception
 
 ### C. L'enquête comme méthodologie démocratique
 
-L'approche pragmatiste de l'enquête, développée par Caillet, constitue le fil rouge méthodologique du séminaire et offre un cadre théorique pour repenser la documentation citoyenne.
+L'approche pragmatiste de l'enquête, développée par Caillet offre un cadre théorique pour repenser la documentation citoyenne.
 
 **De l'expertise descendante à la co-expertise.** L'enquête pragmatiste repose sur l'idée que chacun est "expert de sa propre expérience". Cette posture transforme radicalement les rapports de pouvoir au sein des institutions muséales : la documentation devient un acte de reconnaissance des savoirs situés plutôt qu'une simple collecte d'informations.
 
@@ -334,7 +306,7 @@ Un élément transversal inattendu émerge du séminaire : la mélancolie comme 
 
 **De la perte à la création.** Comme Dibutade traçant le contour de son amant avant son départ, la documentation citoyenne naît de l'imminence de la perte. Cette conscience de la fragilité devient paradoxalement source de créativité et d'innovation méthodologique.
 
-## IV. Conclusion
+## III. Conclusion
 
 ### Bilan du rapport avec ma thèse
 
@@ -366,7 +338,7 @@ L'analyse rétrospective de mes interventions révèle plusieurs évolutions dan
 
 **Reconnaissance de la subjectivité.** Ma présentation sur l'enquête pragmatiste révèle une acceptation assumée de la subjectivité dans la démarche documentaire. Loin d'être un biais à corriger, cette subjectivité devient une ressource méthodologique qui enrichit la compréhension des objets d'étude.
 
-**Ouverture vers l'interdisciplinarité.** Mes références croissantes aux études théâtrales, à la sociologie pragmatiste et à la philosophie de l'art témoignent d'une ouverture disciplinaire nécessaire pour penser les objets hybrides qui constituent mes terrains de recherche.
+**Ouverture vers l'interdisciplinarité.** Mes références croissantes aux études théâtrales, à la sociologie pragmatiste et à la philosophie de l'art témoignent d'une ouverture disciplinaire nécessaire pour penser les objets hybrides qui constituent mon terrains de recherche.
 
 ### Définitions consolidées de la documentation citoyenne
 
@@ -382,7 +354,7 @@ Au terme de ce parcours, trois acceptions de la documentation citoyenne se déga
 
 Ce séminaire ouvre plusieurs chantiers de recherche qui dépassent le cadre de ma thèse pour interroger plus largement l'avenir des institutions culturelles.
 
-**Développement d'outils méthodologiques spécifiques.** Les protocoles documentaires traditionnels se révèlent inadaptés aux initiatives citoyennes. Il devient urgent de développer des outils qui respectent la nature processuelle, relationnelle et souvent conflictuelle de ces démarches. Cette innovation méthodologique pourrait s'inspirer des approches développées en anthropologie visuelle, en recherche-action ou en enquête collaborative.
+**Développement d'outils méthodologiques spécifiques.** Les protocoles documentaires traditionnels se révèlent inadaptés aux initiatives citoyennes.Cela implique de développer des outils qui respectent la nature processuelle, relationnelle et souvent conflictuelle de ces démarches. Cette innovation méthodologique pourrait s'inspirer des approches développées en anthropologie visuelle, en recherche-action ou en enquête collaborative.
 
 **Exploration des "espaces imaginaires" comme lieux d'existence.** Mes interventions révèlent une intuition récurrente sur l'existence d'espaces imaginaires qui échappent à la documentation traditionnelle mais constituent des lieux d'expérience et de mémoire légitimes. Cette piste mériterait d'être approfondie, notamment en dialogue avec les travaux sur l'archive vivante et la mémoire incorporée.
 

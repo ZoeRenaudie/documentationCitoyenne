@@ -1,12 +1,12 @@
 ---
-title: "Fraser & Prioul, Performance et exposition"
+title: "L’événement sur le terrain de la performance et de l’exposition (Fraser – Prioul)"
 date : 2025-05-29
 format:
   html:
     page-layout: article
 ---
 
-# 29 mai - Fraser & Prioul, Performance et exposition
+# 29 mai - L’événement sur le terrain de la performance et de l’exposition (Fraser – Prioul)
 
 ## Notion d'événement
 

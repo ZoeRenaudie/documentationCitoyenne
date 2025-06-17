@@ -1,12 +1,12 @@
 ---
-title: "Ward & Payant, La perte"
+title: "La perte : notion constitutive de l’histoire de l’art (et de l’art?). Notes sur la performance"
 date : 2025-05-15
 format:
   html:
     page-layout: article
 ---
 
-# 15 mai - Ward & Payant, La perte
+# 15 mai - La perte : notion constitutive de l’histoire de l’art (et de l’art?). Notes sur la performance
 
 Regarder des textes qui se posent à l'origine d'un discours sur un objet, aujourd'hui consacré. 
 

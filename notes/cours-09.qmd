@@ -1,5 +1,5 @@
 ---
-title: "Méthode : l’enquête."
+title: "Méthode : l’enquête (Caillet)"
 date : 2025-06-03
 format:
   html:
@@ -7,7 +7,7 @@ format:
     
 ---
 
-# 3 juin - Méthode de l’enquête
+# 3 juin - Méthode de l’enquête (Caillet)
 
 **Présentation de Zoë. Enquête et démocratie. Le modèle pragmatiste**
 

@@ -15,40 +15,32 @@ website:
       - text: Notes
         menu:
           - text: Plan de cours
-            href: notes/plan-de-cours.qmd
-          - text: Définition évènement
-            href: notes/definition-evt.qmd
-          - text: Définition documentation
-            href: notes/definition-docu.qmd           
-          - text: Co-construction 
+            href: notes/plan-de-cours.qmd     
+          - text: 01 - Co-construction 
             href: notes/cours-01.qmd
-          - text: "L’œuvre modèle : essai de genèse curatoriale"
+          - text: 02 - "L’œuvre modèle - essai de genèse curatoriale"
             href: notes/cours-02.qmd
-          - text: Koblowski, Témoin et expérience
+          - text: 03 - "Koblowski - histoire orale, documentation, lacunes"
             href: notes/cours-03.qmd
-          - text: Ward et Payant
+          - text: 04 - "La perte - notion constitutive de l’histoire de l’art (et de l’art?)"
             href: notes/cours-04.qmd
-          - text: Gümbrecht
+          - text: 05 - La production de présence de Gümbrecht. Présence vs signification. 
             href: notes/cours-05.qmd
-          - text: Winckelmann et Dibutades
+          - text: 06 - "Épiphanies et présentification - le passage par l’éphémère.""
             href: notes/cours-06.qmd
-          - text: Dosse
+          - text: 07 - "L’événement - évolution sémantique et migration épistémologique"
             href: notes/cours-07.qmd
-          - text: Fraser et Prioul
+          - text: 08 - "L’événement sur le terrain de la performance et de l’exposition"
             href: notes/cours-08.qmd    
-          - text: Caillet, L'enquête pragmatiste
+          - text: 09 - "Méthode - l’enquête"
             href: notes/cours-09.qmd    
-          - text: Simon et Bishop
+          - text: 10 - La participation et la documentation
             href: notes/cours-10.qmd          
-          - text: Hölling et Gusman
+          - text: 11 - Performance (Hölling et Gusman)
             href: notes/cours-11.qmd            
-          - text: Documentation citoyenne
+          - text: 12 - Documentation citoyenne
             href: notes/cours-12.qmd 
-          - text: Display et bilan
+          - text: 13 - Display et bilan
             href: notes/cours-13.qmd                                                    
-          - text: Lecture
-            href: notes/lectures-01.qmd
-          - text: Lecture
-            href: notes/lecture-02.qmd
           - text: Bibliographie
             href: notes/biblio.qmd

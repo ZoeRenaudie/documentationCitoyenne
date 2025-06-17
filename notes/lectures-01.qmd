@@ -1,3 +1,50 @@
+##### La question de la présence
+
+La discussion sur René Payant et Hans Ulrich Gumbrecht ouvre une piste théorique essentielle. Si l'exposition traditionnelle fonctionne comme "acte de signification" (Davallon), les initiatives citoyennes semblent plutôt relever des "effets de présence" - cette dimension phénoménologique qui échappe aux modèles de signification classiques.
+
+Comment alors documenter ce qui relève de la présence dans un monde numérique dominé par la reproduction et la circulation des signes ? Cette question devient centrale pour penser une documentation citoyenne qui ne trahisse pas la spécificité de son objet.
+
+
+
+
+##### Contextualisation méthodologique
+
+Séance consacrée à l'examen de textes fondateurs qui se positionnent à l'origine d'un discours sur des objets aujourd'hui consacrés. Distinction fondamentale entre deux traditions disciplinaires :
+
+- Ward : tradition historique documentaire
+- Payant : tradition critique d'art
+
+##### Martha Ward - Vers une histoire des expositions
+
+Ward s'inscrit dans une volonté de contribuer aux balbutiements de l'histoire des expositions en France. Sa démarche révèle un paradoxe historiographique : elle prétend combler un vide (absence de savoir professionnel 1750-1914) tout en s'appuyant sur des exemples qui contredisent cette assertion.
+
+Contre-exemples à sa thèse
+
+- Diderot critique d'art : commente systématiquement les intentions de display de Chardin
+- Chardin "le tapissier" : pratique d'accrochage sophistiquée favorisant les comparaisons
+- Alexandre Lenoir (Musée des monuments français) : concept de "salles d'atmosphère" - proto-immersion
+- Alexandre Du Sommerard : Chambre de François 1er à Cluny, première reconstitution historique assumée
+
+##### Réserves critiques
+
+- Discours de la présence : critique de l'ontologie de la présence
+- Documentation exhaustive : privilège donné aux artistes qui documentent vs ceux qui ne documentent pas
+- Fétichisme de la photographie : rapport problématique à l'image comme trace
+
+##### Enjeux épistémologiques
+
+- Statut du témoin : Ward privilégie les traces documentaires, Payant l'expérience subjective, Jones l'expérience médiatisée
+- Temporalité : Tous trois interrogent le rapport présent/passé dans la constitution du savoir
+- Légitimité disciplinaire : Chacun défend un territoire épistémologique spécifique
+
+
+
+
+
+
+
+
+
 #### **1. La performance : une présence toujours médiatisée**
 
 Dans son texte « *“Presence” in Absentia* » (1997), Amelia Jones déconstruit l’idée selon laquelle l’expérience directe d’une performance serait plus authentique que sa réception différée à travers des documents. S’appuyant sur les théories de Derrida et de Phelan, elle affirme que la présence de l’artiste dans la performance ne garantit pas une transmission immédiate du moi ou du corps. Au contraire, le corps y apparaît comme "perte", "supplément", révélant l’impossibilité d’une expérience non médiatisée. En ce sens, la documentation – photographies, vidéos, textes – devient une modalité d’expérience valide, en tant qu’elle est elle aussi intersubjective et performative.

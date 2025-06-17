@@ -94,4 +94,3 @@ Une exposition serait composées d'évènements, bien qu'usuellement une exposit
 
 ## Ma définition après le séminaire
 
-Il existe différemts types d'événements. 

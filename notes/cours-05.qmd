@@ -1,11 +1,12 @@
-title: "Gumbrecht, Production de présence"
+---
+title: "La production de présence de Gümbrecht. Présence vs signification."
 date : 2025-05-20
 format:
   html:
     page-layout: article
 ---
 
-# 20 mai - Gumbrecht, Production de présence
+# 20 mai - La production de présence de Gümbrecht. Présence vs signification.
 
 **Organisation de la session :**
 - Cette semaine : absence/présence
