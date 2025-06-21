@@ -3,6 +3,7 @@ project:
   output-dir: docs
 format:
   html:
+    toc: true
     theme: cosmo
     css: styles.css
 
