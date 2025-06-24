@@ -148,6 +148,10 @@ Nous l'avons vu, de Winckelmann travaillant sur des copies d'œuvres disparues a
 **La documentation comme travail de deuil.** 
 :::
 
+>"Ce qui est ferme est par le temps détruit, 
+Et ce qui fuit au temps fait résistance."
+Joachim du Bellay, *Les Antiquités de Rome*, 1558
+
 Les initiatives citoyennes, par leur nature éphémère et relationnelle, imposent un travail de deuil permanent. Documenter devient alors un geste de reconnaissance et de transmission qui assume pleinement ses limites et ses lacunes.
 
 ::: {layout="[-4,1,-4]" layout-align="center"}
